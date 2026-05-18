@@ -1,0 +1,1501 @@
+User ID,Signup Date,Age,Gender,Country,signup_channel,Tier at Signup
+U00001,2023-01-28,58,F,US,organic,standard
+U00002,03/31/2022,36,F,AU,organic,basic
+U00003,2024-07-21,59,F,AU,partner,basic
+U00004,2023-05-13,48,M,DE,paid_search,basic
+U00005,2023-05-14,37,F,US,paid_social,basic
+U00006,03/22/2024,53,M,US,paid_social,basic
+U00007,12/21/2023,42,M,US,paid_social,basic
+U00008,2023-07-26,40,M,US,organic,standard
+U00009,"Sep 19, 2022",22,M,UK,referral,standard
+U00010,2023-03-20,56,M,US,partner,basic
+U00011,2024-07-16,48,M,IN,partner,basic
+U00012,2024-01-24,37,M,UK,paid_social,basic
+U00013,07/08/2023,46,M,FR,organic,premium
+U00014,2022-01-31,22,F,US,organic,premium
+U00015,2024-01-11,35,M,FR,organic,standard
+U00016,2023-08-14,21,F,DE,organic,standard
+U00017,2022-09-28,57,NB,US,paid_social,standard
+U00018,2024-04-24,17,F,DE,paid_social,premium
+U00019,2023-08-20,41,F,IN,paid_search,standard
+U00020,2022-03-23,22,M,UK,referral,standard
+U00021,03-01-2023,37,M,US,paid_social,premium
+U00022,12/16/2023,50,NB,US,referral,standard
+U00023,2022-04-07,63,Prefer not to say,DE,organic,basic
+U00024,2023-12-09,40,M,US,paid_search,premium
+U00025,04-07-2022,51,F,IN,paid_social,premium
+U00026,07/16/2024,30,M,DE,organic,standard
+U00027,"Jan 23, 2023",49,F,DE,referral,premium
+U00028,2023-04-29,26,M,US,organic,basic
+U00029,"Oct 07, 2022",40,M,UK,paid_social,standard
+U00030,2024-06-30,28,F,AU,paid_search,standard
+U00031,08/30/2022,42,M,FR,organic,premium
+U00032,02-08-2024,34,M,UK,organic,standard
+U00033,2023-07-30,22,F,US,organic,premium
+U00034,06/30/2024,24,M,US,organic,basic
+U00035,2022-06-21,32,M,US,paid_search,standard
+U00036,"Jun 08, 2024",37,M,FR,organic,basic
+U00037,2023-05-30,22,M,US,paid_search,basic
+U00038,2022-10-25,51,F,US,paid_search,standard
+U00039,2023-09-28,62,M,US,organic,standard
+U00040,2024-01-25,53,F,IN,referral,basic
+U00041,"Apr 05, 2024",31,NB,IN,paid_social,standard
+U00042,2023-09-06,29,M,AU,organic,standard
+U00043,2022-03-23,20,M,UK,organic,standard
+U00044,2024-11-13,20,F,US,paid_search,premium
+U00045,2022-12-28,32,NB,US,organic,basic
+U00046,"Dec 14, 2023",47,M,UK,paid_social,basic
+U00047,2022-11-13,24,Prefer not to say,IN,paid_search,standard
+U00048,2023-11-10,22,M,US,paid_search,premium
+U00049,12/05/2023,32,M,AU,referral,basic
+U00050,2022-06-24,42,F,CA,paid_search,premium
+U00051,06/19/2023,38,F,US,referral,basic
+U00052,2023-06-04,29,M,US,paid_search,premium
+U00053,2022-08-20,17,M,MX,paid_search,premium
+U00054,2024-06-19,41,F,UK,paid_social,standard
+U00055,2024-11-21,38,F,BR,paid_social,basic
+U00056,2024-08-31,38,M,US,referral,basic
+U00057,03/13/2023,23,M,US,organic,premium
+U00058,2023-02-17,24,M,IN,referral,standard
+U00059,24-01-2022,40,M,US,paid_social,premium
+U00060,2024-09-28,67,F,AU,organic,basic
+U00061,"May 12, 2023",61,F,US,paid_social,premium
+U00062,2022-08-21,52,M,UK,organic,basic
+U00063,2024-02-19,33,M,CA,organic,premium
+U00064,2023-07-05,41,NB,US,organic,premium
+U00065,2022-03-14,50,F,AU,paid_search,standard
+U00066,2022-11-21,37,M,UK,organic,premium
+U00067,2023-09-30,30,M,CA,organic,basic
+U00068,2024-08-15,47,F,UK,partner,basic
+U00069,05/25/2023,30,M,JP,organic,basic
+U00070,07/13/2023,38,F,US,partner,basic
+U00071,2022-03-11,33,NB,MX,organic,basic
+U00072,2022-07-22,35,F,US,referral,standard
+U00073,"Dec 01, 2023",51,M,UK,paid_search,basic
+U00074,2024-04-11,30,F,DE,paid_search,standard
+U00075,2023-04-26,31,Prefer not to say,US,organic,premium
+U00076,04/09/2024,37,F,CA,organic,basic
+U00077,2023-11-29,22,F,US,partner,premium
+U00078,2023-12-25,46,Prefer not to say,US,referral,basic
+U00079,2022-12-25,64,F,US,organic,basic
+U00080,2022-02-11,26,F,US,organic,premium
+U00081,27-04-2022,51,Prefer not to say,AU,organic,standard
+U00082,11/30/2023,50,M,US,organic,standard
+U00083,2023-10-21,23,F,FR,paid_search,standard
+U00084,23-11-2023,40,F,MX,referral,basic
+U00085,2024-03-29,42,F,UK,organic,premium
+U00086,2023-10-04,13,F,AU,paid_search,basic
+U00087,04-07-2022,25,F,US,organic,premium
+U00088,2022-11-11,59,M,AU,organic,standard
+U00089,2023-09-26,21,M,CA,paid_search,premium
+U00090,2024-12-20,21,NB,US,organic,basic
+U00091,04/13/2023,39,F,JP,partner,standard
+U00092,2024-10-24,19,F,FR,organic,premium
+U00093,2022-11-28,61,M,US,paid_search,premium
+U00094,03/13/2023,44,M,US,referral,basic
+U00095,02/01/2022,41,F,AU,paid_social,standard
+U00096,2024-02-10,22,F,IN,partner,premium
+U00097,2024-06-07,23,F,US,organic,standard
+U00098,"Oct 18, 2024",27,F,CA,organic,premium
+U00099,2023-09-07,53,F,US,paid_social,standard
+U00100,16-07-2024,32,F,US,referral,premium
+U00101,18-06-2024,61,F,MX,partner,premium
+U00102,2022-08-17,26,F,IN,organic,standard
+U00103,2024-08-09,28,M,US,organic,premium
+U00104,2023-11-19,58,Prefer not to say,US,organic,premium
+U00105,"Apr 20, 2023",49,M,DE,paid_search,basic
+U00106,05/13/2022,57,M,US,paid_social,basic
+U00107,"Oct 30, 2022",44,M,CA,partner,basic
+U00108,2022-06-08,58,F,US,partner,premium
+U00109,"Jun 26, 2023",47,F,IN,organic,standard
+U00110,"Jan 13, 2024",250,F,US,organic,premium
+U00111,2023-07-05,21,F,US,paid_social,premium
+U00112,"Feb 29, 2024",46,M,BR,referral,standard
+U00113,12-02-2024,13,Prefer not to say,BR,paid_search,basic
+U00114,2022-03-10,37,NB,US,paid_search,basic
+U00115,2022-01-02,29,M,AU,paid_social,basic
+U00116,02/18/2024,35,F,AU,paid_search,basic
+U00117,10/22/2023,40,F,BR,paid_search,premium
+U00118,22-06-2023,54,NB,UK,paid_search,premium
+U00119,18-12-2024,38,F,US,organic,basic
+U00120,09-11-2022,43,M,UK,paid_search,standard
+U00121,2024-02-20,56,F,MX,paid_social,basic
+U00122,"Feb 08, 2024",46,F,US,referral,premium
+U00123,"Jul 02, 2024",46,M,UK,paid_social,standard
+U00124,"Nov 03, 2022",52,F,US,paid_social,premium
+U00125,2023-06-02,20,F,US,paid_search,basic
+U00126,2023-07-17,22,NB,US,organic,standard
+U00127,09/20/2022,33,F,BR,paid_search,basic
+U00128,2024-06-25,24,F,US,referral,premium
+U00129,"May 04, 2023",31,F,CA,partner,basic
+U00130,2024-02-02,50,F,US,referral,basic
+U00131,2022-02-22,29,F,CA,partner,standard
+U00132,2024-08-27,44,F,US,paid_social,basic
+U00133,2023-02-15,53,F,US,paid_search,premium
+U00134,30-07-2024,48,F,US,organic,premium
+U00135,2024-07-19,31,F,DE,paid_search,standard
+U00136,05-05-2024,28,M,US,paid_social,basic
+U00137,2022-01-13,35,F,CA,paid_social,basic
+U00138,2023-09-04,43,M,UK,paid_social,basic
+U00139,2023-06-11,50,F,US,organic,standard
+U00140,"Sep 28, 2024",42,M,US,partner,basic
+U00141,10/06/2023,34,F,US,partner,standard
+U00142,2023-03-26,16,M,US,paid_search,premium
+U00143,30-06-2024,15,F,US,organic,standard
+U00144,08-10-2022,27,M,US,paid_search,standard
+U00145,10/17/2024,40,F,DE,paid_search,standard
+U00146,2022-11-22,31,F,IN,organic,basic
+U00147,29-04-2024,26,F,BR,paid_search,standard
+U00148,2022-04-27,14,NB,US,organic,basic
+U00149,2022-11-12,58,F,US,paid_social,premium
+U00150,18-04-2023,43,F,US,paid_social,standard
+U00151,08/09/2024,21,F,US,organic,standard
+U00152,2023-12-22,23,F,IN,partner,premium
+U00153,2024-10-13,35,M,IN,organic,basic
+U00154,2022-07-01,46,F,UK,referral,standard
+U00155,2022-07-26,48,Prefer not to say,US,partner,standard
+U00156,2023-11-14,21,F,UK,organic,standard
+U00157,2024-07-20,28,F,CA,referral,premium
+U00158,"Mar 11, 2022",22,F,CA,paid_social,standard
+U00159,2022-12-02,40,F,DE,organic,basic
+U00160,2024-09-10,34,F,US,organic,basic
+U00161,10/27/2023,23,M,US,paid_social,premium
+U00162,02/09/2023,50,F,CA,partner,premium
+U00163,2022-07-14,42,F,IN,paid_social,premium
+U00164,2023-04-15,36,F,US,referral,premium
+U00165,05-09-2022,34,F,CA,organic,standard
+U00166,2022-05-08,45,M,US,organic,standard
+U00167,2023-09-14,24,F,BR,paid_social,premium
+U00168,2024-04-23,20,M,US,referral,standard
+U00169,"Oct 15, 2022",46,Unknown,IN,paid_search,standard
+U00170,2022-01-06,31,M,UK,paid_social,premium
+U00171,02/12/2023,55,M,US,paid_social,basic
+U00172,"Dec 17, 2023",23,M,BR,paid_social,standard
+U00173,2023-09-13,37,NB,FR,referral,standard
+U00174,2024-06-10,53,F,AU,partner,basic
+U00175,08/26/2022,38,F,FR,referral,premium
+U00176,2023-05-07,41,F,UK,organic,premium
+U00177,2024-03-13,49,M,US,paid_search,standard
+U00178,02/16/2024,23,F,US,paid_search,standard
+U00179,2023-09-17,22,F,UK,organic,basic
+U00180,2024-05-07,39,F,US,organic,premium
+U00181,2022-03-08,19,F,US,organic,premium
+U00182,2023-05-11,44,F,DE,organic,standard
+U00183,2024-01-13,22,F,US,referral,premium
+U00184,2023-09-24,77,M,IN,paid_social,premium
+U00185,2024-12-15,25,F,BR,organic,standard
+U00186,29-05-2023,32,M,DE,partner,standard
+U00187,03-06-2023,45,M,US,paid_search,premium
+U00188,01/12/2024,50,F,DE,paid_search,standard
+U00189,10/07/2024,58,F,JP,organic,premium
+U00190,02/12/2024,43,F,FR,referral,standard
+U00191,"Oct 08, 2022",54,F,IN,organic,premium
+U00192,06-11-2024,56,F,US,paid_search,standard
+U00193,2022-02-22,24,F,JP,paid_search,premium
+U00194,2024-02-19,29,M,JP,paid_social,premium
+U00195,2022-04-09,43,M,US,organic,basic
+U00196,2022-11-29,45,F,CA,paid_search,standard
+U00197,08-01-2024,55,Prefer not to say,US,organic,premium
+U00198,2023-10-20,22,NB,UK,paid_search,standard
+U00199,2022-08-19,41,F,MX,paid_social,standard
+U00200,2023-10-07,27,F,US,paid_social,standard
+U00201,2024-03-13,45,F,IN,paid_social,premium
+U00202,06/16/2023,40,F,US,paid_social,standard
+U00203,2023-05-14,30,M,MX,organic,standard
+U00204,2022-08-16,43,NB,US,organic,premium
+U00205,01-12-2023,54,F,UK,organic,premium
+U00206,2022-10-21,53,M,CA,paid_search,premium
+U00207,2024-04-26,23,F,US,paid_search,standard
+U00208,2023-03-15,41,M,US,referral,standard
+U00209,04-05-2023,54,,MX,referral,premium
+U00210,2024-02-20,57,M,US,paid_search,premium
+U00211,2024-11-08,37,F,US,organic,basic
+U00212,2022-06-11,41,F,DE,organic,standard
+U00213,12-10-2022,52,F,UK,partner,standard
+U00214,08-03-2022,38,F,BR,organic,basic
+U00215,17-04-2023,33,F,BR,organic,standard
+U00216,2022-03-04,54,F,US,referral,premium
+U00217,2022-07-03,45,M,UK,paid_social,standard
+U00218,23-04-2022,22,M,IN,organic,premium
+U00219,18-07-2024,21,Prefer not to say,MX,paid_search,standard
+U00220,2022-08-18,38,F,US,organic,standard
+U00221,2023-02-07,31,M,US,referral,standard
+U00222,2022-02-16,25,N/A,DE,paid_search,basic
+U00223,2023-06-25,33,M,AU,paid_search,standard
+U00224,04-08-2022,39,F,US,paid_social,standard
+U00225,07-08-2022,44,M,US,referral,premium
+U00226,23-11-2023,24,M,UK,referral,standard
+U00227,2023-03-05,18,F,DE,partner,standard
+U00228,28-11-2024,21,F,FR,paid_social,premium
+U00229,"Mar 15, 2023",48,M,CA,organic,premium
+U00230,2022-06-26,56,M,US,referral,basic
+U00231,2024-08-03,20,M,AU,organic,standard
+U00232,2024-02-23,66,M,US,referral,standard
+U00233,19-06-2024,17,M,CA,paid_search,standard
+U00234,2023-05-07,19,M,UK,referral,premium
+U00235,2023-05-04,19,M,MX,organic,premium
+U00236,2023-04-05,48,M,FR,organic,standard
+U00237,2022-04-10,55,F,IN,partner,standard
+U00238,2024-04-27,22,F,US,organic,premium
+U00239,2023-01-18,31,F,CA,paid_search,standard
+U00240,2024-02-21,35,NB,US,referral,standard
+U00241,08-06-2022,36,M,DE,paid_search,premium
+U00242,03/04/2023,37,F,BR,referral,basic
+U00243,2024-05-28,21,Prefer not to say,AU,organic,premium
+U00244,06/29/2022,32,M,BR,referral,basic
+U00245,2022-10-30,32,M,CA,organic,basic
+U00246,2022-03-31,32,F,DE,paid_search,premium
+U00247,"Mar 08, 2023",26,NB,FR,referral,premium
+U00248,2022-03-04,54,M,US,partner,premium
+U00249,2023-06-08,20,M,US,organic,standard
+U00250,2022-07-13,32,F,US,partner,standard
+U00251,2023-10-30,26,F,US,paid_social,basic
+U00252,2024-01-01,18,NB,US,referral,premium
+U00253,2022-08-03,58,F,BR,paid_social,basic
+U00254,09/07/2022,18,Prefer not to say,US,paid_social,premium
+U00255,2024-11-28,47,M,IN,organic,basic
+U00256,2022-01-28,22,M,UK,organic,premium
+U00257,"Aug 06, 2023",33,M,US,organic,basic
+U00258,2023-03-05,34,M,AU,paid_search,standard
+U00259,2024-03-12,25,F,US,organic,basic
+U00260,19-10-2022,39,M,DE,paid_search,basic
+U00261,2022-07-24,63,F,US,paid_search,basic
+U00262,2022-07-14,50,M,UK,organic,basic
+U00263,03/04/2023,39,M,DE,organic,basic
+U00264,03-07-2022,21,F,DE,paid_search,premium
+U00265,2022-04-28,25,F,DE,paid_search,standard
+U00266,2022-01-31,25,F,IN,partner,standard
+U00267,2023-05-31,42,F,US,paid_search,standard
+U00268,12/06/2022,62,F,US,referral,basic
+U00269,2024-01-19,24,F,MX,organic,basic
+U00270,2024-02-12,28,M,US,organic,standard
+U00271,07/11/2022,16,F,UK,partner,premium
+U00272,05-05-2022,41,F,US,paid_social,basic
+U00273,2023-04-01,51,M,US,paid_search,premium
+U00274,10-02-2024,53,F,IN,paid_social,basic
+U00275,06/20/2022,26,M,UK,partner,premium
+U00276,2024-07-16,21,M,US,organic,premium
+U00277,2023-06-11,22,F,US,paid_search,premium
+U00278,21-08-2024,18,M,US,paid_search,premium
+U00279,2024-03-04,44,M,IN,paid_search,standard
+U00280,2023-01-08,45,M,US,paid_social,standard
+U00281,2022-10-15,42,M,US,organic,basic
+U00282,21-02-2022,20,M,US,partner,standard
+U00283,2024-10-04,13,M,US,partner,basic
+U00284,2023-09-27,36,Prefer not to say,UK,organic,premium
+U00285,2022-02-17,30,M,FR,organic,standard
+U00286,13-06-2023,26,M,UK,paid_social,standard
+U00287,02-05-2024,20,F,US,paid_social,premium
+U00288,2022-04-27,52,F,UK,organic,standard
+U00289,04/02/2023,47,M,IN,organic,premium
+U00290,2022-04-16,0,F,BR,partner,premium
+U00291,2022-10-11,24,F,CA,referral,premium
+U00292,11/16/2024,31,M,UK,paid_social,basic
+U00293,2023-01-30,29,F,CA,organic,basic
+U00294,06/08/2023,62,M,UK,partner,basic
+U00295,2024-08-24,47,F,US,partner,premium
+U00296,2023-01-05,34,M,US,partner,premium
+U00297,2024-04-01,30,Prefer not to say,MX,organic,premium
+U00298,09-10-2024,35,M,US,organic,basic
+U00299,2024-04-11,26,M,AU,paid_social,standard
+U00300,2023-12-30,39,F,FR,organic,standard
+U00301,"Mar 17, 2024",30,F,IN,referral,standard
+U00302,2023-05-25,22,M,IN,organic,standard
+U00303,2024-07-20,37,M,MX,paid_search,basic
+U00304,"Dec 31, 2024",33,F,CA,organic,premium
+U00305,2022-12-22,53,F,US,paid_search,premium
+U00306,2022-08-22,25,F,US,organic,standard
+U00307,2024-09-07,21,M,US,partner,standard
+U00308,"May 10, 2022",27,M,DE,organic,premium
+U00309,2023-01-21,42,M,JP,referral,premium
+U00310,2024-05-15,55,F,DE,organic,premium
+U00311,2023-01-27,56,M,UK,paid_social,premium
+U00312,24-08-2024,45,M,US,organic,standard
+U00313,14-06-2023,21,M,CA,organic,basic
+U00314,"Feb 18, 2022",21,F,US,paid_search,premium
+U00315,"Sep 30, 2023",43,Prefer not to say,MX,organic,basic
+U00316,11/26/2023,34,M,DE,partner,standard
+U00317,24-04-2022,31,M,US,organic,basic
+U00318,12/25/2022,31,NB,MX,paid_social,standard
+U00319,14-01-2024,17,M,UK,organic,basic
+U00320,2024-03-03,37,F,US,referral,basic
+U00321,2024-05-06,52,M,US,paid_social,premium
+U00322,2022-04-15,38,F,UK,paid_search,basic
+U00323,09/22/2022,34,F,DE,organic,premium
+U00324,11/29/2023,52,F,US,paid_social,basic
+U00325,2022-10-04,62,M,DE,organic,standard
+U00326,04/12/2024,40,F,US,referral,basic
+U00327,"Aug 28, 2022",43,F,IN,partner,standard
+U00328,2023-04-09,43,Prefer not to say,AU,organic,basic
+U00329,02/01/2023,47,NB,UK,referral,premium
+U00330,26-02-2022,43,F,UK,partner,standard
+U00331,2023-12-01,52,M,DE,organic,basic
+U00332,12/06/2023,26,F,FR,paid_search,premium
+U00333,2023-06-29,46,NB,US,paid_search,basic
+U00334,2023-04-11,32,F,DE,referral,premium
+U00335,17-04-2022,53,Prefer not to say,DE,referral,standard
+U00336,10/30/2023,19,F,BR,organic,premium
+U00337,2022-12-20,41,M,MX,organic,premium
+U00338,09-04-2022,41,M,BR,partner,premium
+U00339,2023-03-15,21,M,US,organic,basic
+U00340,22-02-2022,58,F,US,organic,standard
+U00341,2024-09-03,19,Prefer not to say,US,paid_search,premium
+U00342,2023-12-08,40,M,US,referral,standard
+U00343,2024-11-27,15,F,UK,organic,premium
+U00344,2023-03-03,19,F,US,partner,premium
+U00345,2024-06-04,25,F,US,partner,standard
+U00346,2024-11-21,23,M,US,organic,premium
+U00347,2024-06-06,51,F,AU,organic,premium
+U00348,2023-11-05,58,M,JP,paid_social,standard
+U00349,2024-02-14,28,Prefer not to say,CA,referral,standard
+U00350,20-08-2022,46,M,US,partner,basic
+U00351,2023-03-17,13,M,IN,paid_search,standard
+U00352,04-03-2022,37,F,AU,organic,basic
+U00353,2022-07-09,26,M,BR,partner,basic
+U00354,2023-06-08,47,F,BR,organic,premium
+U00355,"Aug 13, 2022",69,M,DE,paid_search,basic
+U00356,2024-11-12,46,F,IN,paid_social,standard
+U00357,19-10-2022,26,F,US,organic,premium
+U00358,18-05-2023,23,Prefer not to say,US,referral,basic
+U00359,2024-07-01,32,F,US,organic,basic
+U00360,2024-09-09,30,M,FR,paid_search,standard
+U00361,2024-11-08,18,F,US,organic,premium
+U00362,2024-04-06,53,F,FR,organic,standard
+U00363,2022-01-14,42,F,FR,paid_social,premium
+U00364,"Apr 02, 2024",40,Prefer not to say,AU,organic,premium
+U00365,01/20/2024,60,M,US,organic,premium
+U00366,"Nov 17, 2022",24,M,UK,organic,standard
+U00367,2023-10-24,55,M,UK,organic,basic
+U00368,2024-12-25,22,M,US,partner,standard
+U00369,18-06-2023,19,F,BR,organic,premium
+U00370,2022-01-25,29,F,US,referral,basic
+U00371,2022-05-02,44,M,US,organic,basic
+U00372,07-09-2022,38,M,DE,partner,premium
+U00373,11/01/2022,41,F,US,paid_search,standard
+U00374,2022-07-10,35,M,DE,organic,basic
+U00375,2022-03-21,43,F,DE,paid_search,basic
+U00376,2023-01-06,25,F,US,partner,standard
+U00377,2024-04-17,26,F,US,partner,premium
+U00378,2022-12-25,42,F,MX,referral,premium
+U00379,2022-03-10,24,M,CA,referral,basic
+U00380,2022-02-17,42,M,US,paid_social,premium
+U00381,"Oct 19, 2022",64,M,DE,organic,standard
+U00382,2024-11-20,31,NB,BR,paid_social,standard
+U00383,2023-11-15,18,Prefer not to say,IN,partner,premium
+U00384,02/11/2024,48,F,JP,organic,standard
+U00385,2023-10-31,51,F,FR,organic,standard
+U00386,09/27/2024,24,Prefer not to say,BR,partner,standard
+U00387,19-06-2022,56,M,MX,paid_search,premium
+U00388,2022-06-28,57,M,US,paid_social,standard
+U00389,2023-06-10,18,F,UK,paid_social,basic
+U00390,2023-09-05,54,F,DE,organic,premium
+U00391,2024-05-23,84,M,DE,paid_search,basic
+U00392,2023-10-13,25,F,IN,paid_social,basic
+U00393,2022-04-20,55,M,MX,paid_search,premium
+U00394,2024-02-11,49,M,US,paid_social,basic
+U00395,2022-03-12,31,F,AU,referral,basic
+U00396,2023-01-15,28,Prefer not to say,AU,referral,premium
+U00397,2023-04-02,47,M,FR,organic,premium
+U00398,11-09-2023,26,Prefer not to say,FR,paid_search,premium
+U00399,2024-08-19,51,M,DE,paid_search,basic
+U00400,21-12-2024,250,Prefer not to say,IN,organic,standard
+U00401,08-10-2022,32,M,UK,partner,standard
+U00402,"Oct 15, 2024",25,M,CA,organic,premium
+U00403,2022-10-15,65,M,US,organic,standard
+U00404,02/28/2022,20,F,UK,partner,standard
+U00405,2024-01-13,42,M,IN,organic,premium
+U00406,2022-12-25,14,F,AU,organic,premium
+U00407,2022-01-21,25,F,US,paid_social,premium
+U00408,2023-05-01,47,M,DE,partner,premium
+U00409,"Apr 11, 2022",37,Prefer not to say,US,organic,standard
+U00410,2024-11-21,37,F,MX,paid_search,standard
+U00411,04/05/2023,24,F,IN,organic,premium
+U00412,10/25/2023,44,M,US,partner,basic
+U00413,2023-07-08,34,M,UK,referral,basic
+U00414,04/22/2022,19,Prefer not to say,AU,paid_search,standard
+U00415,2024-01-28,40,F,US,organic,standard
+U00416,2022-09-13,35,F,UK,paid_search,standard
+U00417,2022-04-29,36,F,US,partner,basic
+U00418,2024-01-02,54,F,US,paid_social,basic
+U00419,2022-04-11,38,M,UK,partner,standard
+U00420,2022-05-23,250,F,FR,referral,standard
+U00421,"Jul 04, 2024",24,F,US,organic,standard
+U00422,17-11-2024,51,F,US,organic,basic
+U00423,30-04-2022,45,F,US,organic,premium
+U00424,01/27/2023,44,M,US,paid_search,premium
+U00425,2022-01-08,56,M,DE,organic,basic
+U00426,2023-08-13,49,Prefer not to say,US,organic,standard
+U00427,2024-06-01,17,F,US,organic,standard
+U00428,2022-07-24,28,F,DE,organic,basic
+U00429,2022-05-10,45,NB,BR,paid_social,basic
+U00430,18-09-2022,33,M,US,organic,premium
+U00431,06/03/2022,51,F,US,organic,premium
+U00432,2023-12-14,34,F,BR,paid_social,premium
+U00433,09/28/2022,21,F,DE,referral,premium
+U00434,2023-06-18,25,M,US,paid_social,premium
+U00435,09/19/2023,28,Prefer not to say,US,partner,premium
+U00436,2024-06-24,57,Prefer not to say,AU,partner,basic
+U00437,11/22/2023,18,F,US,paid_search,premium
+U00438,2024-10-26,36,F,US,paid_social,standard
+U00439,"Jul 02, 2024",23,M,UK,organic,premium
+U00440,2024-02-08,42,M,US,referral,basic
+U00441,2024-07-14,20,M,DE,paid_social,basic
+U00442,2023-03-01,51,M,JP,paid_social,standard
+U00443,"May 05, 2022",23,F,UK,paid_social,premium
+U00444,2023-09-18,56,M,US,organic,basic
+U00445,27-01-2024,47,F,MX,organic,standard
+U00446,05/10/2024,26,M,UK,paid_social,basic
+U00447,2023-07-30,57,F,DE,organic,basic
+U00448,21-04-2022,26,F,US,referral,standard
+U00449,"Mar 25, 2024",28,Prefer not to say,JP,partner,standard
+U00450,2022-01-23,20,M,US,organic,standard
+U00451,2023-04-20,23,F,US,referral,premium
+U00452,"Oct 22, 2023",20,F,CA,paid_social,premium
+U00453,06/21/2024,20,F,UK,paid_social,premium
+U00454,2024-03-29,24,F,BR,organic,premium
+U00455,09/15/2023,55,F,FR,paid_social,premium
+U00456,02/18/2024,26,M,CA,organic,premium
+U00457,2022-08-03,43,Prefer not to say,FR,paid_search,premium
+U00458,2023-09-29,53,M,US,organic,basic
+U00459,2024-11-05,20,M,IN,organic,standard
+U00460,2022-07-25,54,M,UK,paid_social,premium
+U00461,"Nov 19, 2023",27,M,CA,organic,premium
+U00462,2024-01-27,0,M,US,partner,standard
+U00463,2022-11-27,22,F,IN,paid_social,standard
+U00464,2023-02-09,21,M,UK,paid_social,standard
+U00465,02/07/2024,33,M,US,paid_social,premium
+U00466,04/02/2024,43,M,UK,paid_social,basic
+U00467,2023-06-14,19,M,UK,paid_search,premium
+U00468,"Oct 06, 2023",25,F,CA,paid_search,standard
+U00469,2023-02-16,23,M,AU,referral,premium
+U00470,2024-06-25,28,M,US,organic,premium
+U00471,2022-05-02,32,M,US,paid_search,basic
+U00472,2024-11-14,53,M,US,referral,basic
+U00473,2023-04-16,46,F,BR,paid_search,premium
+U00474,20-02-2023,54,F,AU,paid_search,basic
+U00475,09/05/2022,39,F,DE,paid_search,basic
+U00476,2022-06-28,47,M,JP,paid_social,premium
+U00477,2023-08-10,32,F,US,partner,premium
+U00478,2022-10-21,29,F,CA,paid_social,standard
+U00479,2023-07-09,53,M,BR,organic,premium
+U00480,04/04/2023,35,F,UK,referral,basic
+U00481,01/02/2024,24,F,US,paid_social,premium
+U00482,2022-11-17,0,M,US,partner,basic
+U00483,05/25/2023,39,F,BR,organic,basic
+U00484,2024-09-14,31,F,CA,referral,basic
+U00485,10-10-2022,52,M,AU,paid_search,standard
+U00486,2023-08-22,43,M,US,partner,premium
+U00487,06/13/2024,45,F,US,paid_social,basic
+U00488,29-03-2023,17,M,UK,organic,basic
+U00489,01/31/2023,50,F,UK,referral,standard
+U00490,13-02-2023,50,F,MX,paid_search,basic
+U00491,2023-04-13,55,NB,US,organic,basic
+U00492,19-11-2022,29,M,US,paid_search,premium
+U00493,04/14/2022,29,F,US,organic,premium
+U00494,2023-01-09,15,F,US,paid_social,standard
+U00495,"Apr 03, 2023",47,M,US,paid_search,premium
+U00496,2022-02-17,33,Prefer not to say,US,organic,standard
+U00497,2023-10-02,47,F,AU,referral,standard
+U00498,2024-12-23,33,M,UK,organic,basic
+U00499,"Mar 18, 2023",43,M,CA,organic,basic
+U00500,2022-06-13,62,M,MX,paid_social,basic
+U00501,30-01-2023,21,M,US,organic,premium
+U00502,2023-02-23,48,F,US,organic,premium
+U00503,04/20/2023,35,F,US,paid_search,basic
+U00504,2023-09-19,38,M,DE,organic,standard
+U00505,01/26/2024,46,M,AU,paid_search,standard
+U00506,2022-08-30,54,M,US,partner,basic
+U00507,2023-10-21,41,M,DE,paid_social,basic
+U00508,2022-08-13,64,M,DE,organic,premium
+U00509,01/11/2024,18,F,UK,paid_social,premium
+U00510,2023-05-03,62,F,US,organic,standard
+U00511,2024-06-19,43,M,US,partner,basic
+U00512,02/09/2022,16,M,US,referral,basic
+U00513,2022-07-05,16,M,AU,organic,standard
+U00514,06/22/2024,54,F,US,referral,basic
+U00515,2024-04-16,63,F,US,organic,premium
+U00516,2023-03-17,51,M,DE,organic,basic
+U00517,29-10-2023,20,F,US,paid_search,basic
+U00518,2024-10-12,50,F,US,organic,premium
+U00519,16-11-2024,22,F,JP,referral,premium
+U00520,2023-06-11,61,NB,BR,referral,basic
+U00521,01-02-2022,50,Unknown,MX,organic,basic
+U00522,02-02-2023,51,F,US,paid_search,basic
+U00523,"Dec 18, 2024",52,M,US,organic,premium
+U00524,"May 20, 2024",51,F,DE,paid_search,premium
+U00525,2024-03-21,21,F,IN,partner,premium
+U00526,2024-08-11,47,F,US,paid_search,basic
+U00527,2023-07-03,42,M,UK,organic,standard
+U00528,2023-01-12,62,M,DE,organic,basic
+U00529,07/29/2022,40,M,US,paid_search,premium
+U00530,2023-08-15,55,F,US,paid_social,standard
+U00531,2024-02-08,36,M,US,partner,basic
+U00532,23-07-2022,24,M,UK,paid_search,basic
+U00533,2022-03-07,38,M,US,referral,basic
+U00534,2024-09-20,50,M,BR,organic,premium
+U00535,2023-11-19,21,M,IN,referral,premium
+U00536,"Oct 22, 2024",41,F,US,organic,standard
+U00537,30-05-2024,46,M,UK,paid_social,standard
+U00538,"Aug 13, 2022",26,M,US,organic,standard
+U00539,03/05/2023,36,M,US,partner,premium
+U00540,2022-04-06,31,M,US,partner,basic
+U00541,2024-09-11,23,M,UK,organic,standard
+U00542,2022-04-13,24,M,US,organic,standard
+U00543,2023-10-24,0,F,FR,paid_social,basic
+U00544,2022-02-24,46,F,US,paid_social,standard
+U00545,02/15/2024,56,M,US,paid_social,basic
+U00546,2022-05-15,33,M,CA,organic,basic
+U00547,2024-10-30,27,M,US,paid_search,standard
+U00548,"Sep 15, 2023",55,F,MX,paid_search,basic
+U00549,2023-05-22,63,F,UK,organic,standard
+U00550,2022-04-18,19,F,CA,partner,standard
+U00551,2022-03-01,29,F,MX,paid_search,basic
+U00552,09/05/2024,17,F,MX,organic,standard
+U00553,05/03/2022,47,M,US,partner,basic
+U00554,2024-02-20,30,M,FR,paid_search,premium
+U00555,2022-07-26,44,F,UK,paid_social,premium
+U00556,12/25/2022,45,M,IN,organic,premium
+U00557,2022-09-08,38,F,BR,paid_social,basic
+U00558,05/12/2022,52,F,US,paid_social,standard
+U00559,2024-07-30,57,M,US,referral,standard
+U00560,2022-11-12,26,M,US,organic,premium
+U00561,16-06-2024,59,M,BR,partner,premium
+U00562,2023-01-15,55,F,DE,paid_search,premium
+U00563,2023-01-11,36,F,BR,referral,basic
+U00564,2022-09-07,45,F,US,organic,basic
+U00565,2022-11-23,58,F,US,paid_social,premium
+U00566,2022-01-14,20,F,DE,organic,standard
+U00567,09-07-2024,45,F,US,organic,standard
+U00568,12-12-2023,30,M,CA,paid_search,basic
+U00569,29-08-2022,35,F,US,organic,standard
+U00570,2024-09-11,45,F,AU,organic,basic
+U00571,2024-10-09,19,F,US,paid_social,premium
+U00572,2024-06-04,25,F,US,referral,premium
+U00573,22-06-2022,47,NB,DE,organic,basic
+U00574,2024-07-02,29,M,US,referral,premium
+U00575,12/21/2022,27,NB,AU,referral,basic
+U00576,02/21/2022,46,F,CA,paid_social,standard
+U00577,2024-04-21,53,M,DE,paid_search,basic
+U00578,30-03-2023,38,F,US,paid_social,standard
+U00579,2024-03-07,27,N/A,US,paid_social,standard
+U00580,"Apr 27, 2024",41,M,CA,paid_search,basic
+U00581,06-11-2023,13,F,US,paid_social,basic
+U00582,12-11-2024,53,F,US,organic,basic
+U00583,"Sep 04, 2023",52,F,CA,paid_social,standard
+U00584,"Mar 01, 2023",21,M,US,partner,premium
+U00585,05/26/2024,49,F,US,paid_social,basic
+U00586,2023-07-26,52,F,JP,organic,premium
+U00587,"Dec 13, 2023",24,M,US,paid_search,premium
+U00588,14-05-2022,28,F,JP,paid_search,premium
+U00589,2023-04-18,45,M,US,organic,standard
+U00590,01-02-2024,43,F,US,paid_search,basic
+U00591,12/31/2023,40,M,JP,paid_social,premium
+U00592,2022-03-02,30,M,DE,paid_search,premium
+U00593,2023-03-05,24,M,US,referral,basic
+U00594,2022-01-02,43,M,US,paid_search,basic
+U00595,2023-02-26,51,F,UK,organic,premium
+U00596,2024-03-26,43,F,US,organic,standard
+U00597,2022-08-28,45,F,CA,partner,basic
+U00598,2024-04-26,59,F,MX,partner,premium
+U00599,2023-06-07,44,M,JP,paid_search,premium
+U00600,2023-02-11,17,M,US,organic,premium
+U00601,"Jul 12, 2023",35,F,US,paid_search,basic
+U00602,2024-05-24,49,F,CA,paid_social,basic
+U00603,12/05/2023,40,F,AU,organic,basic
+U00604,2022-10-02,22,F,US,paid_search,basic
+U00605,2024-12-08,24,F,CA,referral,standard
+U00606,2022-04-29,44,F,AU,paid_social,premium
+U00607,07/16/2023,23,F,UK,paid_social,premium
+U00608,2022-07-17,52,M,US,paid_social,basic
+U00609,2024-09-07,35,F,US,partner,basic
+U00610,2024-09-27,58,F,CA,partner,basic
+U00611,07/24/2022,50,F,US,organic,premium
+U00612,2024-01-11,21,M,UK,referral,basic
+U00613,08/23/2024,42,F,US,referral,standard
+U00614,30-12-2022,29,F,BR,paid_search,standard
+U00615,18-06-2022,76,M,BR,organic,basic
+U00616,"Sep 26, 2024",29,F,CA,referral,basic
+U00617,2022-03-26,27,F,UK,organic,premium
+U00618,2022-02-27,22,M,DE,paid_search,standard
+U00619,"May 08, 2024",38,M,UK,partner,basic
+U00620,2022-03-28,37,F,US,referral,basic
+U00621,"Oct 28, 2024",34,M,UK,organic,premium
+U00622,2024-01-16,49,M,MX,paid_social,basic
+U00623,04-11-2023,55,F,US,organic,basic
+U00624,2024-09-05,24,M,MX,paid_search,premium
+U00625,2023-02-27,43,F,DE,paid_social,premium
+U00626,03/04/2023,31,M,JP,organic,standard
+U00627,01-12-2024,22,M,UK,paid_search,premium
+U00628,05-07-2023,21,M,UK,referral,standard
+U00629,06/04/2024,19,F,UK,paid_social,standard
+U00630,02-09-2023,26,Prefer not to say,US,organic,premium
+U00631,2024-01-22,25,F,CA,organic,basic
+U00632,"Aug 10, 2024",51,M,MX,partner,premium
+U00633,08/19/2024,20,F,US,organic,standard
+U00634,2024-01-19,52,F,CA,partner,premium
+U00635,18-03-2023,40,F,BR,paid_search,basic
+U00636,2022-09-24,57,F,CA,paid_social,basic
+U00637,2023-04-14,54,F,US,referral,basic
+U00638,2023-01-08,32,M,UK,partner,standard
+U00639,28-05-2023,24,F,AU,paid_search,standard
+U00640,12-09-2022,23,F,US,referral,premium
+U00641,07/19/2023,27,F,DE,organic,premium
+U00642,12/05/2022,23,M,UK,referral,premium
+U00643,"Aug 30, 2024",25,Prefer not to say,US,paid_social,basic
+U00644,2023-05-29,41,F,IN,organic,premium
+U00645,"Jan 07, 2024",57,Prefer not to say,BR,paid_social,basic
+U00646,20-11-2023,21,Prefer not to say,FR,organic,premium
+U00647,2022-07-07,55,F,BR,paid_search,premium
+U00648,2023-08-20,35,M,FR,paid_search,premium
+U00649,08/21/2022,23,M,US,paid_search,premium
+U00650,2024-05-30,17,F,UK,paid_social,premium
+U00651,2022-08-29,42,F,FR,referral,standard
+U00652,2023-02-12,42,Prefer not to say,BR,paid_search,premium
+U00653,04/25/2023,35,Prefer not to say,US,paid_search,basic
+U00654,"Jun 11, 2024",30,F,US,paid_search,premium
+U00655,08/16/2022,47,,US,paid_social,basic
+U00656,"May 08, 2024",23,M,UK,organic,premium
+U00657,2022-05-03,22,M,US,organic,premium
+U00658,08/11/2022,43,M,US,referral,standard
+U00659,2024-07-08,36,F,UK,organic,basic
+U00660,2023-05-07,43,F,BR,organic,basic
+U00661,2022-08-29,68,M,AU,organic,basic
+U00662,02/08/2022,39,M,US,paid_search,standard
+U00663,25-10-2022,53,M,US,organic,premium
+U00664,2024-07-24,32,M,BR,organic,basic
+U00665,2023-12-25,37,M,CA,paid_search,basic
+U00666,"Jan 13, 2024",17,F,US,organic,standard
+U00667,2024-05-31,32,Unknown,BR,paid_social,standard
+U00668,2024-04-20,24,NB,CA,organic,basic
+U00669,03-01-2022,48,NB,US,organic,basic
+U00670,09-11-2022,45,F,MX,organic,premium
+U00671,09/07/2024,55,M,US,referral,basic
+U00672,23-09-2024,24,NB,US,paid_social,basic
+U00673,2024-12-19,47,F,DE,paid_search,premium
+U00674,"Nov 01, 2022",55,F,UK,referral,premium
+U00675,"Sep 10, 2022",49,M,US,paid_social,basic
+U00676,10-06-2022,40,F,CA,referral,premium
+U00677,2024-09-23,25,Prefer not to say,IN,paid_search,standard
+U00678,11-09-2022,22,M,DE,paid_social,premium
+U00679,2023-05-08,39,F,US,organic,basic
+U00680,2023-09-08,45,NB,FR,paid_social,standard
+U00681,2022-12-14,37,M,UK,organic,standard
+U00682,2023-10-23,31,F,MX,referral,standard
+U00683,2023-07-10,43,F,AU,paid_search,premium
+U00684,2023-12-17,38,F,FR,partner,standard
+U00685,2022-10-19,34,F,IN,paid_search,standard
+U00686,2023-10-05,14,Prefer not to say,IN,organic,standard
+U00687,06/04/2023,32,M,US,paid_social,standard
+U00688,30-05-2022,32,M,IN,partner,standard
+U00689,2024-05-02,24,F,US,organic,basic
+U00690,2024-12-19,23,M,US,partner,basic
+U00691,2022-06-09,34,M,FR,referral,basic
+U00692,"Jan 01, 2023",26,NB,CA,organic,premium
+U00693,2023-05-29,53,F,CA,referral,basic
+U00694,02/20/2022,41,M,BR,organic,standard
+U00695,2023-08-30,43,F,US,organic,premium
+U00696,2023-06-08,28,F,CA,paid_search,premium
+U00697,01/17/2024,49,F,US,organic,premium
+U00698,2024-07-12,23,F,US,paid_search,standard
+U00699,2023-10-27,13,F,JP,partner,premium
+U00700,2022-11-19,48,F,BR,organic,basic
+U00701,04-08-2022,16,F,US,referral,standard
+U00702,2024-04-24,27,M,UK,paid_search,premium
+U00703,2022-07-15,42,M,JP,paid_search,basic
+U00704,2023-04-30,29,F,DE,partner,standard
+U00705,2022-10-20,42,F,US,partner,basic
+U00706,09/02/2024,43,F,UK,partner,standard
+U00707,2024-12-03,27,F,US,paid_social,standard
+U00708,2023-12-06,27,F,IN,paid_social,premium
+U00709,"Jan 09, 2022",36,NB,IN,paid_search,standard
+U00710,2023-09-05,32,F,DE,partner,basic
+U00711,2024-06-16,71,F,BR,organic,standard
+U00712,13-07-2024,34,F,US,referral,standard
+U00713,25-12-2024,34,M,US,referral,basic
+U00714,2022-05-29,53,NB,BR,organic,premium
+U00715,06-07-2022,22,M,US,organic,basic
+U00716,2024-11-23,33,Prefer not to say,US,organic,premium
+U00717,2022-12-05,33,Prefer not to say,FR,partner,premium
+U00718,2023-04-22,18,F,US,organic,premium
+U00719,2024-10-13,21,F,US,organic,standard
+U00720,2023-02-26,56,M,DE,referral,basic
+U00721,"Apr 15, 2024",47,NB,US,organic,standard
+U00722,"Sep 22, 2024",24,F,DE,paid_search,standard
+U00723,2024-12-19,22,F,CA,paid_social,standard
+U00724,27-11-2023,14,M,IN,organic,standard
+U00725,2023-04-11,45,M,MX,paid_search,standard
+U00726,2024-01-21,41,M,FR,paid_social,standard
+U00727,"Sep 26, 2022",32,M,US,organic,premium
+U00728,2023-02-25,37,M,BR,paid_search,standard
+U00729,2022-10-28,23,F,BR,paid_search,standard
+U00730,23-04-2023,28,F,UK,paid_search,premium
+U00731,07/17/2024,53,M,US,organic,standard
+U00732,"Feb 14, 2024",56,M,DE,organic,standard
+U00733,2022-08-25,43,F,US,organic,premium
+U00734,2024-02-21,63,F,US,paid_social,standard
+U00735,2024-05-19,37,M,US,organic,basic
+U00736,2022-10-18,48,M,BR,referral,basic
+U00737,2022-10-28,41,F,UK,paid_search,basic
+U00738,2023-03-25,44,F,IN,organic,standard
+U00739,04-08-2022,54,M,US,paid_search,basic
+U00740,2024-03-21,33,M,CA,partner,standard
+U00741,"Apr 02, 2022",19,Prefer not to say,FR,organic,premium
+U00742,19-04-2023,18,F,UK,paid_search,basic
+U00743,09/10/2023,42,Prefer not to say,JP,referral,premium
+U00744,2024-10-11,42,M,US,paid_social,basic
+U00745,2023-09-04,47,F,UK,organic,basic
+U00746,2023-12-14,54,M,US,organic,standard
+U00747,2024-01-21,35,F,US,organic,standard
+U00748,2022-01-11,34,F,IN,partner,basic
+U00749,2024-11-29,46,Prefer not to say,AU,paid_search,standard
+U00750,2022-03-15,47,M,US,partner,standard
+U00751,09/30/2024,51,F,IN,paid_social,basic
+U00752,2023-04-01,63,M,US,paid_search,basic
+U00753,28-04-2024,37,M,DE,organic,basic
+U00754,2022-07-25,51,F,BR,paid_social,premium
+U00755,2024-10-13,37,F,BR,paid_search,basic
+U00756,2022-11-05,43,F,US,organic,basic
+U00757,"Aug 06, 2023",47,M,IN,paid_search,standard
+U00758,2022-12-04,48,NB,AU,paid_search,standard
+U00759,2023-03-06,55,M,CA,organic,standard
+U00760,2023-10-13,55,Prefer not to say,US,paid_social,basic
+U00761,2022-10-11,23,F,JP,organic,premium
+U00762,2023-10-06,13,M,UK,referral,standard
+U00763,2024-09-16,24,F,FR,paid_social,premium
+U00764,2022-08-03,199,F,US,organic,basic
+U00765,2022-03-12,47,M,US,paid_social,basic
+U00766,2023-11-02,46,F,US,organic,premium
+U00767,2022-04-07,39,Prefer not to say,MX,organic,standard
+U00768,08/26/2024,58,Prefer not to say,US,paid_social,premium
+U00769,2022-01-22,43,Prefer not to say,US,organic,standard
+U00770,"Aug 17, 2022",24,F,US,organic,premium
+U00771,2024-05-12,50,M,UK,organic,premium
+U00772,2022-06-12,43,M,US,paid_search,basic
+U00773,2023-05-04,35,F,UK,organic,standard
+U00774,"Feb 20, 2024",38,Prefer not to say,AU,organic,standard
+U00775,"Feb 11, 2022",22,M,US,paid_social,basic
+U00776,09-07-2022,57,F,US,paid_social,basic
+U00777,2023-12-30,24,F,US,organic,premium
+U00778,2023-09-26,26,F,AU,organic,standard
+U00779,2023-09-03,32,F,US,referral,standard
+U00780,2022-07-31,47,F,UK,referral,basic
+U00781,05/12/2024,-3,M,UK,organic,basic
+U00782,25-09-2024,55,F,US,partner,basic
+U00783,2023-05-27,19,M,US,organic,premium
+U00784,2024-10-21,35,F,US,paid_social,basic
+U00785,2022-07-02,19,M,US,paid_search,premium
+U00786,2022-06-29,66,F,IN,paid_social,standard
+U00787,2022-08-31,19,F,CA,partner,premium
+U00788,04-08-2022,50,M,US,referral,standard
+U00789,19-03-2023,50,NB,FR,organic,standard
+U00790,2024-01-08,17,M,US,paid_search,basic
+U00791,10/05/2024,36,M,US,organic,basic
+U00792,2024-05-10,32,F,CA,organic,basic
+U00793,"Sep 06, 2024",25,Prefer not to say,US,referral,basic
+U00794,2024-09-22,29,F,JP,organic,premium
+U00795,"Mar 02, 2023",40,M,US,paid_search,basic
+U00796,24-08-2022,45,M,UK,paid_search,basic
+U00797,21-12-2023,35,F,US,paid_social,basic
+U00798,28-09-2024,37,M,US,referral,standard
+U00799,2023-04-02,37,F,UK,paid_social,basic
+U00800,2023-06-30,47,M,CA,referral,basic
+U00801,2024-10-15,33,M,BR,referral,basic
+U00802,2023-11-27,18,F,UK,organic,standard
+U00803,2023-05-12,13,F,US,partner,basic
+U00804,2023-05-17,47,F,IN,paid_search,premium
+U00805,2024-01-18,28,M,US,organic,standard
+U00806,2022-06-02,30,M,US,paid_search,basic
+U00807,2023-03-02,66,F,CA,paid_search,basic
+U00808,2024-01-28,48,,BR,partner,premium
+U00809,2023-01-01,46,M,US,paid_social,standard
+U00810,12-09-2024,15,Prefer not to say,US,organic,standard
+U00811,2024-03-06,28,F,US,organic,premium
+U00812,2023-07-22,35,M,DE,partner,basic
+U00813,30-03-2022,46,F,IN,organic,standard
+U00814,27-10-2022,26,M,UK,organic,standard
+U00815,2023-07-29,41,F,UK,paid_search,premium
+U00816,2023-02-01,69,M,US,paid_search,basic
+U00817,2023-10-13,52,M,US,referral,basic
+U00818,08-11-2023,48,F,UK,paid_search,standard
+U00819,2022-08-18,34,M,US,paid_search,standard
+U00820,"Apr 24, 2023",49,NB,US,organic,premium
+U00821,"May 30, 2023",21,F,US,paid_social,premium
+U00822,2024-06-22,38,M,BR,paid_social,premium
+U00823,"May 09, 2022",28,M,US,paid_social,premium
+U00824,"Mar 06, 2023",26,M,US,referral,standard
+U00825,12/07/2022,48,M,US,organic,premium
+U00826,2023-07-05,53,M,UK,paid_social,basic
+U00827,2024-05-27,37,M,MX,organic,standard
+U00828,2022-06-02,26,F,AU,paid_search,standard
+U00829,2023-02-21,17,F,UK,organic,basic
+U00830,2022-10-11,24,F,US,paid_search,standard
+U00831,2024-03-12,13,M,US,paid_search,premium
+U00832,2023-12-12,42,F,IN,referral,standard
+U00833,2023-02-15,50,M,US,referral,premium
+U00834,2024-03-07,36,F,US,paid_search,standard
+U00835,"Jan 27, 2022",49,F,FR,referral,premium
+U00836,2024-09-01,18,F,US,referral,premium
+U00837,03/10/2024,48,M,AU,paid_search,premium
+U00838,2022-03-31,25,F,MX,referral,premium
+U00839,2022-08-29,36,NB,US,referral,standard
+U00840,2024-07-19,65,NB,US,paid_social,premium
+U00841,2023-05-09,43,M,US,referral,basic
+U00842,2023-04-06,79,F,US,referral,standard
+U00843,05-11-2024,55,F,UK,organic,premium
+U00844,25-06-2024,49,NB,FR,paid_social,premium
+U00845,2023-01-11,29,F,UK,organic,standard
+U00846,2023-02-28,44,F,UK,paid_search,basic
+U00847,09-05-2024,44,F,MX,paid_social,basic
+U00848,10/07/2024,48,M,US,organic,standard
+U00849,2022-07-08,29,F,US,referral,premium
+U00850,07/11/2023,33,NB,US,paid_search,standard
+U00851,08/15/2022,39,F,UK,paid_search,basic
+U00852,2023-09-26,31,M,MX,organic,standard
+U00853,2022-11-05,34,F,UK,organic,basic
+U00854,2022-02-13,56,M,US,paid_search,basic
+U00855,2022-12-11,23,M,BR,organic,standard
+U00856,"Jan 22, 2024",45,NB,CA,referral,standard
+U00857,02/01/2023,23,M,US,organic,standard
+U00858,22-08-2024,22,F,UK,organic,premium
+U00859,13-05-2022,48,M,CA,paid_social,basic
+U00860,03/27/2023,43,M,US,organic,basic
+U00861,2024-01-08,46,M,UK,paid_search,basic
+U00862,2024-04-11,34,M,IN,organic,basic
+U00863,2023-07-01,50,M,US,paid_social,premium
+U00864,2022-05-30,44,Prefer not to say,US,partner,premium
+U00865,2024-01-15,43,M,US,partner,basic
+U00866,2022-08-19,55,M,IN,paid_social,premium
+U00867,2022-12-15,27,M,MX,organic,standard
+U00868,2022-02-13,51,F,BR,organic,standard
+U00869,10/26/2023,16,M,FR,paid_search,basic
+U00870,2024-11-06,42,M,IN,paid_social,basic
+U00871,2023-01-06,37,M,US,paid_social,premium
+U00872,15-08-2024,25,F,US,paid_social,standard
+U00873,"Sep 19, 2022",19,F,IN,paid_social,standard
+U00874,10-12-2023,49,M,US,organic,basic
+U00875,2023-01-28,25,M,DE,referral,premium
+U00876,2022-03-27,42,M,CA,paid_search,premium
+U00877,2022-12-30,20,F,US,paid_social,basic
+U00878,10-07-2024,31,M,US,paid_search,standard
+U00879,17-04-2022,56,M,US,partner,premium
+U00880,2023-09-27,43,M,BR,partner,standard
+U00881,2024-11-02,56,Prefer not to say,BR,organic,premium
+U00882,31-12-2023,56,M,US,paid_social,premium
+U00883,2024-06-29,29,F,US,organic,basic
+U00884,2023-05-08,53,F,US,partner,premium
+U00885,"May 17, 2022",62,M,US,partner,standard
+U00886,2022-11-13,47,M,UK,partner,standard
+U00887,2022-03-29,52,M,UK,organic,standard
+U00888,2024-04-01,16,F,US,partner,standard
+U00889,2022-07-13,55,F,BR,referral,basic
+U00890,2024-03-29,34,M,US,referral,standard
+U00891,2024-11-20,35,F,CA,paid_search,standard
+U00892,2023-03-21,22,M,US,organic,premium
+U00893,2024-11-06,53,M,DE,organic,standard
+U00894,2024-07-25,48,M,UK,referral,standard
+U00895,12/27/2023,23,F,IN,paid_social,standard
+U00896,10/22/2024,46,NB,US,paid_search,premium
+U00897,2023-10-18,50,M,UK,paid_search,basic
+U00898,2024-04-28,25,M,IN,referral,basic
+U00899,28-11-2023,44,NB,DE,paid_social,standard
+U00900,2023-04-07,38,F,DE,organic,basic
+U00901,2023-08-25,48,M,US,paid_social,standard
+U00902,"Feb 11, 2022",36,M,US,organic,basic
+U00903,2022-06-09,62,M,US,referral,premium
+U00904,2023-05-27,29,F,US,paid_search,basic
+U00905,06/29/2022,29,F,JP,organic,standard
+U00906,2023-09-11,57,F,FR,paid_social,standard
+U00907,16-09-2022,42,M,FR,organic,basic
+U00908,2022-08-23,24,F,DE,organic,standard
+U00909,2022-02-19,24,F,US,paid_search,premium
+U00910,2024-01-10,16,M,US,paid_social,premium
+U00911,"Mar 09, 2022",23,F,UK,organic,premium
+U00912,2023-10-01,28,M,US,paid_search,standard
+U00913,2022-07-21,43,M,US,organic,premium
+U00914,2022-07-09,41,F,US,paid_search,basic
+U00915,2022-10-02,47,M,US,paid_search,basic
+U00916,2023-06-28,42,M,DE,paid_search,basic
+U00917,2022-07-02,39,F,US,partner,basic
+U00918,"Aug 01, 2023",42,F,DE,referral,basic
+U00919,"Dec 03, 2023",39,M,BR,organic,standard
+U00920,2023-12-20,21,NB,CA,partner,standard
+U00921,"Feb 16, 2022",48,F,IN,organic,premium
+U00922,2023-10-26,38,M,US,organic,standard
+U00923,2024-02-02,47,M,BR,paid_search,basic
+U00924,"Feb 24, 2022",44,M,US,paid_social,basic
+U00925,2023-06-10,51,M,US,paid_search,basic
+U00926,2024-05-11,24,F,US,referral,standard
+U00927,"Apr 30, 2022",23,M,US,paid_search,basic
+U00928,12/25/2022,24,F,IN,organic,premium
+U00929,2022-05-18,61,NB,UK,referral,basic
+U00930,11/01/2023,52,M,US,organic,premium
+U00931,12/16/2023,35,Prefer not to say,US,referral,premium
+U00932,2024-06-20,32,NB,IN,paid_search,basic
+U00933,2024-09-05,42,F,MX,paid_search,standard
+U00934,2024-07-07,34,M,US,referral,basic
+U00935,2023-06-21,36,F,CA,partner,premium
+U00936,2024-12-18,52,Prefer not to say,CA,paid_search,basic
+U00937,2024-04-26,34,M,DE,paid_social,standard
+U00938,"May 08, 2022",39,F,IN,partner,standard
+U00939,2023-06-12,44,F,US,paid_search,standard
+U00940,2022-08-03,31,M,UK,organic,standard
+U00941,11/28/2023,21,M,US,organic,basic
+U00942,2022-08-29,65,F,BR,paid_search,basic
+U00943,10/12/2024,24,F,DE,paid_social,standard
+U00944,2022-03-29,28,F,US,paid_social,basic
+U00945,11/05/2023,49,F,US,organic,premium
+U00946,2023-05-20,19,M,US,paid_social,standard
+U00947,25-09-2022,24,F,US,paid_search,premium
+U00948,"Feb 20, 2022",61,Prefer not to say,JP,organic,premium
+U00949,2024-11-27,19,M,US,organic,premium
+U00950,2022-01-10,46,F,UK,organic,standard
+U00951,02/04/2023,45,M,CA,partner,standard
+U00952,2022-07-31,25,F,US,paid_social,standard
+U00953,05/03/2023,22,M,CA,organic,basic
+U00954,2024-07-13,38,M,US,organic,premium
+U00955,13-06-2024,28,F,DE,organic,basic
+U00956,2024-03-04,29,F,DE,organic,basic
+U00957,2022-05-09,39,M,US,referral,standard
+U00958,2022-09-24,19,F,US,paid_social,premium
+U00959,2022-07-10,37,F,BR,organic,basic
+U00960,2023-07-10,25,M,US,paid_social,basic
+U00961,2022-05-23,34,F,CA,organic,standard
+U00962,21-10-2022,44,M,IN,organic,premium
+U00963,11-03-2024,53,F,US,paid_search,basic
+U00964,2022-03-09,41,M,US,paid_search,premium
+U00965,01/27/2024,28,F,AU,paid_social,standard
+U00966,03/18/2024,32,F,DE,organic,premium
+U00967,2022-02-25,36,F,AU,referral,basic
+U00968,2024-07-29,18,F,US,paid_search,premium
+U00969,2023-10-23,24,M,UK,referral,premium
+U00970,09/17/2024,26,M,US,paid_social,premium
+U00971,2024-10-12,17,M,UK,paid_social,standard
+U00972,17-04-2023,38,M,US,organic,basic
+U00973,05/25/2022,29,M,US,partner,premium
+U00974,2023-04-06,20,F,UK,referral,premium
+U00975,02/09/2022,53,F,US,organic,basic
+U00976,25-05-2022,37,F,AU,organic,standard
+U00977,2022-12-07,58,F,JP,organic,standard
+U00978,08/28/2023,45,F,FR,referral,premium
+U00979,08/29/2023,22,F,US,referral,premium
+U00980,29-03-2023,13,F,DE,paid_search,basic
+U00981,2023-03-29,56,M,UK,paid_social,premium
+U00982,2024-02-05,68,M,BR,partner,premium
+U00983,15-12-2024,37,F,FR,organic,basic
+U00984,2023-08-17,38,F,US,referral,standard
+U00985,2024-09-05,33,M,US,paid_social,basic
+U00986,09/07/2024,38,F,FR,paid_social,standard
+U00987,08-08-2022,57,F,US,paid_social,standard
+U00988,2023-08-05,16,NB,US,referral,premium
+U00989,2024-07-07,52,F,US,referral,standard
+U00990,2023-03-22,-3,M,UK,partner,premium
+U00991,2023-05-02,39,Prefer not to say,MX,organic,premium
+U00992,2023-11-01,42,F,DE,paid_social,standard
+U00993,2023-07-28,17,F,US,organic,basic
+U00994,01-03-2024,13,M,US,paid_social,premium
+U00995,2023-12-02,25,F,US,paid_search,standard
+U00996,2024-11-06,20,M,US,referral,premium
+U00997,"May 29, 2023",30,F,CA,paid_social,standard
+U00998,2022-01-08,38,M,DE,organic,basic
+U00999,"Jan 09, 2024",22,NB,US,paid_search,standard
+U01000,"Jun 06, 2022",24,M,CA,paid_search,basic
+U01001,14-04-2024,78,F,US,paid_social,basic
+U01002,23-11-2022,49,F,CA,referral,standard
+U01003,2022-03-18,45,M,US,organic,premium
+U01004,2024-07-15,45,F,US,paid_search,basic
+U01005,2024-10-17,39,M,US,organic,standard
+U01006,16-11-2022,25,M,US,paid_social,basic
+U01007,2024-07-17,17,M,UK,paid_search,standard
+U01008,"Sep 09, 2023",54,M,CA,paid_social,basic
+U01009,19-06-2022,52,F,FR,organic,basic
+U01010,2023-05-14,16,F,UK,organic,premium
+U01011,2023-09-13,39,NB,IN,referral,premium
+U01012,07/25/2024,27,M,DE,paid_search,standard
+U01013,2023-09-10,34,M,CA,organic,premium
+U01014,2024-10-18,35,M,US,organic,standard
+U01015,2024-10-07,31,M,IN,partner,premium
+U01016,2022-07-22,20,Prefer not to say,IN,referral,standard
+U01017,"Feb 26, 2023",64,M,CA,paid_social,standard
+U01018,2023-06-02,54,F,US,paid_search,premium
+U01019,2022-07-04,27,M,CA,paid_search,premium
+U01020,25-04-2022,55,F,IN,paid_search,basic
+U01021,2023-10-09,60,M,UK,organic,premium
+U01022,2022-07-07,29,M,US,referral,premium
+U01023,"Nov 19, 2024",56,M,US,organic,premium
+U01024,"Sep 16, 2024",21,Prefer not to say,JP,paid_search,premium
+U01025,2022-03-09,19,M,BR,paid_social,standard
+U01026,2023-02-23,32,M,IN,organic,standard
+U01027,11/26/2024,38,F,US,organic,premium
+U01028,2024-10-27,42,F,US,referral,basic
+U01029,28-05-2024,42,F,US,organic,standard
+U01030,2022-08-27,50,M,DE,organic,standard
+U01031,2022-05-19,49,F,BR,organic,premium
+U01032,2024-05-27,26,F,IN,partner,premium
+U01033,2023-09-07,35,M,AU,referral,standard
+U01034,07/24/2023,36,F,IN,paid_search,basic
+U01035,"Jul 26, 2023",21,F,CA,paid_social,basic
+U01036,2024-09-06,42,M,IN,referral,premium
+U01037,21-05-2024,44,F,AU,organic,basic
+U01038,"Jun 08, 2022",49,F,CA,partner,premium
+U01039,2022-04-04,56,M,DE,paid_social,standard
+U01040,2022-08-17,48,F,MX,partner,standard
+U01041,2024-05-21,58,M,US,paid_social,standard
+U01042,2022-12-08,27,M,IN,paid_social,basic
+U01043,2022-08-08,48,F,CA,organic,standard
+U01044,11-03-2024,40,M,US,paid_social,standard
+U01045,2022-04-19,38,M,CA,partner,premium
+U01046,2024-07-20,63,M,UK,paid_social,basic
+U01047,"Oct 13, 2023",48,F,US,organic,premium
+U01048,2023-02-03,43,M,JP,paid_search,basic
+U01049,2022-04-22,22,M,FR,organic,standard
+U01050,2023-09-14,33,F,US,paid_social,standard
+U01051,08/03/2024,46,M,US,organic,premium
+U01052,"Feb 21, 2022",49,F,CA,organic,standard
+U01053,05/12/2024,61,M,DE,paid_social,basic
+U01054,22-11-2022,41,M,IN,organic,premium
+U01055,10/05/2023,46,M,BR,organic,premium
+U01056,2024-01-29,59,F,US,organic,premium
+U01057,2022-10-25,26,Prefer not to say,US,organic,premium
+U01058,09/21/2024,55,F,BR,paid_social,premium
+U01059,24-11-2022,23,M,US,organic,standard
+U01060,09/19/2024,39,M,BR,partner,premium
+U01061,2023-07-24,54,M,IN,paid_social,basic
+U01062,11-08-2022,23,M,UK,paid_social,standard
+U01063,2022-06-28,36,Prefer not to say,US,organic,standard
+U01064,14-06-2022,26,F,US,paid_social,premium
+U01065,2023-06-10,28,M,US,paid_search,standard
+U01066,2024-06-15,38,M,US,paid_social,standard
+U01067,2022-04-08,46,F,US,paid_search,basic
+U01068,11/16/2022,25,F,MX,organic,premium
+U01069,2023-10-16,26,M,US,organic,premium
+U01070,2023-12-17,45,F,US,paid_search,standard
+U01071,"Aug 13, 2024",59,M,UK,referral,standard
+U01072,2022-05-25,45,F,US,organic,standard
+U01073,14-05-2022,55,F,US,paid_search,premium
+U01074,04-03-2022,32,NB,US,paid_social,basic
+U01075,"Jan 06, 2022",62,F,CA,paid_social,basic
+U01076,"Aug 02, 2022",19,M,US,paid_social,standard
+U01077,06/15/2022,27,F,UK,partner,basic
+U01078,2024-10-01,30,NB,US,organic,basic
+U01079,2024-02-09,45,M,FR,paid_social,standard
+U01080,03-08-2023,37,F,US,paid_search,basic
+U01081,2024-05-04,36,M,US,organic,basic
+U01082,2024-04-19,33,F,US,partner,standard
+U01083,01/19/2024,49,M,FR,paid_search,standard
+U01084,2024-07-01,47,F,IN,paid_social,premium
+U01085,"Apr 02, 2023",31,M,CA,paid_search,basic
+U01086,2022-04-03,56,F,FR,paid_social,premium
+U01087,2022-04-10,56,F,IN,partner,standard
+U01088,2024-10-22,23,F,US,organic,basic
+U01089,27-08-2024,33,F,US,paid_search,basic
+U01090,2024-04-07,40,F,US,organic,standard
+U01091,07/31/2022,35,M,UK,referral,basic
+U01092,2022-05-02,48,M,US,paid_search,premium
+U01093,30-07-2022,61,F,US,referral,standard
+U01094,19-08-2024,26,M,BR,organic,premium
+U01095,2024-05-21,46,F,US,organic,basic
+U01096,2023-01-19,39,NB,US,paid_social,standard
+U01097,11/01/2024,19,M,BR,paid_social,standard
+U01098,2023-01-06,52,F,AU,paid_social,premium
+U01099,01/13/2023,32,M,CA,organic,basic
+U01100,2024-06-16,22,F,US,referral,premium
+U01101,2023-06-28,36,F,CA,organic,basic
+U01102,2022-05-19,20,F,US,paid_search,basic
+U01103,2024-02-29,30,M,BR,paid_social,premium
+U01104,14-11-2024,20,F,US,partner,basic
+U01105,2023-09-10,60,Prefer not to say,UK,organic,premium
+U01106,"Mar 04, 2024",35,NB,US,paid_social,standard
+U01107,2023-09-24,17,M,US,paid_social,standard
+U01108,2024-02-01,27,NB,US,organic,standard
+U01109,2023-05-18,28,M,US,paid_social,standard
+U01110,"Dec 12, 2023",30,F,US,paid_social,standard
+U01111,15-04-2023,46,F,UK,paid_social,standard
+U01112,2024-07-07,27,Prefer not to say,US,paid_social,basic
+U01113,2023-11-15,53,M,CA,paid_search,premium
+U01114,2024-03-09,44,F,US,paid_social,standard
+U01115,2023-02-12,13,M,US,organic,standard
+U01116,05-07-2024,26,M,IN,referral,standard
+U01117,2024-08-03,22,M,UK,organic,basic
+U01118,2024-10-08,44,NB,US,paid_social,premium
+U01119,05/12/2023,42,M,US,paid_search,premium
+U01120,2024-12-20,18,M,US,referral,premium
+U01121,2024-11-03,21,F,US,organic,premium
+U01122,2023-08-28,49,M,US,paid_search,basic
+U01123,05/06/2023,33,F,JP,paid_social,premium
+U01124,03/16/2023,32,F,US,referral,basic
+U01125,24-10-2023,42,F,IN,partner,basic
+U01126,15-05-2023,21,F,UK,organic,basic
+U01127,2024-04-06,31,F,UK,organic,basic
+U01128,21-01-2024,57,M,IN,paid_social,basic
+U01129,17-07-2023,32,M,IN,organic,basic
+U01130,22-12-2024,27,F,DE,organic,premium
+U01131,01/13/2023,49,M,US,paid_social,premium
+U01132,2022-10-13,30,F,UK,organic,basic
+U01133,2024-05-05,51,F,US,referral,basic
+U01134,2022-11-18,25,M,UK,organic,standard
+U01135,2024-06-13,39,F,US,paid_search,premium
+U01136,03-05-2022,22,M,IN,organic,standard
+U01137,2022-02-12,45,M,DE,organic,premium
+U01138,"Jun 01, 2023",53,F,FR,referral,premium
+U01139,04-08-2022,20,F,DE,paid_social,standard
+U01140,01-05-2024,34,NB,US,paid_search,basic
+U01141,2022-07-12,30,M,US,organic,basic
+U01142,2024-10-12,21,M,AU,referral,premium
+U01143,17-03-2024,60,M,CA,paid_social,premium
+U01144,05/08/2024,51,M,UK,partner,basic
+U01145,04/24/2023,18,M,UK,paid_search,premium
+U01146,2023-11-02,26,F,CA,referral,standard
+U01147,2024-02-16,59,M,IN,organic,basic
+U01148,2023-12-21,39,M,CA,partner,basic
+U01149,10/01/2024,29,F,US,organic,standard
+U01150,2024-01-18,33,M,US,paid_social,standard
+U01151,2023-11-20,23,M,MX,organic,standard
+U01152,2022-05-21,33,F,IN,organic,premium
+U01153,12-12-2024,13,NB,US,partner,premium
+U01154,2023-03-14,16,Prefer not to say,UK,referral,standard
+U01155,2024-01-31,51,F,MX,organic,standard
+U01156,2024-06-06,53,F,US,organic,premium
+U01157,2024-06-20,62,M,DE,organic,standard
+U01158,08/08/2022,23,F,US,paid_search,premium
+U01159,2024-01-25,58,M,BR,paid_search,standard
+U01160,2024-05-08,19,F,UK,paid_search,premium
+U01161,2022-03-27,31,NB,JP,paid_social,premium
+U01162,2022-06-22,15,F,US,paid_social,basic
+U01163,03/05/2024,54,M,DE,referral,basic
+U01164,2023-07-02,55,F,AU,partner,premium
+U01165,2024-01-07,30,M,DE,paid_social,standard
+U01166,2023-04-22,50,M,US,organic,basic
+U01167,19-10-2024,29,M,CA,paid_social,premium
+U01168,2024-12-06,51,M,AU,organic,premium
+U01169,01-05-2024,25,F,IN,organic,premium
+U01170,2022-02-15,24,F,BR,paid_search,standard
+U01171,2024-01-29,36,NB,US,paid_search,basic
+U01172,2024-03-01,61,F,UK,paid_social,premium
+U01173,23-06-2022,54,F,US,paid_social,premium
+U01174,2022-11-22,23,F,US,referral,premium
+U01175,2023-03-22,41,M,CA,referral,standard
+U01176,2023-08-08,39,F,UK,paid_search,standard
+U01177,2023-05-30,29,M,IN,paid_social,standard
+U01178,14-09-2024,41,Prefer not to say,BR,referral,basic
+U01179,04/19/2023,46,M,US,organic,basic
+U01180,2024-06-04,49,F,BR,paid_search,basic
+U01181,05/25/2023,58,F,US,organic,basic
+U01182,2022-05-27,15,M,US,organic,premium
+U01183,06/16/2023,52,F,CA,paid_search,basic
+U01184,2023-11-11,27,F,DE,referral,basic
+U01185,2023-02-24,53,F,CA,organic,basic
+U01186,2024-09-12,49,F,US,organic,premium
+U01187,11-11-2024,25,M,US,organic,premium
+U01188,2023-03-21,52,F,US,organic,standard
+U01189,22-01-2022,19,M,US,partner,premium
+U01190,2024-02-24,32,M,US,paid_social,standard
+U01191,2024-09-29,47,M,UK,referral,basic
+U01192,2023-08-05,20,M,IN,partner,standard
+U01193,2023-08-25,58,Prefer not to say,BR,paid_social,premium
+U01194,2024-06-22,44,M,UK,paid_social,premium
+U01195,2022-12-02,27,F,MX,referral,premium
+U01196,2023-02-04,43,F,BR,organic,standard
+U01197,2024-11-07,52,F,FR,paid_search,basic
+U01198,16-12-2024,16,NB,US,organic,basic
+U01199,31-08-2024,32,M,BR,partner,basic
+U01200,2024-07-15,54,NB,CA,paid_search,standard
+U01201,2023-05-10,54,F,US,referral,standard
+U01202,2023-01-15,19,M,CA,organic,standard
+U01203,2024-06-23,18,M,CA,organic,standard
+U01204,2022-06-28,50,Prefer not to say,DE,paid_social,premium
+U01205,29-07-2023,36,F,US,organic,premium
+U01206,2024-03-18,18,F,CA,partner,basic
+U01207,02/08/2024,20,M,US,paid_search,premium
+U01208,2024-11-21,71,M,US,organic,basic
+U01209,08/06/2024,22,M,JP,paid_search,premium
+U01210,05/05/2024,49,M,US,paid_social,premium
+U01211,"Aug 03, 2022",22,M,DE,organic,standard
+U01212,2024-06-10,29,M,UK,paid_social,basic
+U01213,2022-08-05,16,Prefer not to say,US,paid_search,premium
+U01214,2022-06-28,25,M,UK,paid_social,basic
+U01215,2022-10-11,17,M,UK,paid_social,standard
+U01216,2023-11-06,25,M,IN,paid_social,standard
+U01217,22-03-2024,36,F,US,paid_social,standard
+U01218,2024-10-18,38,M,AU,referral,premium
+U01219,02/23/2024,21,F,UK,organic,basic
+U01220,2022-03-24,13,F,CA,paid_social,basic
+U01221,2024-02-13,24,NB,US,organic,premium
+U01222,12/26/2022,20,F,US,paid_social,basic
+U01223,04/08/2023,42,F,US,organic,basic
+U01224,2024-01-25,60,F,US,organic,premium
+U01225,2022-11-17,21,Prefer not to say,CA,paid_search,basic
+U01226,2022-11-11,31,M,US,paid_social,standard
+U01227,05/12/2022,54,Prefer not to say,US,partner,basic
+U01228,2022-06-29,43,F,JP,paid_search,premium
+U01229,12/18/2024,35,F,DE,organic,premium
+U01230,24-08-2023,24,M,MX,referral,standard
+U01231,01-02-2024,41,M,UK,partner,basic
+U01232,07-08-2023,38,F,US,organic,basic
+U01233,2024-11-21,33,F,US,paid_social,standard
+U01234,2023-03-05,48,F,US,paid_social,basic
+U01235,09/08/2022,55,M,CA,paid_social,basic
+U01236,04/24/2022,43,M,US,organic,basic
+U01237,2023-05-09,67,F,US,organic,premium
+U01238,03/25/2024,30,NB,US,paid_search,premium
+U01239,2024-05-22,42,M,US,paid_social,standard
+U01240,2022-09-20,37,F,US,referral,standard
+U01241,2023-12-16,25,F,IN,paid_search,premium
+U01242,2023-07-15,35,M,US,paid_social,basic
+U01243,2023-04-23,20,M,US,paid_search,standard
+U01244,2022-04-17,59,M,US,paid_search,premium
+U01245,2024-01-14,63,F,US,partner,premium
+U01246,2024-06-07,28,M,US,paid_search,standard
+U01247,2023-05-15,28,F,US,paid_social,standard
+U01248,2023-04-23,25,F,US,paid_social,premium
+U01249,2022-10-10,67,M,CA,paid_search,basic
+U01250,2022-01-24,24,F,MX,paid_search,basic
+U01251,09/28/2022,51,Prefer not to say,MX,paid_search,premium
+U01252,22-09-2024,37,M,MX,organic,premium
+U01253,2024-08-06,44,M,AU,referral,basic
+U01254,2023-05-01,43,M,US,referral,premium
+U01255,"May 20, 2023",21,M,IN,paid_search,standard
+U01256,02-01-2022,41,Prefer not to say,AU,paid_social,basic
+U01257,2023-03-22,29,F,US,organic,basic
+U01258,2024-10-23,39,F,US,paid_search,basic
+U01259,"Sep 22, 2022",20,M,UK,organic,premium
+U01260,2024-04-22,44,F,US,organic,standard
+U01261,2024-07-09,19,F,US,organic,standard
+U01262,29-06-2022,35,M,US,paid_social,premium
+U01263,2023-10-29,28,F,US,partner,basic
+U01264,2024-03-13,42,M,AU,partner,premium
+U01265,27-06-2023,49,M,IN,paid_social,premium
+U01266,17-12-2022,43,F,CA,paid_social,premium
+U01267,"Sep 15, 2022",50,M,US,referral,premium
+U01268,2022-03-13,29,M,AU,organic,basic
+U01269,03/08/2023,52,Prefer not to say,US,paid_social,premium
+U01270,2023-03-02,19,F,UK,referral,standard
+U01271,2024-04-26,28,M,US,paid_social,basic
+U01272,2023-03-31,21,M,DE,organic,basic
+U01273,2022-11-07,49,M,UK,paid_search,premium
+U01274,"Jan 05, 2023",65,M,US,referral,basic
+U01275,2023-12-02,38,Prefer not to say,US,referral,premium
+U01276,2023-09-07,56,F,AU,organic,basic
+U01277,2023-01-29,32,M,US,organic,standard
+U01278,2022-05-05,28,F,BR,organic,standard
+U01279,2022-09-14,16,M,MX,organic,standard
+U01280,"Jun 12, 2023",35,NB,IN,paid_search,premium
+U01281,2022-05-04,20,M,UK,paid_search,basic
+U01282,2022-01-11,52,F,US,paid_search,basic
+U01283,2023-07-02,26,F,US,paid_social,premium
+U01284,"Oct 10, 2024",24,M,US,referral,premium
+U01285,"Jun 09, 2023",39,M,US,paid_search,premium
+U01286,30-11-2023,58,F,US,referral,standard
+U01287,2022-03-07,52,F,IN,paid_social,premium
+U01288,03/23/2022,76,F,US,referral,basic
+U01289,10/10/2022,29,M,BR,organic,premium
+U01290,2022-11-24,43,F,US,referral,basic
+U01291,"Jun 09, 2023",48,F,US,referral,standard
+U01292,2022-10-15,30,M,MX,paid_search,premium
+U01293,10/14/2024,40,M,DE,paid_search,premium
+U01294,2023-11-14,34,F,UK,paid_search,basic
+U01295,08/05/2022,35,F,US,organic,standard
+U01296,2023-07-31,24,M,CA,paid_social,standard
+U01297,2024-03-13,26,M,JP,paid_social,standard
+U01298,2023-07-27,49,F,CA,organic,standard
+U01299,"Feb 22, 2022",24,M,US,referral,premium
+U01300,2022-03-20,24,M,US,organic,premium
+U01301,2022-08-24,35,Prefer not to say,US,partner,basic
+U01302,2023-11-04,43,F,UK,paid_social,basic
+U01303,2022-10-11,16,M,CA,partner,premium
+U01304,2023-08-05,28,M,JP,organic,standard
+U01305,20-11-2024,45,F,UK,paid_social,basic
+U01306,16-07-2022,44,M,US,organic,basic
+U01307,2022-09-11,61,F,UK,paid_search,standard
+U01308,"Sep 12, 2024",66,M,CA,paid_social,standard
+U01309,2023-02-13,59,M,US,paid_search,basic
+U01310,2022-12-14,28,M,DE,paid_search,standard
+U01311,12/16/2022,46,M,US,referral,basic
+U01312,01-06-2023,16,M,IN,organic,standard
+U01313,"Oct 07, 2022",22,M,US,partner,standard
+U01314,2023-02-24,51,M,US,organic,premium
+U01315,2024-08-17,36,F,UK,paid_social,basic
+U01316,2022-12-04,57,M,IN,organic,standard
+U01317,2022-09-12,33,NB,CA,paid_social,basic
+U01318,2024-04-11,36,F,US,paid_search,basic
+U01319,2024-03-09,22,F,MX,organic,premium
+U01320,2024-12-23,38,F,US,referral,standard
+U01321,"May 16, 2023",35,M,IN,organic,premium
+U01322,22-06-2022,53,F,UK,partner,basic
+U01323,2024-05-05,26,M,BR,partner,premium
+U01324,2022-09-01,45,F,UK,partner,standard
+U01325,2022-02-13,61,Prefer not to say,DE,paid_social,standard
+U01326,2024-07-15,19,M,CA,paid_social,standard
+U01327,2024-11-18,23,F,BR,organic,basic
+U01328,2023-07-11,30,F,US,paid_social,basic
+U01329,"Jul 12, 2024",28,M,BR,partner,premium
+U01330,25-02-2022,41,Prefer not to say,DE,paid_social,basic
+U01331,2023-09-01,25,F,US,paid_social,premium
+U01332,2024-12-29,16,F,IN,paid_search,premium
+U01333,2023-03-03,65,F,MX,organic,basic
+U01334,09/07/2024,22,F,UK,organic,basic
+U01335,2022-04-11,31,F,US,referral,premium
+U01336,"May 25, 2024",48,M,CA,organic,premium
+U01337,2022-12-06,29,F,UK,paid_search,basic
+U01338,2023-07-12,52,F,US,organic,premium
+U01339,04-01-2023,36,M,US,organic,basic
+U01340,30-12-2022,42,F,MX,organic,standard
+U01341,10-05-2024,45,M,IN,paid_search,basic
+U01342,02/14/2022,25,F,CA,paid_search,standard
+U01343,01/02/2023,44,M,US,paid_search,premium
+U01344,2024-06-20,40,M,BR,referral,premium
+U01345,2024-07-29,13,M,US,paid_social,premium
+U01346,02/05/2024,36,M,UK,paid_search,standard
+U01347,2024-02-14,19,Prefer not to say,US,paid_search,standard
+U01348,2023-05-08,52,F,US,organic,basic
+U01349,2023-06-16,36,M,US,organic,standard
+U01350,2024-05-31,55,F,MX,organic,standard
+U01351,15-04-2023,27,F,JP,organic,basic
+U01352,06/15/2023,45,F,US,organic,premium
+U01353,"Feb 10, 2024",43,M,IN,organic,standard
+U01354,07/20/2023,55,M,BR,partner,basic
+U01355,2023-06-11,61,M,IN,paid_search,basic
+U01356,02/20/2022,26,F,UK,paid_search,premium
+U01357,2024-08-17,19,M,CA,paid_social,premium
+U01358,24-12-2022,31,M,IN,organic,premium
+U01359,2023-09-20,27,F,US,partner,premium
+U01360,12/24/2023,52,F,IN,paid_social,premium
+U01361,2024-07-03,38,M,CA,paid_search,premium
+U01362,04-07-2022,34,M,IN,partner,premium
+U01363,2022-11-12,15,F,BR,partner,premium
+U01364,2022-04-14,27,F,JP,organic,standard
+U01365,2023-01-19,53,M,UK,paid_search,premium
+U01366,2022-12-08,47,M,CA,referral,basic
+U01367,05-12-2022,49,M,UK,partner,standard
+U01368,2023-02-17,52,M,US,partner,premium
+U01369,2023-12-20,23,M,US,organic,premium
+U01370,2024-11-03,22,F,AU,paid_search,standard
+U01371,2024-08-20,52,F,US,referral,premium
+U01372,29-01-2023,64,F,IN,paid_search,standard
+U01373,2022-09-28,24,F,US,organic,standard
+U01374,05/29/2024,21,F,US,referral,premium
+U01375,2023-08-16,17,M,DE,paid_social,standard
+U01376,12-05-2023,29,M,MX,paid_search,standard
+U01377,"Mar 26, 2022",14,F,MX,referral,standard
+U01378,2023-03-31,50,M,IN,paid_social,standard
+U01379,2023-03-09,24,F,UK,paid_social,basic
+U01380,2023-10-26,16,F,MX,organic,standard
+U01381,"Oct 16, 2024",23,F,MX,paid_social,premium
+U01382,2023-04-05,26,M,UK,organic,premium
+U01383,09-12-2022,49,M,US,paid_search,standard
+U01384,"Jul 11, 2024",31,F,US,partner,basic
+U01385,2023-05-21,53,M,DE,paid_social,standard
+U01386,2024-11-23,49,Prefer not to say,US,organic,standard
+U01387,24-07-2024,58,M,US,paid_social,basic
+U01388,2023-10-09,250,M,UK,organic,basic
+U01389,2024-03-04,36,M,CA,organic,premium
+U01390,15-01-2024,32,M,US,partner,standard
+U01391,2023-06-16,33,M,AU,organic,basic
+U01392,"Mar 13, 2022",36,F,US,paid_search,premium
+U01393,2023-10-06,57,F,US,organic,premium
+U01394,2024-07-30,48,F,US,paid_search,basic
+U01395,2023-10-10,34,M,US,paid_search,premium
+U01396,2024-03-29,34,F,US,referral,standard
+U01397,2024-04-19,43,M,DE,referral,premium
+U01398,2022-01-10,64,M,BR,paid_search,basic
+U01399,2022-12-18,18,F,US,paid_search,premium
+U01400,08/23/2022,21,M,US,organic,premium
+U01401,2022-03-12,46,Prefer not to say,DE,organic,basic
+U01402,2023-12-21,55,M,CA,referral,standard
+U01403,2024-05-28,47,F,US,paid_search,basic
+U01404,13-04-2023,40,M,UK,organic,premium
+U01405,2023-06-10,22,M,US,paid_search,standard
+U01406,2022-08-28,32,M,US,paid_social,basic
+U01407,2024-05-31,19,NB,AU,organic,premium
+U01408,08-12-2023,47,F,US,organic,premium
+U01409,2023-04-11,199,M,DE,organic,basic
+U01410,01-04-2023,19,M,BR,paid_social,premium
+U01411,25-08-2023,21,Prefer not to say,AU,organic,standard
+U01412,2024-10-07,19,F,US,organic,premium
+U01413,2023-06-18,30,M,US,organic,basic
+U01414,2023-05-22,46,M,JP,organic,standard
+U01415,2024-02-27,21,NB,FR,paid_social,premium
+U01416,2022-06-06,21,F,JP,organic,basic
+U01417,02/14/2022,24,F,CA,organic,premium
+U01418,2023-02-18,19,F,DE,organic,premium
+U01419,"Aug 05, 2022",43,M,JP,paid_social,basic
+U01420,2022-11-30,24,F,CA,paid_social,basic
+U01421,2024-05-06,38,F,UK,referral,basic
+U01422,30-07-2024,13,M,AU,paid_search,basic
+U01423,2022-05-31,37,M,BR,organic,standard
+U01424,05/03/2023,36,M,IN,partner,basic
+U01425,05-05-2024,25,M,US,paid_social,premium
+U01426,2022-02-09,13,M,UK,organic,basic
+U01427,26-08-2022,48,F,CA,organic,basic
+U01428,"Sep 23, 2024",24,M,US,referral,standard
+U01429,"May 23, 2024",50,M,US,paid_search,standard
+U01430,2024-12-02,71,F,FR,organic,standard
+U01431,2024-02-26,24,M,US,organic,premium
+U01432,27-07-2023,40,F,AU,referral,basic
+U01433,2024-11-27,24,F,US,paid_social,basic
+U01434,2023-03-27,35,M,US,referral,basic
+U01435,"Jun 16, 2023",45,M,JP,organic,basic
+U01436,2023-04-09,38,F,MX,paid_social,basic
+U01437,04-10-2022,43,F,US,referral,basic
+U01438,27-01-2022,30,M,US,referral,standard
+U01439,18-01-2022,46,M,FR,paid_social,standard
+U01440,2023-11-15,25,F,AU,paid_search,premium
+U01441,2022-07-31,20,F,US,referral,premium
+U01442,2024-11-05,30,M,US,paid_search,standard
+U01443,2022-07-13,25,F,IN,paid_search,premium
+U01444,"Feb 07, 2024",31,M,CA,organic,basic
+U01445,2024-11-14,23,F,FR,partner,standard
+U01446,"Aug 03, 2024",39,M,CA,organic,premium
+U01447,"Jul 01, 2023",44,M,US,partner,standard
+U01448,2023-01-29,38,Prefer not to say,US,organic,basic
+U01449,10/20/2022,66,M,US,referral,standard
+U01450,2022-10-24,28,F,BR,partner,premium
+U01451,15-06-2022,42,F,IN,organic,basic
+U01452,2023-11-21,53,M,AU,organic,basic
+U01453,2023-09-17,28,F,US,referral,standard
+U01454,02/12/2024,26,F,US,paid_social,standard
+U01455,2024-11-30,64,F,US,paid_social,standard
+U01456,04/10/2022,20,F,FR,paid_search,standard
+U01457,2022-12-26,15,F,US,organic,premium
+U01458,18-03-2022,28,F,US,organic,premium
+U01459,2024-10-19,56,M,FR,paid_social,premium
+U01460,2022-02-04,34,M,US,partner,basic
+U01461,03-08-2024,33,F,AU,paid_search,basic
+U01462,2023-10-15,32,Prefer not to say,CA,paid_social,basic
+U01463,2022-08-01,23,M,US,referral,standard
+U01464,04/23/2024,22,F,BR,organic,basic
+U01465,2022-11-08,63,M,US,partner,premium
+U01466,2022-02-09,30,F,US,organic,basic
+U01467,2023-08-25,27,F,UK,organic,standard
+U01468,2024-08-07,27,F,IN,organic,standard
+U01469,2023-04-10,19,M,BR,organic,basic
+U01470,04-04-2024,17,M,UK,organic,premium
+U01471,2022-08-29,58,M,US,referral,standard
+U01472,2022-05-22,23,F,US,organic,premium
+U01473,11/07/2022,32,M,US,referral,standard
+U01474,"Nov 14, 2024",26,M,US,paid_search,standard
+U01475,2023-11-01,32,M,FR,organic,basic
+U01476,2024-11-19,47,NB,UK,organic,premium
+U01477,2023-10-25,25,F,US,paid_social,standard
+U01478,"Sep 11, 2023",29,M,BR,paid_search,premium
+U01479,2023-08-26,21,M,US,paid_social,premium
+U01480,2024-10-29,25,F,AU,paid_search,standard
+U01481,2023-01-01,50,M,CA,partner,premium
+U01482,2023-02-17,39,F,CA,paid_search,basic
+U01483,2023-08-20,25,F,CA,referral,premium
+U01484,2022-11-20,32,F,AU,paid_search,basic
+U01485,02/14/2024,35,M,DE,organic,basic
+U01486,2022-02-13,24,M,UK,organic,standard
+U01487,17-09-2023,30,F,FR,paid_search,basic
+U01488,06-03-2023,17,M,IN,referral,premium
+U01489,2023-07-14,38,F,CA,organic,standard
+U01490,"Apr 22, 2023",28,M,FR,organic,standard
+U01491,2024-09-29,63,M,FR,organic,standard
+U01492,2022-03-27,60,M,CA,partner,premium
+U01493,2023-04-23,36,M,CA,organic,basic
+U01494,2024-06-03,25,F,UK,paid_social,premium
+U01495,27-01-2023,24,F,US,paid_search,standard
+U01496,2022-05-21,20,M,US,paid_search,premium
+U01497,01/05/2022,25,F,US,organic,basic
+U01498,2023-01-29,30,F,AU,organic,basic
+U01499,2023-06-30,60,Prefer not to say,US,organic,premium
+U01500,03-06-2024,43,M,US,referral,basic

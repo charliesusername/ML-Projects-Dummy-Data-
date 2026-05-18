@@ -1,0 +1,2075 @@
+sub_id,user_id,Plan,Price ($/mo),Start,End,Payment Method,Canceled
+S001056,U00760,basic,8.99,13-10-2023,,credit_card,false
+S001165,U00843,premium,17.99,2024-11-05,,paypal,0
+S001243,U00895,standard,13.99,2023-12-27,2024-08-04,google_pay,0
+S001428,U01033,standard,13.99,2023-09-07,,apple_pay,no
+S000005,U00002,basic,8.99,06/27/2022,05-11-2022,paypal,N
+S000172,U00117,premium,17.99,22-10-2023,06/23/2024,paypal,N
+S001205,U00869,basic,8.99,2024-01-30,,credit_card,no
+S001530,U01112,basic,8.99,2024-07-07,,credit_card,FALSE
+S000307,U00220,standard,13.99,2022-08-18,,paypal,no
+S001413,U01021,premium,17.99,2023-10-09,03-02-2024,credit_card,false
+S001767,U01277,standard,13.99,2023-01-29,,apple_pay,false
+S000445,U00323,standard,13.99,2023-04-12,,credit_card,false
+S000202,U00140,basic,8.99,2024-09-28,2025-03-31,paypal,no
+S000343,U00245,basic,8.99,2022-10-30,2023-06-06,google_pay,true
+S001820,U01312,standard,13.99,2023-06-01,2024-04-28,paypal,false
+S001455,U01053,basic,8.99,13-03-2025,,credit_card,N
+S000789,U00572,premium,17.99,2025-01-13,,google_pay,FALSE
+S000342,U00244,basic,8.99,29-06-2022,,google_pay,N
+S000802,U00582,basic,8.99,2024-11-12,2025-03-22,paypal,true
+S001143,U00826,basic,8.99,2023-07-05,,paypal,N
+S000415,U00297,basic,8.99,"Aug 18, 2024",03/31/2025,apple_pay,FALSE
+S000285,U00205,premium,17.99,2023-12-01,,apple_pay,no
+S001291,U00932,basic,8.99,2025-02-27,2025-03-31,paypal,no
+S000208,U00143,standard,13.99,2024-09-25,,apple_pay,FALSE
+S001558,U01131,basic,8.99,2024-01-28,22-02-2025,paypal,false
+S000407,U00293,basic,8.99,2023-01-30,2023-12-10,apple_pay,N
+S000735,U00534,premium,17.99,2024-09-20,"Dec 04, 2024",paypal,true
+S001580,U01146,premium,17.99,2024-03-27,,credit_card,N
+S001905,U01375,basic,8.99,2024-03-25,,apple_pay,false
+S001992,U01443,premium,17.99,"Jul 13, 2022",,apple_pay,FALSE
+S000078,U00053,premium,17.99,2022-11-06,2023-07-01,paypal,N
+S001232,U00887,standard,13.99,29-03-2022,2023-03-26,credit_card,N
+S001602,U01162,basic,8.99,22-06-2022,,google_pay,FALSE
+S000478,U00347,premium,17.99,20-08-2024,17-10-2024,google_pay,1
+S001158,U00838,premium,17.99,31-03-2022,,google_pay,false
+S001781,U01286,standard,13.99,2024-04-17,2024-12-17,google_pay,0
+S001311,U00950,standard,13.99,01/10/2022,"Aug 17, 2022",credit_card,no
+S001943,U01402,standard,13.99,2023-12-21,,credit_card,FALSE
+S000052,U00036,basic,8.99,08-06-2024,,google_pay,0
+S001500,U01088,premium,17.99,2025-02-21,2025-03-31,google_pay,0
+S001190,U00862,basic,8.99,2024-04-11,,paypal,FALSE
+S000547,U00396,premium,17.99,01/15/2023,,credit_card,no
+S001711,U01239,standard,13.99,2024-11-20,2024-12-24,paypal,yes
+S001208,U00871,premium,17.99,01/30/2024,2024-05-12,credit_card,Y
+S000749,U00545,basic,8.99,2024-02-15,,apple_pay,false
+S001447,U01047,premium,17.99,2023-10-13,,google_pay,no
+S000692,U00504,standard,13.99,2023-09-19,2024-11-09,apple_pay,TRUE
+S001444,U01045,premium,17.99,2022-12-18,,credit_card,FALSE
+S002020,U01463,standard,13.99,08/01/2022,,paypal,N
+S001348,U00972,basic,8.99,2023-04-17,2024-03-13,paypal,FALSE
+S001370,U00988,premium,17.99,2023-08-05,06/15/2024,apple_pay,no
+S002074,U01500,basic,8.99,03-06-2024,,credit_card,FALSE
+S000701,U00509,standard,13.99,2024-12-11,,apple_pay,no
+S001740,U01260,standard,13.99,"Apr 22, 2024",03/02/2025,google_pay,false
+S000423,U00305,premium,17.99,22-12-2022,,credit_card,FALSE
+S001779,U01285,premium,17.99,2023-06-09,,paypal,N
+S000293,U00212,standard,13.99,2023-07-12,,apple_pay,no
+S001950,U01408,premium,17.99,2023-12-08,09/22/2024,google_pay,1
+S001506,U01092,standard,13.99,2023-03-14,,apple_pay,no
+S000900,U00647,premium,17.99,2022-07-07,,credit_card,0
+S000553,U00401,standard,13.99,2022-10-08,,paypal,0
+S001569,U01137,premium,17.99,2022-02-12,2022-04-04,google_pay,yes
+S000599,U00436,basic,8.99,"Jun 24, 2024",14-12-2024,google_pay,FALSE
+S000505,U00368,standard,13.99,2024-12-25,,paypal,N
+S001914,U01380,premium,17.99,2024-10-03,,google_pay,0
+S000794,U00575,basic,8.99,"Jul 15, 2023",,google_pay,no
+S001949,U01407,premium,17.99,2024-05-31,,credit_card,no
+S002004,U01452,basic,8.99,2023-11-21,05/13/2024,paypal,false
+S000433,U00314,premium,17.99,2022-02-18,2022-09-20,credit_card,N
+S001017,U00731,standard,13.99,2024-07-17,,credit_card,false
+S001258,U00909,premium,17.99,2022-02-19,,google_pay,FALSE
+S001281,U00927,basic,8.99,2022-04-30,2022-12-19,credit_card,false
+S001082,U00779,standard,13.99,2023-09-03,2024-06-24,apple_pay,false
+S000616,U00450,standard,13.99,2022-01-23,,credit_card,N
+S000716,U00521,standard,13.99,2022-08-29,,google_pay,no
+S001016,U00730,basic,8.99,2023-12-18,,paypal,N
+S000675,U00492,premium,17.99,19-11-2022,,paypal,no
+S000107,U00071,basic,8.99,11-03-2022,"Feb 06, 2023",credit_card,0
+S001485,U01078,basic,8.99,2024-10-01,27-01-2025,paypal,N
+S000159,U00107,basic,8.99,2022-10-30,,paypal,false
+S000806,U00584,premium,17.99,"Mar 01, 2023",,google_pay,N
+S002027,U01469,basic,8.99,2023-04-10,,credit_card,0
+S000686,U00500,basic,8.99,2022-06-13,,paypal,false
+S001469,U01065,standard,13.99,2023-06-10,,google_pay,N
+S001886,U01359,premium,17.99,09/20/2023,,paypal,N
+S000130,U00084,basic,8.99,2023-11-23,24-10-2024,apple_pay,true
+S000896,U00645,basic,8.99,01/07/2024,"Oct 12, 2024",paypal,N
+S001873,U01349,standard,13.99,2023-06-16,2024-01-27,apple_pay,FALSE
+S001446,U01046,standard,13.99,2025-01-26,,credit_card,FALSE
+S000044,U00030,standard,13.99,06/30/2024,14-01-2025,paypal,0
+S001890,U01363,premium,17.99,11/12/2022,,credit_card,0
+S000171,U00116,basic,8.99,2024-02-18,,google_pay,N
+S001787,U01290,basic,8.99,2022-11-24,"Jul 16, 2023",apple_pay,N
+S000721,U00525,premium,17.99,2024-03-21,2024-08-31,apple_pay,N
+S000885,U00636,basic,8.99,24-09-2022,,apple_pay,N
+S001363,U00984,standard,13.99,2023-08-17,,paypal,N
+S001372,U00989,standard,13.99,07-07-2024,2024-10-03,credit_card,N
+S001685,U01223,basic,8.99,12-04-2024,2024-07-10,google_pay,yes
+S000889,U00639,standard,13.99,2023-05-28,,google_pay,N
+S000924,U00661,basic,8.99,2024-01-07,,apple_pay,0
+S002031,U01471,premium,17.99,2023-09-21,,paypal,no
+S002063,U01492,premium,17.99,2022-03-27,,paypal,0
+S001129,U00815,premium,17.99,2023-07-29,07-02-2024,google_pay,false
+S000394,U00285,basic,8.99,10/06/2022,,paypal,N
+S000425,U00307,standard,13.99,2024-09-07,,google_pay,N
+S000468,U00339,basic,8.99,2023-12-24,2024-05-27,credit_card,FALSE
+S001566,U01134,premium,17.99,"May 26, 2024",,google_pay,N
+S001720,U01245,premium,17.99,14-01-2024,2024-10-06,credit_card,N
+S001050,U00756,basic,8.99,2022-11-05,11-07-2023,paypal,FALSE
+S000064,U00046,basic,8.99,2023-12-14,2024-07-14,google_pay,false
+S000923,U00661,basic,8.99,2023-10-13,"Dec 24, 2023",apple_pay,N
+S000696,U00506,standard,13.99,2023-09-29,,apple_pay,false
+S001747,U01264,premium,17.99,"Mar 13, 2024",,credit_card,FALSE
+S000220,U00151,standard,13.99,2024-08-09,16-10-2024,paypal,1
+S001853,U01335,standard,13.99,2022-07-31,2023-03-22,credit_card,FALSE
+S001966,U01421,basic,8.99,2024-11-24,,credit_card,N
+S000855,U00614,standard,13.99,2022-12-30,,paypal,no
+S000346,U00248,premium,17.99,2022-03-04,2022-04-17,paypal,1
+S002030,U01471,standard,13.99,08/29/2022,27-08-2023,paypal,false
+S000577,U00418,basic,8.99,01/02/2024,,paypal,N
+S000702,U00510,standard,13.99,2023-05-03,,credit_card,no
+S001915,U01381,premium,17.99,2024-10-16,,google_pay,FALSE
+S000098,U00066,premium,17.99,"Nov 21, 2022",08/03/2023,apple_pay,N
+S000666,U00485,basic,8.99,2023-12-15,,credit_card,no
+S001565,U01134,standard,13.99,04-05-2023,2024-05-10,google_pay,FALSE
+S001946,U01405,standard,13.99,06/10/2023,,apple_pay,no
+S000260,U00185,standard,13.99,2024-12-15,"Mar 31, 2025",apple_pay,0
+S001897,U01368,premium,17.99,02/17/2023,2024-05-24,paypal,yes
+S001652,U01200,standard,13.99,15-07-2024,2024-11-28,credit_card,0
+S000678,U00494,standard,13.99,2023-01-09,,credit_card,N
+S000938,U00671,basic,8.99,2024-09-07,"Mar 31, 2025",apple_pay,N
+S001108,U00799,basic,8.99,2023-04-02,"Jul 28, 2023",paypal,Y
+S000292,U00212,standard,13.99,2022-06-11,"Jul 09, 2023",apple_pay,no
+S001014,U00729,standard,13.99,03/01/2023,,paypal,no
+S000932,U00668,basic,8.99,20-04-2024,2025-03-10,credit_card,no
+S001342,U00968,premium,17.99,2024-07-29,2024-11-25,apple_pay,true
+S001831,U01318,basic,8.99,"Apr 11, 2024",,paypal,false
+S000586,U00425,basic,8.99,2022-05-02,,google_pay,FALSE
+S001832,U01319,premium,17.99,2024-03-09,2025-02-06,paypal,no
+S001993,U01444,basic,8.99,2024-02-07,,paypal,N
+S001706,U01237,premium,17.99,2023-10-01,2024-02-11,google_pay,FALSE
+S000363,U00261,basic,8.99,2022-07-24,,paypal,FALSE
+S001217,U00878,standard,13.99,2024-07-10,2024-12-17,google_pay,FALSE
+S001344,U00969,basic,8.99,2024-07-03,02/03/2025,credit_card,FALSE
+S000017,U00010,basic,8.99,03/20/2023,31-12-2023,paypal,false
+S000886,U00637,basic,8.99,04/14/2023,2024-03-20,paypal,FALSE
+S001275,U00922,standard,13.99,2023-10-26,,google_pay,N
+S001978,U01432,basic,8.99,2023-07-27,,google_pay,no
+S000882,U00633,standard,13.99,2024-08-19,2025-03-17,google_pay,yes
+S001719,U01244,premium,17.99,04/17/2022,,paypal,N
+S001239,U00892,premium,17.99,"Mar 21, 2023",2023-09-06,credit_card,false
+S000837,U00603,basic,8.99,2024-03-29,2024-12-17,credit_card,N
+S000489,U00355,basic,8.99,2022-08-13,,apple_pay,0
+S000120,U00078,basic,8.99,2023-12-25,2024-05-23,google_pay,no
+S001301,U00941,basic,8.99,11/28/2023,,credit_card,no
+S000233,U00162,premium,17.99,09-02-2023,,google_pay,0
+S001027,U00739,basic,8.99,2022-08-04,05/23/2023,credit_card,FALSE
+S001908,U01377,standard,13.99,26-03-2022,2023-02-23,google_pay,N
+S000603,U00439,premium,17.99,02-07-2024,,google_pay,FALSE
+S000611,U00445,standard,13.99,05/24/2024,2024-12-23,apple_pay,TRUE
+S001503,U01091,basic,8.99,2022-07-31,14-11-2022,google_pay,N
+S001391,U01003,premium,17.99,"Mar 18, 2022",07-12-2022,google_pay,Y
+S001248,U00899,standard,13.99,2023-11-28,2024-07-19,google_pay,yes
+S000830,U00599,premium,17.99,2023-06-07,,apple_pay,false
+S001164,U00842,basic,8.99,02/17/2025,,credit_card,0
+S000935,U00670,premium,17.99,11/09/2022,2023-04-29,apple_pay,N
+S000576,U00417,basic,8.99,2022-04-29,,paypal,false
+S001422,U01028,basic,8.99,2024-10-27,,credit_card,no
+S001173,U00850,standard,13.99,2023-07-11,,credit_card,false
+S000087,U00060,basic,8.99,2024-09-28,18-03-2025,credit_card,FALSE
+S000054,U00038,standard,13.99,10/25/2022,,google_pay,0
+S000135,U00089,premium,17.99,09/26/2023,,paypal,FALSE
+S000564,U00409,standard,13.99,11-04-2022,2023-01-18,google_pay,N
+S001111,U00802,standard,13.99,2023-11-27,2024-03-03,paypal,FALSE
+S001237,U00890,standard,13.99,2025-02-04,2025-03-26,paypal,TRUE
+S001650,U01198,basic,8.99,2024-12-16,2025-03-31,apple_pay,0
+S000725,U00528,basic,8.99,2023-01-12,2023-12-16,paypal,FALSE
+S000534,U00388,standard,13.99,2022-06-28,04-01-2023,credit_card,0
+S000467,U00339,basic,8.99,2023-03-15,2023-12-07,credit_card,no
+S001247,U00898,basic,8.99,2024-04-28,,google_pay,no
+S000964,U00692,premium,17.99,01/01/2023,2023-09-27,google_pay,N
+S000093,U00063,premium,17.99,"Feb 19, 2024",2024-12-18,paypal,FALSE
+S000361,U00259,basic,8.99,2024-03-12,,paypal,no
+S001396,U01007,standard,13.99,07/17/2024,,google_pay,0
+S000449,U00325,premium,17.99,2023-12-01,,apple_pay,FALSE
+S001825,U01314,basic,8.99,2023-10-10,10/06/2024,google_pay,0
+S000111,U00073,premium,17.99,05-11-2024,2025-01-31,apple_pay,FALSE
+S000793,U00575,basic,8.99,2022-12-21,2023-06-23,google_pay,FALSE
+S000891,U00640,premium,17.99,2023-04-24,,apple_pay,0
+S001696,U01231,basic,8.99,18-03-2025,2025-03-31,google_pay,true
+S001817,U01310,standard,13.99,12/14/2022,,google_pay,0
+S001227,U00885,standard,13.99,05/17/2022,2022-11-29,google_pay,FALSE
+S001337,U00966,premium,17.99,"Mar 18, 2024",26-08-2024,credit_card,0
+S000162,U00110,premium,17.99,2024-01-13,27-08-2024,paypal,TRUE
+S000956,U00685,standard,13.99,2022-10-19,2023-03-23,apple_pay,yes
+S000283,U00203,standard,13.99,2023-05-14,2023-07-03,google_pay,Y
+S001316,U00953,basic,8.99,"May 03, 2023",12/07/2023,google_pay,FALSE
+S001362,U00983,basic,8.99,"Dec 15, 2024",2025-03-31,apple_pay,FALSE
+S000751,U00547,standard,13.99,30-10-2024,31-03-2025,paypal,false
+S000424,U00306,standard,13.99,2022-08-22,,google_pay,false
+S001058,U00762,standard,13.99,2023-10-06,,credit_card,FALSE
+S001404,U01014,standard,13.99,2024-10-18,,paypal,0
+S001713,U01241,premium,17.99,12/16/2023,"Jun 19, 2024",credit_card,no
+S001538,U01117,basic,8.99,2025-02-01,,credit_card,no
+S001790,U01292,premium,,2022-10-15,06/30/2023,paypal,false
+S001365,U00986,standard,13.99,2024-09-07,2025-02-13,apple_pay,no
+S000690,U00503,basic,8.99,2023-04-20,2023-10-10,google_pay,false
+S002043,U01480,standard,13.99,2024-10-29,31-03-2025,credit_card,0
+S000665,U00485,standard,13.99,2023-03-20,2023-11-23,credit_card,false
+S001068,U00771,premium,17.99,2024-05-12,2025-03-22,google_pay,1
+S001179,U00854,basic,8.99,"Feb 13, 2022",2022-12-04,apple_pay,no
+S000205,U00142,basic,8.99,2023-09-02,"Dec 17, 2023",apple_pay,FALSE
+S001146,U00828,standard,13.99,"Jun 02, 2022",,apple_pay,0
+S001128,U00814,standard,13.99,2022-10-27,,paypal,0
+S001306,U00945,premium,17.99,10/15/2024,,apple_pay,false
+S000498,U00363,premium,17.99,2022-01-14,03/11/2022,credit_card,true
+S001637,U01186,premium,17.99,09/12/2024,31-03-2025,apple_pay,false
+S001977,U01431,premium,17.99,02/26/2024,2024-04-16,google_pay,Y
+S000689,U00502,premium,17.99,23-02-2023,,credit_card,N
+S000353,U00253,premium,17.99,2023-08-27,,google_pay,false
+S001420,U01026,standard,13.99,2023-02-23,,credit_card,0
+S001080,U00778,standard,13.99,2023-09-26,15-03-2024,google_pay,false
+S001037,U00746,standard,13.99,2023-12-14,,google_pay,N
+S000653,U00476,premium,17.99,2022-06-28,2022-09-15,apple_pay,1
+S000169,U00115,basic,8.99,2022-01-02,2022-11-12,paypal,false
+S001752,U01268,basic,8.99,2022-03-13,,credit_card,FALSE
+S001178,U00853,basic,8.99,2023-06-08,,paypal,no
+S001435,U01039,standard,13.99,2022-04-04,,apple_pay,no
+S000037,U00026,standard,13.99,2024-07-16,08-11-2024,credit_card,no
+S001597,U01159,standard,13.99,01/25/2024,2025-01-30,apple_pay,N
+S002022,U01465,premium,17.99,2022-11-08,,apple_pay,0
+S001954,U01411,standard,13.99,2023-08-25,,google_pay,no
+S001629,U01181,basic,8.99,25-05-2023,10/27/2023,credit_card,FALSE
+S001913,U01380,standard,13.99,2023-10-26,"Sep 04, 2024",google_pay,N
+S000567,U00411,premium,17.99,05-04-2023,05-01-2024,paypal,no
+S001020,U00733,premium,17.99,19-04-2023,,apple_pay,0
+S001368,U00987,standard,13.99,2023-08-09,2024-09-04,apple_pay,no
+S001010,U00726,standard,13.99,"Jan 21, 2024",,paypal,false
+S001116,U00804,premium,17.99,2023-08-09,2023-12-24,apple_pay,N
+S001047,U00754,premium,17.99,2023-05-18,27-02-2024,google_pay,0
+S001986,U01438,standard,13.99,2022-01-27,,credit_card,FALSE
+S000132,U00086,basic,8.99,2023-10-04,,google_pay,FALSE
+S001468,U01064,premium,17.99,2022-06-14,,paypal,no
+S002072,U01498,basic,8.99,28-05-2023,,google_pay,N
+S000266,U00191,premium,17.99,"Oct 08, 2022",03/13/2023,apple_pay,no
+S001816,U01309,basic,8.99,02/13/2023,,credit_card,0
+S001728,U01252,premium,17.99,2024-09-22,2025-03-31,paypal,N
+S000560,U00405,premium,17.99,2024-01-13,2024-02-17,paypal,TRUE
+S000857,U00615,basic,8.99,07/08/2023,,credit_card,false
+S000109,U00072,standard,13.99,"Jul 22, 2022",,paypal,N
+S001336,U00965,standard,13.99,2024-01-27,,credit_card,0
+S000457,U00331,basic,8.99,2023-12-01,,google_pay,no
+S001899,U01370,standard,13.99,"Nov 03, 2024",,apple_pay,0
+S001974,U01428,standard,13.99,2024-09-23,,credit_card,0
+S001539,U01118,premium,17.99,2024-10-08,,apple_pay,no
+S002016,U01459,premium,17.99,19-10-2024,19-01-2025,apple_pay,Y
+S000501,U00366,standard,13.99,2022-11-17,2023-05-21,apple_pay,false
+S001156,U00836,premium,17.99,09/01/2024,,apple_pay,N
+S000313,U00224,premium,17.99,2023-05-16,2024-05-12,credit_card,FALSE
+S001039,U00748,basic,8.99,2022-01-11,2022-05-18,credit_card,yes
+S001374,U00990,premium,17.99,03/22/2023,,credit_card,0
+S000167,U00114,basic,8.99,03/10/2022,2022-09-23,google_pay,FALSE
+S001416,U01023,premium,17.99,2024-11-19,"Mar 31, 2025",google_pay,FALSE
+S001764,U01275,premium,17.99,2024-11-30,,apple_pay,no
+S000269,U00193,premium,17.99,22-02-2022,,paypal,0
+S000752,U00548,basic,8.99,2023-09-15,,paypal,0
+S001277,U00924,basic,8.99,2022-02-24,03/30/2023,apple_pay,yes
+S000231,U00161,premium,17.99,2023-10-27,07/13/2024,google_pay,false
+S000849,U00611,premium,17.99,2022-07-24,06-04-2023,apple_pay,no
+S001979,U01433,basic,8.99,"Nov 27, 2024",2025-03-04,paypal,yes
+S000426,U00308,premium,17.99,10-05-2022,,apple_pay,false
+S000206,U00142,basic,8.99,2024-01-15,2024-08-13,apple_pay,TRUE
+S000224,U00154,standard,13.99,2022-07-01,,credit_card,FALSE
+S001443,U01045,premium,17.99,2022-04-19,2022-12-10,credit_card,false
+S001990,U01441,premium,17.99,2022-07-31,"Jun 01, 2023",credit_card,yes
+S000909,U00653,premium,17.99,2023-07-13,2024-11-05,credit_card,yes
+S001312,U00950,standard,13.99,2022-08-25,,credit_card,no
+S001902,U01373,standard,13.99,2022-09-28,,paypal,N
+S000057,U00040,standard,13.99,2025-01-29,17-03-2025,apple_pay,true
+S001286,U00929,basic,8.99,"Feb 28, 2023",,credit_card,false
+S000276,U00197,premium,17.99,07/18/2024,2025-03-31,credit_card,false
+S001505,U01092,premium,17.99,02-05-2022,21-02-2023,apple_pay,no
+S000043,U00029,standard,13.99,2022-10-07,,google_pay,no
+S001241,U00893,standard,13.99,11/06/2024,2025-03-31,credit_card,0
+S001231,U00886,basic,8.99,16-05-2023,,credit_card,0
+S000657,U00479,premium,17.99,"Jul 09, 2023",,apple_pay,FALSE
+S000461,U00333,basic,8.99,2023-06-29,,paypal,false
+S001609,U01166,basic,8.99,22-04-2023,2024-02-21,google_pay,0
+S000845,U00607,premium,17.99,07/16/2023,,paypal,N
+S000535,U00388,standard,13.99,23-01-2023,2023-04-03,credit_card,no
+S001025,U00737,basic,8.99,2022-10-28,,paypal,false
+S001198,U00866,premium,17.99,2022-08-19,08/31/2023,paypal,0
+S001699,U01233,standard,13.99,2024-11-21,26-02-2025,paypal,no
+S001904,U01375,standard,13.99,16-08-2023,2024-03-12,apple_pay,0
+S001985,U01437,basic,8.99,2022-10-04,,credit_card,0
+S001852,U01335,premium,17.99,"Apr 11, 2022",2022-07-06,credit_card,no
+S000245,U00171,basic,8.99,12-02-2023,,apple_pay,0
+S001941,U01401,basic,8.99,03/12/2022,01/01/2023,paypal,no
+S001457,U01055,premium,17.99,2023-10-05,2024-02-29,paypal,1
+S001482,U01076,standard,13.99,2022-08-02,,google_pay,N
+S000291,U00211,basic,8.99,08-11-2024,,apple_pay,no
+S001421,U01027,premium,17.99,2024-11-26,,credit_card,no
+S001011,U00727,premium,17.99,09/26/2022,,credit_card,0
+S000182,U00122,premium,17.99,08-02-2024,,credit_card,N
+S001582,U01147,standard,13.99,2025-02-27,"Mar 31, 2025",apple_pay,N
+S000179,U00120,standard,13.99,"Nov 09, 2022",,paypal,N
+S001379,U00995,standard,13.99,2023-12-02,,paypal,N
+S001087,U00783,premium,17.99,27-05-2023,07/22/2023,apple_pay,Y
+S001763,U01275,premium,17.99,12/02/2023,21-11-2024,apple_pay,no
+S001827,U01315,basic,8.99,2024-08-17,2025-03-31,google_pay,N
+S001874,U01349,premium,17.99,"Feb 04, 2024",,apple_pay,N
+S000437,U00316,standard,13.99,11/26/2023,,google_pay,N
+S000036,U00025,premium,17.99,2022-07-04,,google_pay,false
+S000336,U00239,standard,13.99,"Jan 18, 2023",,paypal,no
+S000755,U00550,standard,13.99,2022-12-31,2023-04-23,credit_card,false
+S000508,U00371,basic,8.99,2022-05-02,,paypal,no
+S001133,U00818,standard,13.99,2023-11-08,2024-09-15,google_pay,1
+S001625,U01178,basic,8.99,09/14/2024,"Mar 31, 2025",credit_card,N
+S000804,U00583,standard,13.99,09/21/2024,12-01-2025,paypal,FALSE
+S001260,U00910,premium,17.99,26-05-2024,,google_pay,FALSE
+S001721,U01245,standard,13.99,10/15/2024,2024-11-28,credit_card,TRUE
+S000544,U00393,premium,17.99,04/20/2022,2022-05-30,google_pay,1
+S001991,U01442,standard,13.99,"Nov 05, 2024",,credit_card,no
+S000914,U00656,premium,17.99,"Jan 23, 2025",,apple_pay,FALSE
+S000607,U00442,standard,13.99,2023-03-01,09/19/2023,apple_pay,TRUE
+S000646,U00470,premium,17.99,2024-06-25,,apple_pay,0
+S001507,U01093,standard,13.99,2022-07-30,,apple_pay,false
+S001388,U01002,standard,13.99,2022-11-23,2023-12-26,google_pay,no
+S001875,U01350,standard,13.99,2024-05-31,12/04/2024,apple_pay,TRUE
+S001267,U00914,basic,8.99,05-01-2023,2023-05-26,google_pay,TRUE
+S000966,U00693,basic,8.99,2023-05-29,2023-11-06,credit_card,0
+S001045,U00753,basic,8.99,2024-04-28,,google_pay,FALSE
+S001292,U00933,standard,13.99,2024-09-05,2025-03-31,apple_pay,N
+S000626,U00458,basic,8.99,"Sep 29, 2023",,google_pay,0
+S001703,U01236,basic,8.99,"Apr 24, 2022",2023-04-22,credit_card,N
+S001486,U01078,basic,8.99,2025-02-23,,paypal,false
+S001498,U01087,premium,17.99,"Dec 24, 2022",,paypal,FALSE
+S001585,U01150,standard,13.99,2024-01-18,,apple_pay,0
+S001623,U01176,standard,13.99,08-08-2023,,credit_card,0
+S001765,U01276,basic,8.99,2023-09-07,04/17/2024,credit_card,false
+S001307,U00946,standard,13.99,05/20/2023,,google_pay,false
+S001921,U01387,basic,8.99,2024-07-24,02-01-2025,paypal,Y
+S000100,U00066,premium,17.99,13-11-2023,,apple_pay,N
+S001211,U00874,basic,8.99,2023-12-10,2024-07-23,google_pay,true
+S000118,U00076,basic,8.99,18-01-2025,,google_pay,N
+S001755,U01269,premium,17.99,2024-02-07,,apple_pay,N
+S001548,U01124,premium,17.99,2024-01-15,,apple_pay,0
+S000566,U00410,standard,13.99,2024-11-21,31-03-2025,credit_card,N
+S001806,U01303,premium,17.99,2022-10-11,,credit_card,false
+S000067,U00047,standard,13.99,2023-08-17,2024-01-07,google_pay,yes
+S001035,U00745,basic,8.99,2023-09-04,09/12/2024,google_pay,0
+S000474,U00344,premium,17.99,2023-03-03,,credit_card,0
+S001712,U01240,standard,13.99,"Sep 20, 2022",,apple_pay,no
+S000850,U00611,premium,17.99,04/09/2023,2024-04-09,apple_pay,FALSE
+S000848,U00610,basic,8.99,2024-09-27,,credit_card,0
+S002036,U01475,basic,8.99,2023-11-01,"Oct 25, 2024",credit_card,true
+S001167,U00845,standard,13.99,01/11/2023,02-05-2023,credit_card,N
+S000796,U00577,basic,8.99,2024-04-21,,google_pay,no
+S001560,U01132,basic,8.99,2022-10-13,12/21/2022,paypal,FALSE
+S000572,U00414,standard,13.99,2022-04-22,18-12-2022,google_pay,N
+S001893,U01365,premium,17.99,2023-01-19,2023-04-14,paypal,TRUE
+S000839,U00604,basic,8.99,02-10-2022,2023-02-21,google_pay,N
+S000517,U00376,standard,13.99,2023-01-06,2023-10-06,credit_card,0
+S001471,U01067,basic,8.99,2022-04-08,,google_pay,false
+S000435,U00315,basic,8.99,09/30/2023,2024-05-23,paypal,FALSE
+S000650,U00474,basic,8.99,02/20/2023,,apple_pay,false
+S001223,U00882,premium,17.99,14-06-2024,2024-09-01,credit_card,yes
+S000366,U00263,basic,8.99,2023-03-04,,paypal,0
+S000279,U00199,standard,13.99,2022-08-19,2024-02-17,credit_card,yes
+S000878,U00630,premium,17.99,2023-09-02,2024-09-03,credit_card,false
+S001283,U00928,premium,17.99,2022-12-25,,paypal,N
+S000086,U00059,basic,8.99,2023-01-10,,google_pay,FALSE
+S000775,U00564,basic,8.99,2022-09-07,,google_pay,N
+S000866,U00621,premium,17.99,2025-03-30,2025-03-31,apple_pay,no
+S000011,U00006,basic,8.99,03/22/2024,,credit_card,0
+S001849,U01333,basic,8.99,2023-08-27,2024-04-03,credit_card,no
+S001811,U01306,basic,8.99,2022-07-16,2023-07-19,paypal,FALSE
+S001382,U00997,standard,13.99,18-06-2024,,apple_pay,no
+S000360,U00258,standard,13.99,2023-03-05,,google_pay,false
+S000041,U00028,standard,13.99,2024-03-30,2025-02-10,paypal,0
+S001925,U01391,basic,8.99,16-06-2023,2024-06-02,paypal,FALSE
+S000625,U00457,premium,17.99,03-08-2022,,paypal,no
+S001517,U01102,basic,8.99,2022-05-19,,google_pay,no
+S001324,U00957,standard,13.99,06/27/2023,,paypal,no
+S001822,U01312,basic,8.99,2025-03-17,,paypal,N
+S001938,U01398,premium,17.99,2023-04-28,,paypal,FALSE
+S001101,U00795,basic,8.99,2023-03-02,,paypal,FALSE
+S001673,U01215,standard,13.99,10/11/2022,,credit_card,N
+S002070,U01497,basic,8.99,2022-01-05,2022-07-06,paypal,Y
+S000133,U00087,premium,17.99,"Jul 04, 2022",,apple_pay,no
+S001226,U00884,premium,17.99,05/08/2023,"Jul 14, 2023",paypal,TRUE
+S001288,U00931,premium,17.99,"Dec 16, 2023",2024-06-26,google_pay,no
+S001182,U00856,standard,13.99,01/22/2024,03/27/2024,paypal,N
+S001463,U01061,basic,8.99,2023-07-24,,credit_card,0
+S000527,U00383,premium,17.99,"Apr 03, 2024",,apple_pay,no
+S001398,U01009,basic,8.99,2022-06-19,,apple_pay,0
+S001073,U00773,basic,8.99,2024-03-08,,credit_card,false
+S000920,U00660,basic,8.99,03/02/2024,2024-06-27,credit_card,FALSE
+S001910,U01377,standard,13.99,2023-10-02,,google_pay,0
+S001006,U00724,standard,13.99,2023-11-27,2024-01-30,credit_card,no
+S000663,U00484,basic,8.99,14-09-2024,22-12-2024,apple_pay,Y
+S002059,U01490,standard,13.99,2023-04-22,2024-03-29,apple_pay,no
+S001912,U01379,basic,8.99,2023-03-09,09-06-2023,paypal,Y
+S000708,U00515,premium,17.99,"Jan 04, 2025",2025-02-17,paypal,1
+S001175,U00852,standard,13.99,2023-09-26,02/26/2024,apple_pay,0
+S000970,U00695,premium,17.99,2023-08-30,2024-03-22,credit_card,yes
+S000055,U00039,standard,13.99,2023-09-28,,paypal,false
+S001579,U01146,standard,13.99,2023-11-02,03/22/2024,credit_card,FALSE
+S001588,U01153,premium,17.99,2024-12-12,2025-03-31,paypal,0
+S000477,U00347,premium,17.99,"Jun 06, 2024",2024-08-09,google_pay,N
+S001341,U00967,basic,8.99,2022-06-13,,apple_pay,FALSE
+S001340,U00967,basic,8.99,2022-02-25,2022-05-28,apple_pay,0
+S000197,U00135,standard,13.99,2024-07-19,,paypal,0
+S000061,U00043,standard,13.99,2022-03-23,,paypal,N
+S001077,U00775,basic,8.99,11-02-2022,,apple_pay,0
+S001294,U00935,premium,17.99,2023-06-21,,credit_card,0
+S000754,U00550,standard,13.99,2022-04-18,12/01/2022,credit_card,FALSE
+S000529,U00385,standard,13.99,2023-10-31,,paypal,N
+S001148,U00829,basic,8.99,2023-12-24,,paypal,false
+S000126,U00081,premium,17.99,2022-08-20,,google_pay,FALSE
+S001186,U00859,basic,8.99,2022-05-13,,apple_pay,false
+S000053,U00037,basic,8.99,30-05-2023,,credit_card,no
+S000744,U00541,standard,13.99,11-09-2024,2025-01-16,credit_card,0
+S001433,U01037,basic,8.99,2024-05-21,,google_pay,false
+S000664,U00485,standard,null,10-10-2022,13-03-2023,credit_card,no
+S000155,U00105,basic,8.99,2023-04-20,2023-07-05,apple_pay,FALSE
+S000272,U00195,basic,8.99,"Apr 09, 2022",2022-09-03,credit_card,false
+S001855,U01336,premium,17.99,2024-05-25,09/11/2024,paypal,1
+S000533,U00387,basic,8.99,2024-02-19,,apple_pay,no
+S000764,U00556,premium,17.99,2022-12-25,2023-04-07,google_pay,1
+S000493,U00359,basic,8.99,07/01/2024,,credit_card,N
+S000772,U00562,premium,17.99,2023-01-15,2023-10-27,credit_card,0
+S001105,U00797,basic,8.99,"Oct 26, 2024",,credit_card,no
+S000019,U00011,basic,8.99,"Jul 16, 2024",2025-03-31,credit_card,no
+S001467,U01063,basic,8.99,2023-09-07,,apple_pay,0
+S000952,U00681,standard,13.99,03/24/2024,2024-05-25,paypal,1
+S001352,U00973,standard,13.99,2023-06-16,,paypal,N
+S001153,U00833,premium,17.99,15-02-2023,04-05-2023,apple_pay,Y
+S001460,U01058,premium,17.99,"Sep 21, 2024",,apple_pay,N
+S001075,U00774,standard,13.99,19-05-2024,22-12-2024,apple_pay,N
+S001038,U00747,standard,13.99,"Jan 21, 2024",,apple_pay,no
+S000638,U00465,premium,17.99,2024-02-07,,google_pay,false
+S001634,U01184,basic,8.99,2024-05-29,2024-11-18,credit_card,0
+S000821,U00592,premium,17.99,2022-03-02,2023-01-10,credit_card,FALSE
+S001714,U01241,premium,17.99,2024-06-28,,credit_card,no
+S000507,U00370,basic,8.99,2022-01-25,,credit_card,FALSE
+S001780,U01286,standard,13.99,30-11-2023,2024-04-16,google_pay,false
+S001401,U01011,standard,13.99,2024-10-24,,google_pay,no
+S001675,U01217,standard,13.99,03/22/2024,,credit_card,no
+S000879,U00630,basic,8.99,2024-09-30,2024-12-19,credit_card,yes
+S001860,U01340,standard,13.99,2022-12-30,2024-02-01,apple_pay,N
+S001903,U01374,premium,17.99,2024-05-29,03/31/2025,google_pay,false
+S000271,U00194,premium,17.99,"Dec 06, 2024",,google_pay,N
+S001667,U01211,standard,13.99,03-08-2022,,paypal,false
+S001119,U00806,basic,8.99,06/02/2022,,google_pay,no
+S001445,U01046,basic,8.99,2024-07-20,01/18/2025,credit_card,FALSE
+S000146,U00098,premium,17.99,18-10-2024,,google_pay,0
+S001245,U00896,premium,17.99,2024-10-22,,apple_pay,0
+S000998,U00717,premium,17.99,05-12-2022,2023-01-07,apple_pay,Y
+S001594,U01156,premium,17.99,2025-01-12,2025-02-18,credit_card,Y
+S000890,U00640,premium,17.99,12-09-2022,2023-04-09,apple_pay,no
+S000642,U00468,standard,13.99,2023-10-06,2024-08-31,google_pay,no
+S001997,U01447,standard,13.99,2023-10-30,,google_pay,no
+S001453,U01052,standard,13.99,2022-02-21,,apple_pay,false
+S001276,U00923,basic,8.99,2024-02-02,,paypal,FALSE
+S000349,U00251,basic,8.99,2023-10-30,04/27/2024,apple_pay,false
+S000843,U00606,basic,8.99,2023-03-04,2023-05-23,apple_pay,N
+S001610,U01166,basic,8.99,2024-03-15,,google_pay,0
+S001998,U01448,basic,8.99,2023-01-29,06-11-2023,google_pay,0
+S000327,U00233,standard,13.99,2024-06-19,,paypal,FALSE
+S000893,U00642,premium,17.99,2022-12-05,,paypal,false
+S000234,U00163,premium,17.99,14-07-2022,2022-10-08,apple_pay,yes
+S001814,U01307,standard,13.99,2022-09-11,,google_pay,false
+S000351,U00252,premium,17.99,01/01/2024,,apple_pay,N
+S001537,U01117,basic,8.99,2024-08-03,"Jan 31, 2025",credit_card,N
+S000051,U00035,standard,13.99,06/21/2022,,credit_card,0
+S001183,U00856,basic,8.99,"Apr 02, 2024",2024-09-02,paypal,1
+S001089,U00785,premium,17.99,2022-07-02,,paypal,FALSE
+S001390,U01002,standard,13.99,10/14/2024,2025-01-18,google_pay,yes
+S001406,U01016,standard,13.99,07/22/2022,,credit_card,no
+S001549,U01125,basic,8.99,2023-10-24,,paypal,N
+S000389,U00281,standard,13.99,"Mar 25, 2024",,paypal,no
+S001456,U01054,premium,17.99,2022-11-22,,credit_card,no
+S000073,U00050,standard,13.99,2022-11-05,,credit_card,false
+S001988,U01440,premium,17.99,2023-11-15,2024-09-15,apple_pay,FALSE
+S001801,U01300,premium,17.99,2022-03-20,,paypal,FALSE
+S001556,U01130,premium,17.99,12/22/2024,2025-03-31,google_pay,FALSE
+S000035,U00024,premium,17.99,2023-12-09,"Feb 21, 2025",google_pay,1
+S001274,U00921,premium,17.99,2022-02-16,"May 14, 2022",apple_pay,TRUE
+S000012,U00007,basic,8.99,12/21/2023,2024-05-25,google_pay,N
+S000186,U00125,basic,8.99,2023-06-02,03/29/2024,paypal,FALSE
+S001984,U01436,basic,8.99,2023-04-09,,credit_card,FALSE
+S001474,U01069,premium,17.99,2023-10-16,,google_pay,N
+S001871,U01348,basic,8.99,2023-05-08,01/20/2024,credit_card,no
+S000655,U00478,standard,13.99,2022-10-21,2023-08-12,apple_pay,0
+S000835,U00602,basic,8.99,"May 24, 2024",,paypal,N
+S001878,U01352,premium,17.99,"Feb 20, 2024",,paypal,0
+S001161,U00841,basic,8.99,2023-05-09,,google_pay,false
+S000142,U00094,basic,8.99,2023-03-13,,apple_pay,FALSE
+S001109,U00800,basic,8.99,2023-06-30,,google_pay,0
+S001519,U01103,premium,17.99,2024-07-29,23-01-2025,credit_card,true
+S000996,U00715,basic,8.99,07/06/2022,2023-03-31,google_pay,Y
+S001810,U01305,basic,8.99,02/05/2025,,credit_card,N
+S000707,U00515,premium,17.99,16-04-2024,2024-12-27,paypal,N
+S000149,U00101,premium,17.99,2024-06-18,2024-09-22,apple_pay,FALSE
+S001253,U00904,basic,8.99,2023-05-27,,apple_pay,N
+S000759,U00553,basic,8.99,2022-05-03,12-04-2023,credit_card,false
+S000330,U00235,premium,17.99,"May 04, 2023",,apple_pay,FALSE
+S001268,U00915,basic,8.99,2022-10-02,,credit_card,false
+S000807,U00585,basic,8.99,2024-05-26,2024-10-29,google_pay,false
+S001130,U00815,standard,13.99,"Feb 07, 2024",,google_pay,no
+S000738,U00536,standard,13.99,2025-01-12,31-03-2025,google_pay,no
+S001099,U00793,basic,8.99,2024-09-06,2025-03-20,google_pay,yes
+S000538,U00389,premium,17.99,2024-02-10,,google_pay,0
+S000359,U00257,basic,8.99,2024-01-02,,apple_pay,FALSE
+S001729,U01253,basic,8.99,2024-08-06,02/15/2025,google_pay,N
+S000741,U00539,premium,17.99,2023-03-05,2023-06-24,google_pay,N
+S000016,U00009,basic,8.99,"Dec 25, 2022",,apple_pay,N
+S000261,U00186,standard,13.99,2023-05-29,,paypal,0
+S001230,U00886,standard,13.99,2022-11-13,"May 01, 2023",credit_card,FALSE
+S000277,U00198,standard,13.99,"Oct 20, 2023",2024-03-07,credit_card,FALSE
+S002056,U01488,premium,17.99,06-03-2023,2024-01-11,apple_pay,false
+S000431,U00312,standard,13.99,08/24/2024,2025-03-19,apple_pay,yes
+S000127,U00082,standard,13.99,2023-11-30,06-10-2024,apple_pay,no
+S001681,U01221,premium,17.99,"Feb 13, 2024",,google_pay,0
+S000854,U00613,standard,13.99,2024-08-23,,credit_card,N
+S000633,U00462,basic,8.99,2024-12-29,,google_pay,FALSE
+S000102,U00068,basic,8.99,2024-08-15,,credit_card,0
+S001356,U00977,standard,13.99,2022-12-07,,paypal,0
+S001484,U01077,basic,8.99,"Mar 03, 2023",,google_pay,0
+S001521,U01105,premium,17.99,2023-09-10,,apple_pay,FALSE
+S001742,U01261,standard,13.99,2024-07-09,2025-02-14,apple_pay,0
+S001748,U01265,premium,17.99,27-06-2023,26-05-2024,apple_pay,no
+S001147,U00829,basic,8.99,2023-02-21,2023-12-22,paypal,0
+S001733,U01254,standard,13.99,12-07-2024,2024-08-26,credit_card,1
+S001884,U01357,basic,8.99,2025-03-18,,google_pay,N
+S000212,U00146,premium,17.99,03-09-2023,,paypal,no
+S000439,U00318,standard,13.99,2022-12-25,,google_pay,no
+S001741,U01260,standard,13.99,2025-03-03,31-03-2025,google_pay,false
+S000540,U00390,premium,17.99,2024-09-01,2024-11-15,google_pay,true
+S000163,U00111,premium,17.99,2023-07-05,2023-09-24,apple_pay,0
+S000730,U00531,premium,17.99,2024-10-17,2025-01-14,google_pay,1
+S001868,U01345,premium,17.99,22-12-2024,,google_pay,no
+S000373,U00270,standard,13.99,02/12/2024,2024-12-22,credit_card,0
+S001715,U01242,basic,8.99,2023-07-15,03/19/2024,google_pay,N
+S001005,U00723,standard,13.99,2024-12-19,,credit_card,false
+S001062,U00766,premium,17.99,11/02/2023,2024-08-23,credit_card,1
+S000180,U00121,basic,8.99,02/20/2024,28-11-2024,paypal,no
+S001527,U01109,standard,13.99,"Jun 25, 2024",,credit_card,FALSE
+S001224,U00883,basic,8.99,2024-06-29,2025-02-18,google_pay,0
+S001246,U00897,basic,8.99,2023-10-18,,paypal,no
+S000745,U00541,standard,13.99,2025-01-26,,credit_card,false
+S001135,U00819,basic,8.99,2022-11-27,,google_pay,FALSE
+S000300,U00215,standard,13.99,2023-10-20,2024-01-25,credit_card,N
+S001144,U00827,standard,13.99,2024-05-27,01/19/2025,credit_card,N
+S001289,U00931,standard,13.99,2024-07-02,,google_pay,0
+S000644,U00469,premium,17.99,16-02-2023,2024-03-19,apple_pay,no
+S000531,U00387,premium,17.99,2022-06-19,2023-04-03,apple_pay,false
+S000776,U00565,premium,17.99,2022-11-23,09-06-2023,google_pay,yes
+S001026,U00738,standard,13.99,2023-03-25,,paypal,no
+S000978,U00701,standard,13.99,2022-08-04,2022-12-03,paypal,no
+S000750,U00546,basic,8.99,2022-05-15,,apple_pay,false
+S001364,U00985,basic,8.99,2024-09-05,,paypal,false
+S000525,U00382,standard,13.99,11/20/2024,,apple_pay,N
+S000106,U00070,basic,8.99,24-05-2024,2025-01-14,paypal,true
+S000551,U00399,basic,8.99,2025-02-01,2025-03-28,paypal,true
+S001688,U01226,standard,13.99,2022-11-11,,credit_card,0
+S002050,U01484,basic,8.99,2022-11-20,,credit_card,N
+S000876,U00628,standard,13.99,2024-06-07,,credit_card,false
+S001812,U01306,basic,8.99,25-07-2023,2024-02-27,paypal,N
+S001898,U01369,premium,17.99,20-12-2023,,credit_card,no
+S000614,U00448,standard,13.99,21-04-2022,,paypal,no
+S001071,U00772,standard,13.99,2023-07-24,,paypal,0
+S000957,U00686,standard,13.99,2023-10-05,"May 18, 2024",credit_card,N
+S000594,U00432,premium,17.99,12/14/2023,2024-06-04,paypal,TRUE
+S000661,U00482,basic,8.99,2022-11-17,,apple_pay,N
+S000541,U00391,basic,8.99,2024-05-23,,credit_card,no
+S001012,U00728,standard,13.99,"Feb 25, 2023",2023-12-01,google_pay,true
+S001459,U01057,premium,17.99,2022-10-25,2022-11-26,apple_pay,true
+S001325,U00958,premium,17.99,2022-09-24,,paypal,N
+S001319,U00954,premium,17.99,07/13/2024,28-12-2024,paypal,Y
+S001477,U01072,standard,13.99,2022-05-25,2023-06-10,apple_pay,yes
+S000822,U00592,premium,17.99,"Jan 14, 2023",,credit_card,no
+S001479,U01074,basic,8.99,2022-03-04,27-07-2022,credit_card,FALSE
+S000454,U00329,premium,17.99,02/01/2023,22-01-2024,paypal,yes
+S000193,U00131,standard,13.99,2022-02-22,,paypal,no
+S000803,U00583,standard,13.99,2023-09-04,2024-09-16,paypal,0
+S001113,U00802,premium,17.99,2025-02-15,,paypal,0
+S000408,U00293,premium,17.99,2024-01-04,,apple_pay,no
+S001085,U00781,basic,8.99,05/12/2024,,credit_card,N
+S000168,U00114,premium,17.99,"Oct 02, 2022",,google_pay,false
+S001509,U01095,basic,8.99,2024-05-21,"Mar 31, 2025",paypal,no
+S001371,U00988,premium,17.99,2024-06-25,,apple_pay,N
+S002002,U01450,basic,8.99,02-01-2023,,paypal,FALSE
+S001212,U00875,premium,17.99,2023-01-28,,google_pay,no
+S000703,U00511,basic,8.99,2024-06-19,2025-03-31,credit_card,0
+S000316,U00225,standard,13.99,2023-05-16,,apple_pay,0
+S002010,U01455,standard,13.99,2024-11-30,,google_pay,no
+S000466,U00338,premium,17.99,2022-04-09,,apple_pay,0
+S001254,U00905,standard,13.99,2022-06-29,,paypal,no
+S000873,U00627,premium,17.99,01-12-2024,,apple_pay,no
+S002034,U01473,standard,13.99,"Sep 28, 2023",,apple_pay,0
+S000129,U00083,standard,13.99,2023-10-21,,credit_card,false
+S001687,U01225,basic,8.99,2022-11-17,,credit_card,N
+S001586,U01151,standard,13.99,2023-11-20,,google_pay,FALSE
+S000275,U00197,premium,17.99,08-01-2024,07/01/2024,credit_card,N
+S000484,U00351,standard,13.99,2023-03-17,,google_pay,no
+S000780,U00567,standard,13.99,"Jul 09, 2024",,google_pay,0
+S001354,U00975,basic,8.99,2022-02-09,,paypal,N
+S000222,U00152,premium,17.99,03-06-2024,,apple_pay,0
+S000397,U00286,standard,13.99,2024-10-14,,apple_pay,N
+S000482,U00350,basic,8.99,2022-08-20,2023-04-01,paypal,0
+S000688,U00501,premium,17.99,06-02-2024,,credit_card,false
+S001587,U01152,premium,17.99,21-05-2022,,apple_pay,FALSE
+S001021,U00734,standard,13.99,2024-02-21,2024-06-06,google_pay,false
+S000865,U00621,premium,17.99,2024-10-28,"Mar 14, 2025",apple_pay,N
+S002054,U01487,basic,8.99,2023-09-17,2024-05-10,apple_pay,0
+S001162,U00842,standard,13.99,2023-04-06,01/17/2024,credit_card,no
+S000512,U00374,basic,8.99,07/10/2022,"Nov 15, 2022",credit_card,FALSE
+S001589,U01154,standard,13.99,2023-03-14,2023-08-18,apple_pay,N
+S000250,U00175,premium,17.99,2022-08-26,2023-09-07,paypal,Y
+S000619,U00453,premium,17.99,2024-06-21,,paypal,no
+S000256,U00181,premium,17.99,2022-03-08,,credit_card,N
+S001207,U00871,premium,17.99,2023-01-06,01/09/2024,credit_card,FALSE
+S001837,U01323,premium,17.99,2024-05-05,,google_pay,0
+S001425,U01030,premium,17.99,2022-11-13,,credit_card,no
+S001369,U00987,standard,13.99,2024-09-28,"Mar 20, 2025",apple_pay,true
+S000471,U00341,premium,17.99,2024-09-03,,paypal,FALSE
+S000145,U00097,standard,13.99,2024-06-07,,google_pay,no
+S001117,U00804,premium,17.99,2024-01-05,,apple_pay,N
+S001497,U01087,standard,$13.99,04/10/2022,2022-12-02,paypal,0
+S000810,U00586,basic,8.99,2024-01-27,,credit_card,false
+S000502,U00366,premium,17.99,2023-06-14,2023-12-24,apple_pay,no
+S000311,U00223,standard,13.99,2023-06-25,,credit_card,false
+S002068,U01496,premium,17.99,21-05-2022,2022-10-07,apple_pay,0
+S000392,U00284,premium,17.99,2023-09-27,,apple_pay,no
+S001956,U01413,basic,8.99,2023-06-18,,google_pay,0
+S001745,U01262,premium,17.99,2023-06-30,,paypal,no
+S001782,U01286,standard,13.99,2024-12-23,,google_pay,false
+S001593,U01156,premium,17.99,06-06-2024,01/08/2025,credit_card,0
+S000719,U00524,premium,17.99,2024-05-20,2024-07-20,google_pay,false
+S001885,U01358,premium,17.99,24-12-2022,01-03-2023,apple_pay,yes
+S000649,U00473,premium,17.99,04/16/2023,2023-07-23,google_pay,Y
+S001952,U01410,premium,17.99,"Apr 01, 2023",02/25/2024,credit_card,N
+S000328,U00234,premium,17.99,05/07/2023,"Jul 10, 2023",google_pay,0
+S000518,U00376,standard,13.99,2023-10-17,,credit_card,false
+S000187,U00125,basic,8.99,04/09/2024,,paypal,false
+S000160,U00108,premium,17.99,2022-06-08,02/15/2023,google_pay,Y
+S000368,U00265,standard,13.99,2022-04-28,,apple_pay,no
+S000310,U00222,basic,8.99,"Sep 30, 2022",,google_pay,N
+S000939,U00672,basic,8.99,2024-09-23,2025-03-31,google_pay,0
+S001476,U01071,standard,13.99,2024-08-13,,google_pay,FALSE
+S002033,U01473,standard,13.99,2022-11-07,09/22/2023,apple_pay,FALSE
+S001768,U01278,standard,13.99,2022-05-05,2022-10-02,google_pay,N
+S001462,U01060,premium,17.99,09/19/2024,03/21/2025,apple_pay,no
+S001487,U01079,standard,13.99,09-02-2024,2024-12-29,credit_card,FALSE
+S001114,U00803,basic,8.99,2023-05-12,,apple_pay,0
+S000940,U00673,premium,17.99,2024-12-19,2025-03-31,credit_card,N
+S000532,U00387,standard,13.99,04/23/2023,02/16/2024,apple_pay,false
+S001709,U01238,premium,17.99,24-01-2025,,credit_card,N
+S001906,U01376,standard,13.99,12-05-2023,"Apr 13, 2024",paypal,0
+S000792,U00574,premium,17.99,"Jul 02, 2024",,credit_card,N
+S001622,U01175,basic,8.99,2023-06-15,,paypal,0
+S001512,U01097,standard,13.99,2025-03-19,2025-03-31,credit_card,no
+S000371,U00268,basic,8.99,"Dec 06, 2022",,credit_card,0
+S001605,U01164,premium,17.99,07/02/2023,2024-04-07,google_pay,FALSE
+S000961,U00689,basic,8.99,2024-05-02,"Mar 31, 2025",google_pay,0
+S002065,U01493,standard,13.99,05/12/2024,2025-03-27,credit_card,Y
+S001572,U01140,basic,8.99,05/01/2024,,google_pay,N
+S000387,U00281,basic,8.99,15-10-2022,04/19/2023,paypal,N
+S001595,U01157,standard,13.99,20-06-2024,,paypal,false
+S000947,U00679,basic,8.99,2023-05-08,09/21/2023,paypal,Y
+S001889,U01362,premium,17.99,07/04/2022,,paypal,FALSE
+S001630,U01181,basic,8.99,2023-11-25,,credit_card,0
+S000335,U00238,premium,17.99,01/16/2025,,credit_card,FALSE
+S001193,U00863,basic,8.99,2024-11-30,,credit_card,FALSE
+S001104,U00797,basic,8.99,"Dec 21, 2023","Oct 26, 2024",credit_card,0
+S001964,U01420,basic,8.99,2022-11-30,,credit_card,FALSE
+S000654,U00477,premium,17.99,2023-08-10,,paypal,FALSE
+S001726,U01250,basic,8.99,2022-01-24,,google_pay,0
+S001395,U01006,basic,8.99,2022-11-16,,credit_card,FALSE
+S000440,U00319,basic,8.99,2024-01-14,,google_pay,FALSE
+S000339,U00242,basic,8.99,03/04/2023,2023-08-20,paypal,N
+S000595,U00433,premium,17.99,2022-09-28,,apple_pay,N
+S000085,U00059,premium,17.99,01/24/2022,2022-12-18,google_pay,no
+S000428,U00310,premium,17.99,05/15/2024,22-07-2024,paypal,0
+S001971,U01425,basic,8.99,2025-02-27,,google_pay,N
+S000455,U00330,standard,13.99,2022-02-26,08/14/2022,paypal,0
+S002001,U01450,premium,17.99,2022-10-24,2022-12-28,paypal,false
+S001838,U01324,standard,13.99,01-09-2022,,apple_pay,FALSE
+S001093,U00789,standard,13.99,2023-03-19,12/01/2023,apple_pay,no
+S001442,U01044,premium,17.99,2025-03-07,2025-03-31,google_pay,1
+S001189,U00861,basic,8.99,2024-01-08,,paypal,FALSE
+S001934,U01396,basic,8.99,2024-08-30,2024-11-15,credit_card,1
+S001088,U00784,basic,8.99,2024-10-21,2025-03-31,paypal,no
+S000774,U00563,basic,8.99,2023-01-11,,apple_pay,N
+S000216,U00148,standard,13.99,27-07-2022,04/20/2023,apple_pay,no
+S001866,U01344,premium,17.99,2024-06-20,,google_pay,0
+S000429,U00310,premium,17.99,2024-08-13,"Mar 03, 2025",paypal,TRUE
+S000645,U00469,premium,17.99,29-03-2024,,apple_pay,0
+S001674,U01216,standard,13.99,11/06/2023,,apple_pay,false
+S000831,U00600,premium,17.99,2023-02-11,2023-11-22,credit_card,false
+S001783,U01287,premium,17.99,2022-03-07,"Dec 23, 2022",paypal,0
+S000581,U00422,basic,8.99,17-11-2024,,paypal,false
+S000941,U00674,premium,17.99,01-11-2022,"Mar 28, 2023",paypal,1
+S000374,U00270,standard,13.99,07-01-2025,,credit_card,FALSE
+S001909,U01377,standard,13.99,19-03-2023,09/14/2023,google_pay,no
+S001693,U01230,standard,13.99,2023-08-24,2024-07-22,google_pay,no
+S001333,U00963,basic,8.99,03/11/2024,03/31/2025,credit_card,no
+S001870,U01347,standard,13.99,2024-02-14,2024-06-14,google_pay,1
+S000773,U00562,premium,17.99,2023-10-30,,credit_card,no
+S001918,U01384,basic,8.99,07/11/2024,2024-08-17,google_pay,true
+S001835,U01321,premium,17.99,2023-05-16,2023-06-26,apple_pay,yes
+S001160,U00840,premium,17.99,19-07-2024,2025-03-31,google_pay,no
+S000462,U00334,premium,17.99,2023-04-11,,google_pay,0
+S001078,U00776,basic,8.99,2022-07-09,,paypal,0
+S001298,U00938,basic,8.99,10/25/2022,,google_pay,no
+S000726,U00528,basic,8.99,2024-01-11,,paypal,false
+S000931,U00667,standard,13.99,2024-12-27,,google_pay,0
+S001180,U00854,standard,13.99,"Dec 20, 2022",,apple_pay,0
+S000516,U00375,premium,17.99,2023-09-27,,paypal,N
+S000694,U00505,standard,13.99,2024-08-05,,google_pay,0
+S001191,U00863,premium,17.99,2023-07-01,2024-05-23,credit_card,FALSE
+S000333,U00237,standard,13.99,"Apr 10, 2022",,google_pay,false
+S001599,U01160,premium,17.99,2024-05-08,,credit_card,FALSE
+S001393,U01004,premium,17.99,16-02-2025,,apple_pay,FALSE
+S001086,U00782,basic,8.99,2024-09-25,,apple_pay,0
+S000406,U00292,basic,8.99,2024-11-16,2025-03-31,google_pay,false
+S000460,U00332,basic,8.99,2024-11-28,,credit_card,N
+S000282,U00202,standard,13.99,2023-06-16,,google_pay,0
+S000418,U00300,standard,13.99,30-12-2023,2024-11-12,credit_card,true
+S001176,U00852,premium,17.99,2024-03-07,,apple_pay,FALSE
+S000296,U00213,standard,13.99,"Dec 13, 2023",,apple_pay,N
+S000520,U00377,premium,17.99,"Oct 03, 2024",2025-03-31,paypal,no
+S001511,U01097,standard,13.99,2024-11-01,03/02/2025,credit_card,false
+S001761,U01274,premium,17.99,09/04/2023,2024-01-01,apple_pay,0
+S001848,U01333,basic,8.99,2023-03-03,2023-08-04,credit_card,no
+S000812,U00588,premium,17.99,14-05-2022,"Dec 25, 2022",google_pay,FALSE
+S000905,U00651,premium,17.99,2022-12-17,2023-03-27,credit_card,1
+S001926,U01391,standard,13.99,2024-06-12,04-10-2024,paypal,no
+S000549,U00398,premium,17.99,2023-09-11,,apple_pay,N
+S002064,U01493,basic,8.99,2023-04-23,2024-04-16,credit_card,0
+S000624,U00456,premium,17.99,2024-09-03,,apple_pay,N
+S001927,U01391,standard,13.99,2024-10-14,03-02-2025,paypal,TRUE
+S002025,U01467,standard,13.99,"Aug 25, 2023",,credit_card,FALSE
+S001672,U01214,basic,8.99,2024-07-18,2024-08-30,apple_pay,TRUE
+S002073,U01499,premium,17.99,2023-06-30,,apple_pay,false
+S001771,U01279,standard,13.99,2023-02-06,,apple_pay,no
+S001034,U00744,basic,8.99,11-10-2024,,apple_pay,0
+S001206,U00870,basic,8.99,2024-11-06,,apple_pay,N
+S001757,U01271,basic,8.99,04/26/2024,"Mar 31, 2025",apple_pay,N
+S000927,U00664,basic,8.99,2024-07-24,,google_pay,0
+S000023,U00014,premium,17.99,2022-01-31,,paypal,FALSE
+S000364,U00262,basic,8.99,14-07-2022,2023-02-04,apple_pay,false
+S000301,U00215,standard,13.99,"Feb 18, 2024",,credit_card,N
+S001185,U00858,premium,17.99,08/22/2024,,apple_pay,FALSE
+S000309,U00222,basic,8.99,16-02-2022,"Sep 02, 2022",google_pay,no
+S001590,U01154,standard,13.99,08/26/2023,,apple_pay,N
+S001265,U00913,basic,8.99,2024-01-08,,google_pay,false
+S001535,U01115,standard,13.99,2024-07-04,2024-12-25,google_pay,Y
+S000413,U00296,premium,17.99,01/05/2023,,google_pay,0
+S000740,U00538,standard,13.99,2022-08-13,2023-12-26,paypal,Y
+S001461,U01059,standard,13.99,"Nov 24, 2022",,google_pay,FALSE
+S001293,U00934,basic,8.99,07/07/2024,,google_pay,false
+S001758,U01272,basic,8.99,2023-03-31,,google_pay,FALSE
+S000676,U00493,premium,17.99,04/14/2022,2022-11-17,credit_card,false
+S001682,U01222,basic,8.99,26-12-2022,01/08/2024,apple_pay,no
+S000936,U00670,basic,8.99,2023-05-04,25-01-2024,apple_pay,N
+S001948,U01406,standard,13.99,"Sep 13, 2023",,credit_card,0
+S000669,U00487,basic,8.99,06/13/2024,,google_pay,no
+S000829,U00598,premium,17.99,2024-04-26,,google_pay,false
+S000153,U00104,premium,17.99,2023-11-19,2024-08-21,apple_pay,0
+S001419,U01025,standard,13.99,"Mar 09, 2022",,google_pay,FALSE
+S000443,U00322,basic,8.99,"Apr 15, 2022",,paypal,false
+S000103,U00069,basic,8.99,2023-05-25,"Nov 09, 2023",google_pay,false
+S001079,U00777,premium,17.99,2023-12-30,,apple_pay,FALSE
+S000955,U00684,standard,13.99,2023-12-17,,credit_card,FALSE
+S000968,U00694,standard,13.99,20-02-2022,2023-02-01,google_pay,0
+S001110,U00801,basic,8.99,2024-10-15,,apple_pay,N
+S001756,U01270,standard,13.99,"Mar 02, 2023",,paypal,FALSE
+S000903,U00650,premium,17.99,30-05-2024,,paypal,false
+S000255,U00180,premium,17.99,2024-05-07,2024-08-05,apple_pay,TRUE
+S000573,U00414,standard,13.99,22-12-2022,,google_pay,0
+S000615,U00449,standard,13.99,2024-03-25,,paypal,FALSE
+S000326,U00232,standard,13.99,"Feb 23, 2024",,apple_pay,N
+S002046,U01482,basic,8.99,02/17/2023,2023-06-16,paypal,false
+S001007,U00724,basic,8.99,2024-02-14,,credit_card,FALSE
+S000416,U00298,basic,8.99,2024-10-09,03/31/2025,google_pay,false
+S000974,U00697,premium,17.99,"Mar 02, 2025",2025-03-31,paypal,yes
+S001514,U01099,basic,8.99,"Jan 13, 2023",,paypal,0
+S000079,U00053,premium,17.99,2023-07-19,,paypal,FALSE
+S000584,U00424,standard,13.99,"Oct 17, 2023",,paypal,0
+S001896,U01367,standard,13.99,"Dec 05, 2022",,paypal,N
+S000639,U00466,basic,8.99,2024-04-02,,apple_pay,N
+S000195,U00133,premium,17.99,2023-02-15,,apple_pay,false
+S000925,U00662,standard,13.99,02/08/2022,,credit_card,0
+S002012,U01457,premium,17.99,2022-12-26,,apple_pay,0
+S001557,U01131,premium,17.99,"Jan 13, 2023",2024-01-24,paypal,0
+S001573,U01141,basic,8.99,2022-07-12,,apple_pay,no
+S001544,U01121,premium,17.99,03-11-2024,,credit_card,N
+S000765,U00557,basic,8.99,09/08/2022,,credit_card,false
+S001480,U01074,basic,8.99,2022-08-21,,credit_card,no
+S000274,U00196,standard,13.99,2022-11-29,,paypal,false
+S002021,U01464,basic,8.99,2024-04-23,09-06-2024,credit_card,yes
+S000344,U00246,premium,17.99,2022-03-31,,credit_card,0
+S001692,U01229,premium,17.99,2024-12-18,31-03-2025,paypal,N
+S000652,U00475,basic,8.99,2023-09-03,10/10/2023,apple_pay,yes
+S000221,U00152,premium,17.99,"Dec 22, 2023",2024-06-01,apple_pay,N
+S000068,U00048,premium,17.99,2023-11-10,2024-01-22,google_pay,false
+S001033,U00743,premium,17.99,10-09-2023,,apple_pay,no
+S000907,U00652,premium,17.99,2023-06-29,,apple_pay,N
+S000814,U00588,standard,13.99,2023-05-26,2023-07-08,google_pay,true
+S002000,U01449,standard,13.99,2022-10-20,,apple_pay,FALSE
+S001009,U00725,standard,13.99,"Dec 12, 2023",,google_pay,0
+S001701,U01234,basic,8.99,2023-03-05,,paypal,FALSE
+S000230,U00160,basic,8.99,09/10/2024,,apple_pay,FALSE
+S001735,U01256,basic,8.99,2022-01-02,2022-04-21,paypal,0
+S001125,U00811,standard,13.99,"Aug 21, 2024",,apple_pay,false
+S000251,U00176,premium,17.99,2023-05-07,2023-08-24,credit_card,yes
+S001332,U00962,basic,8.99,05/14/2023,,apple_pay,0
+S001574,U01142,premium,17.99,2024-10-12,31-03-2025,paypal,0
+S000672,U00489,standard,13.99,2023-01-31,,credit_card,N
+S001097,U00791,basic,8.99,2024-10-05,,google_pay,0
+S000509,U00372,premium,17.99,09/07/2022,,apple_pay,false
+S000214,U00147,standard,13.99,2025-01-11,,google_pay,0
+S000040,U00028,basic,8.99,04/29/2023,"Mar 17, 2024",paypal,FALSE
+S000090,U00061,basic,8.99,2024-06-02,22-07-2024,paypal,true
+S001353,U00974,premium,17.99,2023-04-06,,apple_pay,FALSE
+S001617,U01171,basic,8.99,29-01-2024,,paypal,0
+S000933,U00668,basic,8.99,"Mar 11, 2025",,credit_card,0
+S000863,U00619,standard,13.99,2024-08-21,2024-12-21,apple_pay,TRUE
+S000819,U00591,premium,17.99,2023-12-31,"Jun 26, 2024",credit_card,false
+S000630,U00461,standard,13.99,2024-06-20,03/31/2025,paypal,no
+S000262,U00187,premium,17.99,2023-06-03,2023-07-31,credit_card,yes
+S001302,U00942,basic,8.99,29-08-2022,"Dec 01, 2022",paypal,yes
+S000154,U00104,premium,17.99,2024-09-14,2024-11-22,apple_pay,1
+S000757,U00551,basic,8.99,2022-03-01,,apple_pay,no
+S000101,U00067,basic,8.99,2023-09-30,,apple_pay,no
+S000971,U00696,premium,17.99,2023-06-08,,paypal,0
+S001516,U01101,basic,8.99,2023-06-28,2024-07-19,credit_card,true
+S001138,U00821,premium,17.99,05/30/2023,,paypal,N
+S000069,U00048,premium,17.99,2024-02-09,,google_pay,N
+S000992,U00711,standard,13.99,2024-06-16,31-03-2025,apple_pay,N
+S001375,U00991,premium,17.99,2023-05-02,19-07-2023,paypal,1
+S001450,U01049,standard,13.99,2022-04-22,2022-07-26,credit_card,TRUE
+S001170,U00847,basic,8.99,2024-05-09,,paypal,0
+S000047,U00032,standard,13.99,2024-08-02,,apple_pay,N
+S000405,U00291,premium,17.99,2022-10-11,,apple_pay,no
+S000867,U00622,basic,8.99,2024-01-16,,credit_card,0
+S000853,U00612,basic,8.99,26-10-2024,,google_pay,false
+S001611,U01167,premium,17.99,"Oct 19, 2024",,paypal,0
+S001678,U01219,basic,8.99,2024-12-13,,credit_card,N
+S002015,U01458,premium,17.99,2023-12-01,,paypal,N
+S000302,U00216,premium,17.99,"Mar 04, 2022",15-11-2022,paypal,FALSE
+S001660,U01206,basic,8.99,2024-03-18,07/29/2024,apple_pay,0
+S000297,U00214,basic,8.99,03/08/2022,2022-05-18,credit_card,0
+S001919,U01385,standard,13.99,21-05-2023,,credit_card,false
+S000846,U00608,basic,8.99,07/17/2022,,apple_pay,N
+S000852,U00612,basic,8.99,11-01-2024,2024-10-07,google_pay,0
+S000841,U00605,standard,13.99,12/08/2024,,paypal,FALSE
+S000929,U00666,standard,13.99,2024-01-13,,apple_pay,FALSE
+S000412,U00295,premium,17.99,2024-08-24,01/07/2025,apple_pay,Y
+S002055,U01487,premium,17.99,2024-06-07,2024-12-29,apple_pay,1
+S000488,U00354,premium,17.99,08-06-2023,,paypal,no
+S000495,U00360,standard,13.99,2024-12-26,"Mar 26, 2025",apple_pay,Y
+S001063,U00767,standard,13.99,04/07/2022,,paypal,no
+S000743,U00540,basic,8.99,2022-04-06,,credit_card,N
+S001670,U01214,basic,8.99,28-06-2022,29-07-2023,apple_pay,false
+S000874,U00628,standard,13.99,07/05/2023,"Nov 16, 2023",credit_card,N
+S002060,U01490,premium,17.99,2024-04-26,2025-02-15,apple_pay,0
+S001570,U01138,premium,17.99,2023-06-01,,credit_card,FALSE
+S000288,U00208,standard,13.99,2023-03-15,,credit_card,false
+S001112,U00802,premium,17.99,2024-03-22,2025-02-05,paypal,N
+S001631,U01182,premium,17.99,05/27/2022,,google_pay,0
+S000166,U00113,basic,8.99,2024-02-12,,credit_card,0
+S000029,U00020,standard,13.99,03/23/2022,14-09-2022,apple_pay,FALSE
+S001376,U00992,standard,13.99,"Nov 01, 2023",,apple_pay,FALSE
+S000513,U00374,basic,8.99,"Dec 09, 2022",,credit_card,FALSE
+S000881,U00632,premium,17.99,10-08-2024,"Oct 15, 2024",google_pay,TRUE
+S000177,U00119,basic,8.99,2024-12-18,2025-02-18,paypal,no
+S000376,U00272,basic,8.99,2022-05-05,,credit_card,false
+S000986,U00706,standard,13.99,02-09-2024,,google_pay,0
+S002045,U01481,premium,17.99,28-05-2023,,apple_pay,false
+S001917,U01383,standard,13.99,09-12-2022,2023-05-31,paypal,Y
+S000973,U00697,basic,8.99,2024-07-22,2025-03-01,paypal,N
+S001271,U00918,basic,8.99,2023-08-01,,credit_card,false
+S000196,U00134,premium,17.99,2024-07-30,2025-03-31,google_pay,no
+S001627,U01180,basic,8.99,06/04/2024,"Oct 03, 2024",google_pay,false
+S001655,U01202,standard,13.99,2023-01-15,,paypal,no
+S001132,U00817,basic,8.99,10/13/2023,,credit_card,FALSE
+S001656,U01203,standard,13.99,23-06-2024,,paypal,FALSE
+S000207,U00143,standard,13.99,06/30/2024,2024-09-21,apple_pay,FALSE
+S000960,U00688,standard,13.99,2022-05-30,,google_pay,false
+S000014,U00008,standard,13.99,2023-07-26,,google_pay,N
+S000910,U00654,premium,17.99,2024-06-11,2024-10-03,paypal,0
+S001924,U01390,standard,13.99,2024-01-15,,apple_pay,FALSE
+S001694,U01230,standard,13.99,08-08-2024,,google_pay,0
+S001994,U01445,standard,13.99,2024-11-14,2025-01-31,credit_card,yes
+S001174,U00851,basic,8.99,08/15/2022,,paypal,no
+S001300,U00940,standard,13.99,2022-08-03,,google_pay,no
+S001953,U01410,premium,17.99,2024-03-22,,credit_card,no
+S001980,U01434,basic,8.99,2023-03-27,12-12-2023,google_pay,0
+S001970,U01425,premium,17.99,2024-05-05,2025-02-05,google_pay,N
+S000784,U00569,standard,13.99,2022-08-29,2023-02-02,paypal,TRUE
+S001671,U01214,basic,8.99,08/14/2023,2024-07-12,apple_pay,FALSE
+S000815,U00589,standard,13.99,2023-04-18,2023-08-27,paypal,N
+S000838,U00603,basic,8.99,2024-12-27,,credit_card,N
+S000131,U00085,premium,17.99,2024-03-29,,paypal,N
+S001504,U01091,basic,8.99,2022-11-27,,google_pay,FALSE
+S001821,U01312,basic,8.99,2024-05-12,2025-03-12,paypal,0
+S001432,U01036,premium,17.99,2025-01-01,"Feb 05, 2025",google_pay,true
+S001136,U00820,premium,17.99,2023-04-24,2024-01-01,credit_card,N
+S001563,U01133,basic,8.99,30-07-2024,2025-03-31,paypal,FALSE
+S000286,U00206,premium,17.99,2022-10-21,,apple_pay,0
+S000591,U00429,basic,8.99,2022-05-10,,google_pay,N
+S000919,U00660,basic,8.99,2023-05-07,2024-02-04,credit_card,N
+S001150,U00831,premium,17.99,2024-03-12,,paypal,0
+S000861,U00618,standard,13.99,12/11/2022,,credit_card,N
+S001216,U00877,basic,8.99,30-12-2022,,paypal,no
+S000152,U00103,premium,17.99,08/09/2024,2025-03-29,apple_pay,FALSE
+S001882,U01356,premium,17.99,2022-02-20,,credit_card,0
+S000337,U00240,standard,13.99,2024-02-21,,paypal,0
+S000659,U00481,premium,17.99,2024-01-02,09/06/2024,credit_card,N
+S001008,U00725,standard,13.99,04/11/2023,"Nov 12, 2023",google_pay,no
+S000007,U00003,basic,8.99,"Jul 21, 2024",,apple_pay,0
+S000194,U00132,basic,8.99,"Aug 27, 2024",2025-03-31,credit_card,no
+S000244,U00170,premium,17.99,2022-01-06,,google_pay,FALSE
+S001786,U01289,premium,17.99,2022-10-10,,credit_card,FALSE
+S001554,U01129,basic,8.99,2023-07-17,2024-02-20,google_pay,0
+S000264,U00189,premium,17.99,07-10-2024,2025-03-31,credit_card,no
+S000213,U00147,standard,13.99,2024-04-29,2025-01-09,google_pay,FALSE
+S000391,U00283,basic,8.99,04-10-2024,"Mar 27, 2025",apple_pay,no
+S000612,U00446,basic,8.99,2024-05-10,,paypal,0
+S000004,U00002,basic,8.99,2022-03-31,06/06/2022,paypal,N
+S000781,U00568,basic,8.99,2023-12-12,2024-08-21,credit_card,0
+S001654,U01201,standard,13.99,2023-05-10,,credit_card,no
+S000711,U00517,standard,13.99,04-02-2024,,apple_pay,FALSE
+S001686,U01224,premium,17.99,01/25/2024,2024-11-15,credit_card,Y
+S000945,U00678,premium,17.99,11-09-2022,2023-10-09,credit_card,0
+S001427,U01032,premium,17.99,27-05-2024,2024-08-15,paypal,yes
+S000332,U00236,standard,13.99,2023-09-25,2025-01-15,credit_card,TRUE
+S001854,U01335,standard,13.99,2023-04-10,,credit_card,false
+S000479,U00348,standard,13.99,11/05/2023,2024-10-20,apple_pay,false
+S000691,U00503,standard,13.99,2023-10-17,,google_pay,false
+S001441,U01044,standard,13.99,2024-03-11,2025-02-09,google_pay,no
+S001426,U01031,premium,17.99,2022-05-19,2022-09-12,apple_pay,1
+S000303,U00216,basic,8.99,2022-11-30,,paypal,FALSE
+S002017,U01460,basic,8.99,2022-02-04,,paypal,N
+S000697,U00507,basic,8.99,21-10-2023,2024-01-23,google_pay,FALSE
+S000680,U00496,standard,13.99,2022-02-17,"Aug 28, 2022",google_pay,0
+S001492,U01082,standard,13.99,2024-04-19,2025-03-31,paypal,N
+S001583,U01148,basic,8.99,2023-12-21,"Apr 24, 2024",credit_card,true
+S001140,U00823,premium,17.99,2022-05-09,,credit_card,0
+S000790,U00573,basic,8.99,"Jun 22, 2022",2023-03-30,paypal,FALSE
+S001785,U01288,basic,8.99,2022-03-23,,paypal,0
+S001863,U01341,basic,8.99,"May 10, 2024",,paypal,0
+S001397,U01008,basic,8.99,2023-09-09,16-12-2023,apple_pay,true
+S002058,U01489,standard,13.99,07/14/2023,,paypal,FALSE
+S000587,U00426,standard,13.99,2023-08-13,2024-11-09,apple_pay,true
+S001813,U01306,standard,13.99,2024-02-29,,paypal,N
+S000731,U00532,basic,8.99,23-07-2022,,paypal,FALSE
+S000254,U00179,basic,8.99,2023-09-17,2023-11-02,credit_card,1
+S000039,U00027,premium,17.99,2023-01-23,09/05/2023,google_pay,1
+S001581,U01147,basic,8.99,16-02-2024,16-02-2025,apple_pay,no
+S001562,U01133,basic,8.99,05/05/2024,11-07-2024,paypal,0
+S000718,U00523,premium,17.99,2024-12-18,2025-03-31,apple_pay,false
+S000322,U00229,premium,17.99,2023-11-05,2024-01-20,credit_card,no
+S000786,U00571,premium,17.99,2024-10-09,29-03-2025,credit_card,yes
+S001061,U00765,basic,8.99,12-03-2022,,paypal,false
+S000200,U00138,basic,8.99,09/04/2023,,google_pay,false
+S000270,U00194,premium,17.99,2024-02-19,15-11-2024,google_pay,false
+S001483,U01077,basic,8.99,2022-06-15,2023-02-14,google_pay,0
+S001188,U00860,basic,8.99,2024-03-25,,credit_card,FALSE
+S001858,U01338,premium,17.99,2023-10-21,,google_pay,no
+S001647,U01195,premium,17.99,02-12-2022,,paypal,N
+S001389,U01002,standard,13.99,24-01-2024,28-09-2024,google_pay,FALSE
+S000378,U00274,basic,8.99,2024-02-10,,apple_pay,FALSE
+S001070,U00772,standard,13.99,2023-02-08,2023-06-28,paypal,no
+S000399,U00287,premium,17.99,2025-03-27,,paypal,no
+S000596,U00434,premium,17.99,2023-06-18,2023-08-24,apple_pay,false
+S000605,U00441,basic,8.99,2024-07-14,2024-09-27,credit_card,false
+S002032,U01472,premium,17.99,2022-05-22,,google_pay,FALSE
+S000497,U00362,standard,13.99,2024-04-06,,credit_card,N
+S001777,U01283,basic,8.99,2024-06-26,,apple_pay,false
+S001238,U00891,standard,13.99,2024-11-20,"Feb 23, 2025",google_pay,yes
+S002049,U01483,premium,17.99,2023-08-20,,credit_card,N
+S001983,U01435,basic,8.99,"Jun 16, 2023",,paypal,false
+S000990,U00709,standard,13.99,2022-09-23,,google_pay,FALSE
+S001626,U01179,basic,8.99,"Apr 19, 2023",14-06-2023,credit_card,TRUE
+S000388,U00281,basic,8.99,2023-04-22,2024-03-24,paypal,FALSE
+S001576,U01143,standard,13.99,12/19/2024,,google_pay,N
+S001003,U00721,standard,13.99,11/06/2024,,credit_card,0
+S000543,U00392,standard,13.99,2024-02-24,,google_pay,FALSE
+S000660,U00481,standard,13.99,2024-09-10,03/31/2025,credit_card,FALSE
+S001137,U00820,standard,13.99,"Jan 08, 2024",2024-02-09,credit_card,yes
+S000110,U00073,basic,8.99,2023-12-01,2024-10-17,apple_pay,false
+S000026,U00017,standard,13.99,2022-09-28,"Apr 16, 2023",credit_card,1
+S000888,U00638,standard,13.99,"Jan 08, 2023",,credit_card,no
+S001343,U00969,premium,17.99,2023-10-23,2024-06-30,credit_card,FALSE
+S001845,U01330,basic,8.99,02/25/2022,,google_pay,0
+S001296,U00937,standard,13.99,"Apr 26, 2024",2024-11-12,google_pay,1
+S000480,U00348,standard,13.99,"Nov 11, 2024",2025-03-03,apple_pay,true
+S000421,U00303,basic,8.99,2024-07-20,2025-03-31,credit_card,FALSE
+S001883,U01357,premium,17.99,2024-08-17,2025-02-24,google_pay,FALSE
+S000492,U00358,basic,8.99,2023-05-18,,paypal,N
+S001439,U01042,standard,13.99,2023-08-26,,credit_card,no
+S000456,U00330,premium,17.99,09/05/2022,2023-04-04,paypal,TRUE
+S000514,U00375,basic,8.99,2022-03-21,01/17/2023,paypal,false
+S000658,U00480,basic,8.99,2023-04-04,,google_pay,no
+S001751,U01267,premium,17.99,2022-09-15,2022-10-17,credit_card,1
+S002011,U01456,standard,13.99,2022-04-10,2023-08-18,credit_card,TRUE
+S000503,U00366,basic,8.99,2024-01-03,,apple_pay,N
+S000092,U00062,basic,8.99,08-10-2023,,apple_pay,N
+S001042,U00751,basic,8.99,2024-09-30,03/31/2025,paypal,no
+S001345,U00969,basic,8.99,"Feb 18, 2025",,credit_card,0
+S001054,U00758,premium,17.99,05/08/2023,,apple_pay,false
+S001989,U01440,premium,17.99,2024-10-01,,apple_pay,no
+S000635,U00463,basic,8.99,02/11/2023,,apple_pay,0
+S001408,U01017,standard,13.99,2023-06-04,,apple_pay,N
+S000880,U00631,basic,8.99,2024-01-22,,paypal,no
+S001022,U00734,standard,13.99,2024-06-28,,google_pay,N
+S001385,U01000,basic,8.99,2022-06-06,2023-03-23,paypal,FALSE
+S001658,U01205,premium,17.99,2023-07-29,27-03-2024,credit_card,FALSE
+S000320,U00228,premium,17.99,2024-11-28,,paypal,FALSE
+S000447,U00325,standard,13.99,"Oct 04, 2022",2023-04-16,apple_pay,no
+S000897,U00645,standard,13.99,10/26/2024,,paypal,0
+S001973,U01427,basic,8.99,2022-08-26,,paypal,FALSE
+S001916,U01382,premium,17.99,2023-04-05,,apple_pay,0
+S000758,U00552,standard,13.99,2024-09-05,,paypal,no
+S001892,U01364,standard,13.99,03/26/2023,,credit_card,false
+S001596,U01158,premium,17.99,"Aug 08, 2022",,paypal,no
+S000056,U00040,basic,8.99,2024-01-25,2025-01-25,apple_pay,N
+S000446,U00324,basic,8.99,11/29/2023,,apple_pay,no
+S000400,U00288,standard,13.99,2022-04-27,2023-01-06,apple_pay,FALSE
+S001201,U00867,standard,13.99,2022-12-15,2023-03-09,paypal,no
+S000134,U00088,standard,13.99,2022-11-11,,credit_card,N
+S000147,U00099,standard,13.99,"Sep 07, 2023",,paypal,FALSE
+S001834,U01320,standard,13.99,2024-12-23,06-03-2025,google_pay,Y
+S001639,U01188,standard,13.99,2023-03-21,,credit_card,false
+S001219,U00879,premium,17.99,2022-04-17,2023-04-18,google_pay,yes
+S001055,U00759,standard,13.99,2023-03-06,,apple_pay,no
+S001222,U00882,premium,17.99,2023-12-31,05/22/2024,credit_card,0
+S000395,U00286,standard,13.99,13-06-2023,2023-12-11,apple_pay,no
+S000712,U00518,premium,17.99,2024-10-12,20-12-2024,credit_card,true
+S001084,U00780,basic,8.99,2022-07-31,,paypal,N
+S001862,U01340,standard,13.99,2025-02-17,,apple_pay,N
+S001257,U00908,standard,13.99,2022-08-23,,credit_card,N
+S000563,U00408,premium,17.99,"May 01, 2023","Nov 16, 2023",apple_pay,1
+S000580,U00421,standard,13.99,2024-07-04,,credit_card,N
+S001648,U01196,standard,13.99,2023-02-04,"Jun 22, 2023",credit_card,yes
+S002052,U01485,basic,8.99,2024-11-04,,google_pay,no
+S001833,U01319,premium,17.99,"Mar 06, 2025",,paypal,N
+S000201,U00139,standard,13.99,2023-06-11,,apple_pay,no
+S000419,U00301,standard,13.99,"Mar 17, 2024",,apple_pay,FALSE
+S000141,U00093,premium,17.99,2023-03-15,,google_pay,false
+S001803,U01302,basic,8.99,2023-11-04,2024-01-14,credit_card,false
+S001618,U01172,premium,17.99,2024-03-01,2025-01-08,google_pay,true
+S001769,U01278,basic,8.99,2022-10-20,,google_pay,no
+S000736,U00535,premium,17.99,2023-11-19,,paypal,no
+S001546,U01123,premium,17.99,2023-05-06,,google_pay,0
+S000215,U00148,basic,8.99,2022-04-27,07/27/2022,apple_pay,N
+S000494,U00360,standard,13.99,2024-09-09,12/03/2024,apple_pay,N
+S001931,U01395,premium,17.99,2023-10-10,2024-11-01,credit_card,no
+S000917,U00659,basic,8.99,2024-07-08,2024-11-24,apple_pay,FALSE
+S000176,U00118,basic,8.99,01/29/2025,2025-03-03,credit_card,yes
+S001760,U01274,basic,8.99,05-01-2023,2023-08-17,apple_pay,false
+S001877,U01352,premium,17.99,2023-06-15,2024-02-16,paypal,FALSE
+S000826,U00595,premium,17.99,2023-02-26,,paypal,no
+S001287,U00930,premium,17.99,01-11-2023,2024-05-09,apple_pay,Y
+S000813,U00588,premium,17.99,01/22/2023,2023-05-22,google_pay,0
+S000946,U00678,standard,13.99,2023-10-19,,credit_card,FALSE
+S000113,U00074,standard,13.99,"Apr 11, 2024",2024-07-27,google_pay,N
+S000530,U00386,standard,13.99,09/27/2024,,apple_pay,false
+S000766,U00558,standard,13.99,2022-05-12,,apple_pay,false
+S001305,U00945,premium,17.99,2023-11-05,2024-09-26,apple_pay,N
+S001969,U01424,basic,8.99,2023-05-03,2023-10-30,apple_pay,true
+S000030,U00020,standard,13.99,09-10-2022,,apple_pay,0
+S000183,U00123,standard,13.99,2024-07-02,,google_pay,no
+S000791,U00573,basic,8.99,2023-04-19,,paypal,FALSE
+S001840,U01325,standard,13.99,2023-02-05,,credit_card,N
+S001184,U00857,standard,13.99,2023-02-01,,apple_pay,false
+S000575,U00416,standard,13.99,13-09-2022,2023-04-28,apple_pay,yes
+S001290,U00932,basic,8.99,2024-06-20,13-02-2025,paypal,0
+S000811,U00587,premium,17.99,13-12-2023,,apple_pay,FALSE
+S001947,U01406,basic,8.99,08/28/2022,08/23/2023,credit_card,0
+S001710,U01239,standard,13.99,2024-05-22,2024-11-18,paypal,N
+S001200,U00866,standard,13.99,2024-08-02,,paypal,no
+S000124,U00080,premium,17.99,2022-02-11,,apple_pay,N
+S001036,U00745,basic,8.99,09/23/2024,03/31/2025,google_pay,FALSE
+S001746,U01263,basic,8.99,2023-10-29,,google_pay,N
+S000290,U00210,premium,17.99,2024-02-20,06-04-2024,credit_card,true
+S002019,U01462,basic,8.99,2023-10-15,,paypal,no
+S000278,U00198,standard,13.99,2024-04-06,,credit_card,no
+S001386,U01000,basic,8.99,2023-04-15,,paypal,N
+S001900,U01371,premium,17.99,20-08-2024,2025-03-31,google_pay,no
+S000472,U00342,standard,13.99,2023-12-08,2024-01-09,google_pay,TRUE
+S000170,U00115,basic,8.99,2022-11-24,,paypal,N
+S000031,U00021,premium,17.99,2023-01-03,2023-09-05,apple_pay,FALSE
+S001031,U00741,premium,17.99,02-04-2022,,paypal,N
+S000975,U00698,standard,13.99,12-07-2024,,credit_card,0
+S000982,U00703,basic,8.99,2022-07-15,,paypal,0
+S000868,U00623,basic,8.99,04-11-2023,,google_pay,N
+S001392,U01004,basic,8.99,"Jul 15, 2024",26-01-2025,apple_pay,FALSE
+S001334,U00964,premium,17.99,2022-03-09,2022-09-07,apple_pay,no
+S000795,U00576,standard,13.99,2022-02-21,,google_pay,false
+S000125,U00081,standard,13.99,2022-04-27,"Aug 06, 2022",google_pay,no
+S000380,U00275,basic,8.99,2022-10-12,2024-04-09,credit_card,yes
+S000235,U00164,premium,17.99,2023-04-15,,paypal,FALSE
+S000463,U00335,standard,13.99,2022-04-17,,paypal,no
+S001149,U00830,standard,13.99,2022-10-11,,apple_pay,no
+S000384,U00278,premium,17.99,21-08-2024,,google_pay,N
+S001449,U01048,premium,17.99,29-06-2023,,credit_card,FALSE
+S000347,U00249,standard,13.99,2023-06-08,,credit_card,false
+S001624,U01177,standard,13.99,"May 30, 2023",,paypal,false
+S000050,U00034,basic,8.99,30-06-2024,31-03-2025,credit_card,N
+S000024,U00015,standard,13.99,01/11/2024,,apple_pay,N
+S001139,U00822,premium,17.99,06/22/2024,,google_pay,false
+S002048,U01482,standard,13.99,10-11-2023,23-12-2023,paypal,yes
+S001415,U01022,premium,17.99,2022-07-07,,credit_card,no
+S000679,U00495,premium,17.99,04/03/2023,,apple_pay,FALSE
+S001019,U00733,premium,17.99,2022-08-25,"Mar 20, 2023",apple_pay,false
+S001829,U01316,standard,13.99,2023-11-12,,credit_card,0
+S000295,U00213,standard,13.99,2023-01-04,29-11-2023,apple_pay,no
+S000315,U00225,premium,17.99,08/07/2022,20-04-2023,apple_pay,0
+S001273,U00920,standard,13.99,12/20/2023,,google_pay,FALSE
+S000114,U00074,standard,13.99,2024-08-23,"Feb 09, 2025",google_pay,TRUE
+S000915,U00657,premium,17.99,2022-05-03,,credit_card,N
+S000746,U00542,standard,13.99,13-04-2022,,paypal,0
+S000487,U00353,premium,17.99,2023-07-24,,apple_pay,0
+S001826,U01314,premium,17.99,10/13/2024,2025-01-23,google_pay,true
+S000414,U00297,premium,17.99,2024-04-01,2024-07-27,apple_pay,0
+S000191,U00129,basic,8.99,05/04/2023,,apple_pay,FALSE
+S001865,U01343,premium,17.99,2023-01-02,"Jun 26, 2023",apple_pay,TRUE
+S002067,U01495,standard,13.99,01/27/2023,,apple_pay,FALSE
+S001373,U00989,standard,13.99,2024-10-08,,credit_card,no
+S001308,U00947,premium,17.99,09/25/2022,,google_pay,no
+S000558,U00404,standard,13.99,2022-02-28,28-06-2022,credit_card,no
+S002071,U01498,basic,8.99,2023-01-29,2023-05-27,google_pay,FALSE
+S001545,U01122,basic,8.99,2023-08-28,2024-06-04,apple_pay,1
+S002009,U01454,standard,13.99,2024-02-12,,paypal,FALSE
+S001381,U00997,standard,13.99,"May 29, 2023",2024-05-21,apple_pay,N
+S000788,U00572,premium,17.99,13-08-2024,2025-01-13,google_pay,FALSE
+S000934,U00669,basic,8.99,2022-01-03,,credit_card,no
+S000613,U00447,basic,8.99,30-07-2023,2024-08-23,google_pay,TRUE
+S001066,U00769,premium,17.99,2022-10-13,,apple_pay,false
+S001888,U01361,premium,17.99,2024-07-03,2024-12-07,credit_card,true
+S001228,U00885,basic,8.99,"Dec 25, 2022",2023-12-19,google_pay,N
+S000922,U00661,basic,8.99,29-08-2022,09/16/2023,apple_pay,0
+S001249,U00900,basic,8.99,04/07/2023,,google_pay,false
+S001280,U00926,standard,13.99,"May 11, 2024",,paypal,N
+S001965,U01421,basic,8.99,2024-05-06,10/26/2024,credit_card,FALSE
+S001839,U01325,standard,13.99,2022-02-13,2023-01-15,credit_card,no
+S000944,U00677,standard,13.99,09/23/2024,,credit_card,0
+S001317,U00953,premium,17.99,15-12-2023,2024-09-04,google_pay,N
+S000737,U00536,standard,13.99,"Oct 22, 2024","Jan 07, 2025",google_pay,FALSE
+S000074,U00051,basic,8.99,2023-06-19,,google_pay,no
+S001169,U00846,basic,8.99,02/28/2023,2024-02-17,paypal,Y
+S001923,U01389,premium,17.99,04-03-2024,06-05-2024,apple_pay,1
+S000331,U00236,standard,13.99,04/05/2023,30-08-2023,credit_card,no
+S001240,U00892,premium,17.99,19-09-2023,,credit_card,false
+S000048,U00033,premium,17.99,2023-07-30,2024-06-18,credit_card,N
+S000072,U00050,premium,17.99,24-06-2022,2022-11-05,credit_card,false
+S000590,U00428,basic,8.99,"Jan 09, 2023",,paypal,FALSE
+S001972,U01426,basic,8.99,2022-02-09,,google_pay,N
+S001215,U00876,basic,8.99,2023-05-23,,apple_pay,N
+S002005,U01452,standard,13.99,2024-06-12,2024-10-02,paypal,N
+S000963,U00691,basic,8.99,06/09/2022,,paypal,FALSE
+S002061,U01490,basic,8.99,2025-02-18,,apple_pay,N
+S001555,U01129,basic,8.99,2024-02-29,,google_pay,false
+S000521,U00378,premium,17.99,"Dec 25, 2022",2023-09-22,apple_pay,1
+S001256,U00907,basic,8.99,16-09-2022,,google_pay,no
+S001491,U01081,basic,8.99,02/02/2025,,credit_card,0
+S000631,U00462,standard,13.99,2024-01-27,17-09-2024,google_pay,false
+S000715,U00521,basic,8.99,2022-02-01,2022-08-19,google_pay,0
+S000165,U00112,standard,13.99,2024-02-29,07/27/2024,apple_pay,yes
+S000190,U00128,premium,17.99,2024-06-25,,credit_card,N
+S001496,U01086,premium,17.99,2022-04-03,,google_pay,no
+S001736,U01256,premium,17.99,"Apr 21, 2022",,paypal,0
+S000537,U00389,basic,8.99,10-06-2023,2024-01-19,google_pay,N
+S000042,U00028,basic,8.99,"Mar 04, 2025",,paypal,FALSE
+S000356,U00256,premium,17.99,2022-01-28,2022-12-30,paypal,0
+S001958,U01415,premium,17.99,2024-02-27,,paypal,0
+S001676,U01218,premium,17.99,10/18/2024,,paypal,FALSE
+S000340,U00242,basic,8.99,08/29/2023,,paypal,FALSE
+S001145,U00827,premium,17.99,02/18/2025,,credit_card,N
+S000817,U00589,premium,17.99,2024-09-24,,paypal,FALSE
+S000550,U00399,basic,8.99,2024-08-19,2025-01-18,paypal,FALSE
+S000500,U00365,premium,17.99,20-01-2024,,credit_card,N
+S000622,U00455,premium,17.99,03/30/2024,,apple_pay,no
+S001194,U00864,premium,17.99,2022-05-30,27-02-2023,apple_pay,N
+S000410,U00294,premium,17.99,"Sep 24, 2023",2024-05-27,credit_card,0
+S000504,U00367,basic,8.99,2023-10-24,,google_pay,false
+S001235,U00889,basic,$13.99,2022-07-13,,google_pay,no
+S000108,U00071,basic,8.99,02/24/2023,,credit_card,false
+S001141,U00824,standard,13.99,03/06/2023,,apple_pay,0
+S000299,U00215,standard,13.99,"Apr 17, 2023",2023-10-10,credit_card,FALSE
+S000828,U00597,basic,8.99,2022-08-28,,apple_pay,0
+S001244,U00895,standard,13.99,08/16/2024,"Mar 31, 2025",google_pay,no
+S001653,U01200,premium,17.99,2024-12-08,,credit_card,FALSE
+S001945,U01404,premium,17.99,2023-04-13,,credit_card,0
+S000969,U00694,standard,13.99,02/04/2023,,google_pay,0
+S001968,U01423,standard,13.99,2022-05-31,,credit_card,0
+S000317,U00226,standard,13.99,2023-11-23,10/02/2024,apple_pay,N
+S000385,U00279,standard,13.99,2024-03-04,,credit_card,N
+S001646,U01194,premium,17.99,2024-06-22,2025-03-31,apple_pay,false
+S001869,U01346,standard,13.99,2024-02-05,03/11/2025,credit_card,0
+S000188,U00126,standard,13.99,17-07-2023,01/28/2024,apple_pay,Y
+S001717,U01242,premium,17.99,2024-12-13,,google_pay,no
+S000623,U00456,premium,17.99,2024-02-18,"Aug 24, 2024",apple_pay,N
+S000232,U00161,premium,17.99,08/04/2024,,google_pay,false
+S000589,U00428,basic,8.99,2022-07-24,2022-12-24,paypal,false
+S001448,U01048,basic,8.99,2023-02-03,17-06-2023,credit_card,N
+S001737,U01257,basic,8.99,"Mar 22, 2023",,apple_pay,false
+S001481,U01075,basic,8.99,2022-01-06,,apple_pay,0
+S001846,U01331,premium,17.99,01-09-2023,,paypal,false
+S000753,U00549,standard,13.99,2023-05-22,,paypal,0
+S000671,U00488,basic,8.99,2024-03-07,,google_pay,0
+S000237,U00165,standard,13.99,2022-11-26,12/22/2023,google_pay,no
+S000727,U00529,premium,17.99,2022-07-29,,credit_card,no
+S000483,U00350,premium,17.99,2023-04-18,,paypal,no
+S001366,U00986,standard,13.99,"Feb 23, 2025",,apple_pay,false
+S001879,U01353,standard,13.99,2024-02-10,,google_pay,false
+S000921,U00660,basic,8.99,2024-06-28,,credit_card,false
+S000158,U00106,basic,8.99,2022-05-13,,paypal,FALSE
+S001707,U01237,basic,8.99,2024-02-11,,google_pay,0
+S001451,U01050,standard,13.99,14-09-2023,09/12/2024,credit_card,true
+S000862,U00619,basic,8.99,08-05-2024,2024-07-25,apple_pay,0
+S000570,U00412,basic,8.99,2023-10-25,2024-02-15,apple_pay,1
+S000247,U00172,standard,13.99,11/12/2024,2025-03-31,credit_card,N
+S001378,U00994,premium,17.99,2024-03-01,,google_pay,FALSE
+S001606,U01164,premium,17.99,2024-04-13,2025-03-31,google_pay,false
+S000797,U00578,standard,13.99,2023-03-30,,google_pay,N
+S001040,U00749,standard,13.99,2024-11-29,,apple_pay,no
+S000787,U00572,premium,17.99,06/04/2024,08/12/2024,google_pay,FALSE
+S001263,U00913,premium,17.99,2022-07-21,"Oct 28, 2022",google_pay,no
+S001830,U01317,basic,8.99,09/12/2022,,credit_card,no
+S000869,U00624,premium,17.99,2024-09-05,03/31/2025,apple_pay,0
+S000189,U00127,basic,8.99,2022-09-20,,google_pay,false
+S000150,U00101,premium,17.99,2024-10-18,2025-03-16,apple_pay,no
+S001614,U01169,standard,13.99,2024-12-18,,paypal,0
+S000942,U00675,basic,8.99,2022-09-10,,apple_pay,false
+S000121,U00078,standard,13.99,2024-06-12,,google_pay,FALSE
+S000995,U00714,premium,17.99,2022-05-29,,paypal,N
+S000178,U00119,premium,17.99,2025-03-09,,paypal,no
+S000228,U00158,standard,13.99,2022-03-11,2022-08-30,apple_pay,TRUE
+S001328,U00960,basic,8.99,2023-07-10,,credit_card,no
+S000859,U00617,premium,17.99,03/26/2022,,apple_pay,N
+S000181,U00121,premium,17.99,2024-12-17,,paypal,N
+S001683,U01222,basic,8.99,2024-01-27,,apple_pay,N
+S002028,U01470,premium,17.99,2024-04-04,2024-06-30,credit_card,no
+S000252,U00177,standard,13.99,2024-03-13,,apple_pay,no
+S001510,U01096,standard,13.99,2023-01-19,2023-09-10,google_pay,Y
+S000318,U00226,basic,8.99,09-10-2024,03/31/2025,apple_pay,FALSE
+S000372,U00269,basic,8.99,01/19/2024,,paypal,FALSE
+S000600,U00436,basic,8.99,2025-01-10,,google_pay,N
+S000417,U00299,standard,13.99,2024-04-11,,google_pay,false
+S001095,U00789,standard,13.99,09-05-2024,,apple_pay,FALSE
+S000870,U00625,premium,17.99,2023-02-27,2023-12-13,apple_pay,1
+S000059,U00041,basic,8.99,2024-08-17,,paypal,FALSE
+S001725,U01249,basic,8.99,2022-10-10,,paypal,no
+S001303,U00943,standard,13.99,2024-10-12,,credit_card,no
+S000902,U00649,premium,17.99,2022-08-21,2023-12-15,paypal,Y
+S001029,U00740,standard,13.99,"Mar 21, 2024",21-01-2025,apple_pay,N
+S001944,U01403,basic,8.99,2024-05-28,,google_pay,false
+S000506,U00369,premium,17.99,06/18/2023,,apple_pay,false
+S002057,U01488,premium,17.99,2024-02-04,,apple_pay,false
+S001851,U01334,basic,8.99,2024-09-07,09-01-2025,paypal,TRUE
+S001284,U00929,basic,8.99,18-05-2022,2022-09-16,credit_card,N
+S001437,U01041,standard,13.99,21-05-2024,,google_pay,no
+S000979,U00701,basic,8.99,2022-12-08,,paypal,false
+S000519,U00377,premium,17.99,17-04-2024,2024-09-28,paypal,FALSE
+S001987,U01439,standard,13.99,2022-01-18,2022-05-10,google_pay,Y
+S001928,U01392,premium,17.99,"Mar 13, 2022",,paypal,N
+S001285,U00929,basic,8.99,2022-09-21,"Feb 15, 2023",credit_card,0
+S000432,U00313,basic,8.99,06/14/2023,,credit_card,N
+S001981,U01434,basic,8.99,2024-01-09,06/10/2024,google_pay,FALSE
+S000137,U00091,standard,13.99,"Apr 13, 2023",2024-05-01,apple_pay,false
+S001677,U01219,basic,8.99,2024-02-23,2024-11-13,credit_card,0
+S001220,U00880,standard,13.99,09/27/2023,,paypal,N
+S000908,U00653,basic,8.99,2023-04-25,2023-06-25,credit_card,false
+S000450,U00326,basic,8.99,"Apr 12, 2024",,paypal,0
+S001065,U00769,standard,13.99,"Jan 22, 2022",2022-10-01,apple_pay,0
+S000981,U00702,premium,17.99,2025-03-10,,apple_pay,FALSE
+S001776,U01283,premium,17.99,2023-07-02,2024-06-22,apple_pay,FALSE
+S001880,U01354,basic,8.99,2023-07-20,,paypal,0
+S001793,U01293,basic,8.99,02/13/2025,2025-03-16,credit_card,true
+S001326,U00959,basic,8.99,10-07-2022,2022-09-30,credit_card,FALSE
+S002026,U01468,standard,13.99,2024-08-07,2025-03-31,paypal,0
+S001591,U01155,standard,13.99,2024-01-31,2024-10-09,google_pay,0
+S000321,U00229,premium,17.99,2023-03-15,2023-10-25,credit_card,false
+S001620,U01174,premium,17.99,2022-11-22,,credit_card,false
+S001214,U00876,basic,8.99,08/17/2022,2023-05-01,apple_pay,N
+S000144,U00096,premium,17.99,"Feb 10, 2024",,apple_pay,no
+S001864,U01342,standard,13.99,2022-02-14,,apple_pay,N
+S000988,U00708,premium,17.99,2023-12-06,,paypal,0
+S000825,U00594,basic,8.99,01/02/2022,,google_pay,0
+S000034,U00023,basic,8.99,2022-04-07,,google_pay,FALSE
+S001778,U01284,premium,17.99,2024-10-10,2025-03-31,credit_card,N
+S000798,U00579,standard,13.99,2024-03-07,2025-03-01,paypal,false
+S000393,U00285,standard,13.99,2022-02-17,2022-09-21,paypal,FALSE
+S001911,U01378,standard,13.99,31-03-2023,"Jan 09, 2024",credit_card,TRUE
+S001536,U01116,standard,13.99,05-07-2024,,credit_card,N
+S000223,U00153,basic,8.99,13-10-2024,,google_pay,0
+S001438,U01042,basic,8.99,"Dec 08, 2022",09-08-2023,credit_card,false
+S000771,U00561,premium,17.99,2024-06-16,2024-08-31,paypal,Y
+S000782,U00568,basic,8.99,2024-09-19,2024-12-29,credit_card,FALSE
+S000953,U00682,standard,13.99,2023-10-23,,credit_card,no
+S000884,U00635,basic,8.99,"Mar 18, 2023",,apple_pay,false
+S001204,U00869,basic,8.99,10/26/2023,01/02/2024,credit_card,false
+S000747,U00543,basic,8.99,2023-10-24,,google_pay,false
+S000203,U00141,standard,13.99,"Oct 06, 2023",,apple_pay,0
+S000375,U00271,premium,17.99,2022-07-11,,google_pay,no
+S001053,U00758,standard,13.99,2022-12-04,14-04-2023,apple_pay,FALSE
+S000325,U00231,standard,13.99,2024-08-03,,paypal,no
+S000950,U00681,standard,13.99,2022-12-14,"Aug 06, 2023",paypal,0
+S000643,U00468,standard,13.99,2024-09-19,2025-03-31,google_pay,no
+S001187,U00860,basic,8.99,2023-03-27,"Mar 18, 2024",credit_card,N
+S001601,U01161,premium,17.99,14-01-2023,,credit_card,false
+S001592,U01155,standard,13.99,2024-11-08,,google_pay,false
+S001405,U01015,premium,17.99,2024-10-07,,google_pay,N
+S000441,U00320,basic,8.99,2024-03-03,,credit_card,0
+S000021,U00013,premium,17.99,07/08/2023,"Apr 11, 2024",paypal,FALSE
+S001269,U00916,basic,8.99,2023-06-28,,google_pay,no
+S001823,U01313,standard,13.99,2022-10-07,,credit_card,0
+S001452,U01051,premium,17.99,2024-08-03,,google_pay,N
+S000063,U00045,basic,8.99,12/28/2022,2023-04-17,apple_pay,yes
+S001856,U01337,basic,8.99,2022-12-06,,apple_pay,0
+S001107,U00798,premium,17.99,2025-02-18,2025-03-30,paypal,TRUE
+S001524,U01108,standard,13.99,02/01/2024,12/11/2024,apple_pay,N
+S000706,U00514,basic,8.99,2024-06-22,,apple_pay,FALSE
+S000844,U00606,basic,8.99,2023-06-09,,apple_pay,N
+S001152,U00832,standard,13.99,2024-03-28,,credit_card,no
+S001528,U01110,standard,13.99,"Dec 12, 2023",,apple_pay,false
+S000174,U00118,premium,17.99,"Jun 22, 2023",2024-04-25,credit_card,false
+S000096,U00064,basic,8.99,05/30/2024,2024-10-23,credit_card,Y
+S001118,U00805,standard,13.99,"Jan 18, 2024",,apple_pay,no
+S001321,U00955,basic,8.99,16-03-2025,03/31/2025,google_pay,true
+S001559,U01131,basic,8.99,2025-03-02,,paypal,0
+S000080,U00054,standard,13.99,06/19/2024,,credit_card,0
+S001795,U01295,standard,13.99,08/05/2022,09-11-2022,google_pay,false
+S000258,U00183,premium,17.99,2024-01-13,,google_pay,false
+S000280,U00200,standard,13.99,07-10-2023,"Aug 07, 2024",apple_pay,yes
+S000536,U00388,basic,8.99,2023-04-28,,credit_card,N
+S000253,U00178,standard,13.99,"Feb 16, 2024",,google_pay,N
+S000401,U00288,standard,13.99,2023-02-04,,apple_pay,N
+S001515,U01100,premium,17.99,16-06-2024,,credit_card,FALSE
+S000139,U00092,premium,17.99,"Oct 24, 2024",03/31/2025,google_pay,false
+S001310,U00949,premium,17.99,2024-11-27,2025-03-31,paypal,false
+S000713,U00519,premium,17.99,2024-11-16,,google_pay,N
+S001279,U00925,basic,8.99,2024-06-03,,google_pay,0
+S000422,U00304,premium,17.99,2024-12-31,,google_pay,0
+S000524,U00381,standard,13.99,10/19/2022,,credit_card,false
+S000987,U00707,standard,13.99,12/03/2024,31-03-2025,apple_pay,false
+S000390,U00282,standard,13.99,21-02-2022,,apple_pay,false
+S001339,U00966,premium,17.99,2025-03-25,,credit_card,0
+S000402,U00289,premium,17.99,2023-04-02,,apple_pay,false
+S001041,U00750,standard,13.99,03/15/2022,,paypal,no
+S001032,U00742,basic,8.99,2023-04-19,,apple_pay,false
+S000742,U00539,premium,17.99,2023-07-03,,google_pay,0
+S000268,U00192,standard,13.99,2024-11-06,,paypal,N
+S000997,U00716,premium,17.99,2024-11-23,03/02/2025,paypal,1
+S001002,U00721,standard,13.99,2024-04-15,"Oct 21, 2024",credit_card,false
+S001403,U01013,premium,17.99,2023-09-10,2024-09-06,google_pay,Y
+S001338,U00966,premium,17.99,2024-09-01,2025-03-25,credit_card,false
+S000951,U00681,standard,13.99,2023-08-25,2024-02-29,paypal,0
+S001470,U01066,standard,13.99,06/15/2024,,credit_card,no
+S000357,U00256,standard,13.99,"Jan 05, 2023",,paypal,no
+S000442,U00321,premium,17.99,2024-05-06,,google_pay,false
+S001552,U01128,basic,8.99,21-01-2024,2024-11-04,credit_card,false
+S002018,U01461,basic,8.99,2024-08-03,2025-03-31,apple_pay,false
+S000289,U00209,premium,17.99,"May 04, 2023",,credit_card,false
+S001815,U01308,standard,13.99,09/12/2024,,credit_card,N
+S002051,U01485,basic,8.99,"Feb 14, 2024","Oct 06, 2024",google_pay,0
+S001159,U00839,standard,13.99,08/29/2022,03/15/2023,credit_card,yes
+S000768,U00560,premium,17.99,2022-11-12,11/12/2023,paypal,no
+S000081,U00055,basic,8.99,2024-11-21,03/31/2025,google_pay,N
+S002013,U01458,premium,17.99,03/18/2022,2023-01-22,paypal,FALSE
+S001657,U01204,premium,17.99,06/28/2022,"Aug 28, 2023",paypal,true
+S001842,U01327,basic,8.99,18-11-2024,,google_pay,0
+S001543,U01120,premium,17.99,"Dec 20, 2024",,paypal,false
+S000898,U00646,premium,17.99,2023-11-20,2024-02-19,credit_card,false
+S000185,U00124,premium,17.99,2023-01-13,2024-01-14,paypal,true
+S001996,U01447,standard,13.99,2023-07-01,2023-10-21,google_pay,0
+S001732,U01254,premium,17.99,2024-03-19,2024-06-23,credit_card,FALSE
+S000892,U00641,premium,17.99,2023-07-19,,google_pay,false
+S001430,U01035,basic,8.99,26-07-2023,,google_pay,false
+S000287,U00207,standard,13.99,2024-04-26,2025-03-31,paypal,false
+S000634,U00463,standard,13.99,"Nov 27, 2022",2023-01-29,apple_pay,no
+S001059,U00763,premium,17.99,09/16/2024,2025-03-31,google_pay,N
+S000723,U00526,basic,8.99,08/11/2024,31-03-2025,paypal,FALSE
+S000677,U00493,premium,17.99,2022-12-06,,credit_card,0
+S001841,U01326,standard,13.99,2024-07-15,2025-03-31,apple_pay,FALSE
+S000227,U00157,premium,17.99,"Jul 20, 2024",,google_pay,false
+S001076,U00774,standard,13.99,2025-01-15,08-03-2025,apple_pay,yes
+S000583,U00424,premium,17.99,2023-01-27,06-10-2023,paypal,0
+S001380,U00996,premium,17.99,2024-11-06,,credit_card,no
+S001844,U01329,premium,17.99,12-07-2024,31-03-2025,google_pay,false
+S002062,U01491,standard,13.99,2024-09-29,,google_pay,N
+S000481,U00349,standard,13.99,2024-02-14,,apple_pay,false
+S001603,U01163,basic,8.99,03/05/2024,05-10-2024,paypal,no
+S001584,U01149,standard,13.99,01-10-2024,,google_pay,N
+S001225,U00883,basic,8.99,2025-03-04,,google_pay,0
+S001773,U01281,basic,8.99,2022-05-04,,google_pay,0
+S001708,U01238,premium,17.99,03/25/2024,2025-01-05,credit_card,N
+S001057,U00761,premium,17.99,2022-10-11,,google_pay,no
+S001072,U00773,standard,13.99,05/04/2023,04-03-2024,credit_card,no
+S001680,U01220,basic,8.99,18-08-2022,2022-09-30,apple_pay,yes
+S001942,U01401,basic,8.99,2023-01-27,,paypal,0
+S000104,U00069,premium,17.99,2023-11-18,,google_pay,N
+S000065,U00046,standard,13.99,"Aug 05, 2024",2024-12-30,google_pay,true
+S000156,U00105,basic,8.99,2023-07-25,23-11-2023,apple_pay,false
+S000119,U00077,premium,17.99,29-11-2023,,apple_pay,FALSE
+S001804,U01302,basic,8.99,28-01-2024,09/30/2024,credit_card,0
+S001788,U01290,standard,13.99,07/29/2023,,apple_pay,0
+S001412,U01020,basic,8.99,04/25/2022,,paypal,no
+S001400,U01011,premium,17.99,09/13/2023,2024-10-02,google_pay,false
+S000542,U00392,basic,8.99,13-10-2023,2024-02-21,google_pay,N
+S001346,U00970,premium,17.99,2024-09-17,,apple_pay,false
+S001955,U01412,premium,17.99,"Oct 07, 2024",,paypal,no
+S000977,U00700,basic,8.99,2022-11-19,,credit_card,false
+S001564,U01134,standard,13.99,11/18/2022,2023-04-20,google_pay,FALSE
+S001309,U00948,premium,17.99,02/20/2022,2022-07-11,credit_card,yes
+S001411,U01019,premium,17.99,04-07-2022,,credit_card,N
+S000367,U00264,premium,17.99,2022-07-03,,apple_pay,no
+S000122,U00079,basic,8.99,2022-12-25,2024-01-18,paypal,FALSE
+S000728,U00530,standard,13.99,2023-08-15,2024-01-30,google_pay,1
+S000588,U00427,standard,13.99,"Jun 01, 2024",,google_pay,no
+S000143,U00095,standard,13.99,2022-02-01,11/21/2022,paypal,Y
+S000246,U00172,standard,13.99,2023-12-17,10/13/2024,credit_card,no
+S001772,U01280,premium,17.99,2023-06-12,,paypal,FALSE
+S000308,U00221,standard,13.99,2023-02-07,,apple_pay,0
+S001901,U01372,standard,13.99,2023-01-29,,paypal,false
+S000913,U00656,premium,17.99,05/08/2024,2025-01-17,apple_pay,N
+S001102,U00796,basic,8.99,2022-08-24,2023-03-10,apple_pay,N
+S001550,U01126,basic,8.99,2023-05-15,,apple_pay,no
+S000105,U00070,basic,8.99,"Jul 13, 2023","May 06, 2024",paypal,0
+S000324,U00230,basic,8.99,2022-06-26,,google_pay,FALSE
+S002044,U01481,premium,17.99,"Jan 01, 2023",22-05-2023,apple_pay,no
+S000404,U00290,premium,17.99,2023-02-08,,apple_pay,N
+S000769,U00560,premium,17.99,12/02/2023,2024-03-02,paypal,false
+S001633,U01184,basic,8.99,2023-11-11,2024-05-27,credit_card,0
+S000204,U00142,premium,17.99,"Mar 26, 2023",2023-08-24,apple_pay,N
+S001615,U01170,standard,13.99,15-02-2022,2022-10-05,google_pay,FALSE
+S001115,U00804,premium,17.99,2023-05-17,2023-08-03,apple_pay,N
+S000585,U00425,basic,8.99,2022-01-08,2022-04-16,google_pay,false
+S000816,U00589,standard,13.99,2023-09-09,2024-09-03,paypal,no
+S001798,U01297,standard,13.99,03/13/2024,,google_pay,0
+S000485,U00352,basic,8.99,"Mar 04, 2022",05/10/2022,paypal,TRUE
+S001774,U01282,basic,8.99,01/11/2022,2023-01-16,paypal,false
+S001048,U00754,basic,8.99,"Mar 25, 2024",2024-10-21,google_pay,Y
+S000799,U00579,standard,13.99,2025-03-14,,paypal,false
+S001802,U01301,basic,8.99,24-08-2022,2022-09-27,credit_card,1
+S000381,U00276,premium,17.99,2024-07-16,,apple_pay,false
+S002029,U01470,standard,13.99,2024-07-27,31-03-2025,credit_card,0
+S001828,U01316,standard,13.99,2022-12-04,2023-11-12,credit_card,FALSE
+S001394,U01005,standard,13.99,2024-10-17,,apple_pay,no
+S001367,U00987,standard,13.99,2022-08-08,"Aug 07, 2023",apple_pay,false
+S001252,U00903,premium,17.99,09-06-2022,,paypal,no
+S001199,U00866,premium,17.99,21-09-2023,12-07-2024,paypal,0
+S001278,U00925,basic,8.99,2023-06-10,2024-05-22,google_pay,FALSE
+S000618,U00452,premium,17.99,22-10-2023,,paypal,N
+S000329,U00234,premium,17.99,2023-08-06,2023-09-05,google_pay,true
+S000420,U00302,standard,13.99,2023-05-25,,paypal,false
+S000225,U00155,standard,13.99,2022-07-26,,paypal,false
+S000574,U00415,standard,13.99,2024-01-28,2024-05-04,credit_card,yes
+S000354,U00254,premium,17.99,2022-09-07,,credit_card,false
+S000304,U00217,standard,13.99,2022-07-03,"Feb 19, 2023",google_pay,yes
+S002007,U01453,standard,13.99,09/17/2023,2023-12-13,apple_pay,FALSE
+S002037,U01476,premium,17.99,2024-11-19,2025-03-21,credit_card,1
+S001508,U01094,premium,17.99,2024-08-19,03/31/2025,paypal,0
+S000341,U00243,premium,17.99,2024-05-28,2025-03-31,google_pay,0
+S000226,U00156,standard,13.99,2023-11-14,,credit_card,0
+S001213,U00876,premium,17.99,27-03-2022,2022-07-28,apple_pay,N
+S000722,U00525,basic,8.99,2024-09-07,31-03-2025,apple_pay,no
+S000382,U00277,premium,17.99,06/11/2023,01/28/2024,google_pay,FALSE
+S001052,U00757,standard,13.99,2023-08-06,02-10-2023,apple_pay,yes
+S002047,U01482,premium,17.99,2023-06-16,31-10-2023,paypal,no
+S002053,U01486,standard,13.99,2022-02-13,,credit_card,false
+S000682,U00497,standard,13.99,2023-10-02,,google_pay,0
+S000046,U00031,premium,17.99,2022-08-30,2022-10-19,paypal,TRUE
+S000273,U00195,basic,,2022-09-07,,credit_card,no
+S000075,U00052,premium,17.99,04-06-2023,2024-02-26,apple_pay,no
+S001636,U01185,basic,8.99,02/24/2023,,paypal,no
+S001894,U01366,basic,8.99,2022-12-08,2023-08-22,google_pay,0
+S001081,U00778,premium,17.99,2024-03-19,30-05-2024,google_pay,yes
+S001731,U01254,premium,17.99,2023-05-01,2024-03-01,credit_card,FALSE
+S000522,U00379,basic,8.99,2022-03-10,,apple_pay,0
+S000306,U00219,standard,13.99,07/18/2024,,apple_pay,N
+S000089,U00061,basic,8.99,2023-11-28,05/26/2024,paypal,0
+S000894,U00643,basic,8.99,2024-08-30,,paypal,N
+S001297,U00938,standard,13.99,2022-05-08,2022-09-30,google_pay,0
+S000556,U00403,standard,13.99,2022-10-15,2023-01-21,apple_pay,0
+S000778,U00566,standard,13.99,16-12-2022,08/31/2023,paypal,no
+S000175,U00118,premium,17.99,2024-05-02,2025-01-05,credit_card,FALSE
+S000097,U00065,standard,13.99,2022-03-14,,paypal,FALSE
+S000699,U00508,premium,17.99,08/13/2022,,credit_card,N
+S001727,U01251,premium,17.99,2022-09-28,,apple_pay,0
+S000434,U00314,basic,8.99,2022-09-25,,credit_card,false
+S000510,U00373,standard,13.99,2022-11-01,09-09-2023,paypal,FALSE
+S000809,U00586,premium,17.99,26-07-2023,2024-01-27,credit_card,no
+S000173,U00117,standard,13.99,2024-07-12,03/31/2025,paypal,no
+S001350,U00973,premium,17.99,2022-05-25,2022-11-20,paypal,N
+S000761,U00553,basic,8.99,"Nov 27, 2023",,credit_card,0
+S000636,U00464,standard,13.99,2023-02-09,"Aug 01, 2023",paypal,N
+S001004,U00722,standard,13.99,2024-09-22,2025-03-31,paypal,0
+S000668,U00486,premium,17.99,2024-05-03,08/13/2024,paypal,yes
+S000704,U00512,basic,8.99,2022-02-09,,credit_card,no
+S001612,U01168,premium,17.99,"Dec 06, 2024",2025-03-31,apple_pay,0
+S000673,U00490,basic,8.99,13-02-2023,,paypal,no
+S001641,U01190,standard,13.99,2024-02-24,,apple_pay,FALSE
+S001796,U01295,premium,17.99,2022-11-26,,google_pay,FALSE
+S001847,U01332,premium,17.99,2024-12-29,,apple_pay,false
+S001064,U00768,premium,17.99,2024-08-26,2024-12-11,google_pay,yes
+S000762,U00554,premium,17.99,2024-02-20,,paypal,FALSE
+S000022,U00013,premium,17.99,05-05-2024,2024-10-31,paypal,true
+S001197,U00865,basic,8.99,15-01-2024,,paypal,no
+S001074,U00774,standard,13.99,2024-02-20,05/07/2024,apple_pay,no
+S000010,U00005,premium,17.99,2024-06-08,2024-10-24,paypal,1
+S001359,U00980,basic,8.99,03/29/2023,,google_pay,FALSE
+S000088,U00061,premium,17.99,05/12/2023,2023-11-07,paypal,false
+S001649,U01197,basic,8.99,2024-11-07,,google_pay,0
+S000379,U00275,premium,17.99,2022-06-20,2022-09-13,credit_card,0
+S001488,U01079,standard,13.99,2025-01-14,,credit_card,false
+S001060,U00764,basic,8.99,2022-08-03,,google_pay,false
+S000748,U00544,standard,13.99,2022-02-24,,google_pay,0
+S001850,U01333,premium,17.99,04/08/2024,,credit_card,false
+S000693,U00505,standard,13.99,2024-01-26,"Jul 07, 2024",google_pay,N
+S000094,U00063,basic,8.99,2024-12-27,,paypal,FALSE
+S001529,U01111,standard,13.99,2023-04-15,18-10-2023,google_pay,1
+S001522,U01106,standard,13.99,04-03-2024,,apple_pay,FALSE
+S001792,U01293,premium,17.99,2024-10-14,2025-02-01,credit_card,false
+S000609,U00444,basic,8.99,09/18/2023,,google_pay,false
+S001567,U01135,premium,17.99,13-06-2024,,google_pay,N
+S001553,U01128,basic,8.99,2024-11-12,,credit_card,0
+S001684,U01223,basic,8.99,"Apr 08, 2023",2024-03-13,google_pay,no
+S000298,U00214,basic,8.99,2022-05-20,,credit_card,no
+S000459,U00332,standard,13.99,"Jul 16, 2024",2024-11-19,credit_card,false
+S001702,U01235,basic,8.99,08-09-2022,,credit_card,N
+S000013,U00007,standard,13.99,22-06-2024,03/15/2025,google_pay,no
+S000355,U00255,basic,8.99,11/28/2024,2025-03-31,paypal,FALSE
+S000436,U00315,premium,17.99,2024-06-20,"Dec 06, 2024",paypal,yes
+S001939,U01399,premium,17.99,2022-12-18,,apple_pay,false
+S000875,U00628,premium,17.99,2023-12-04,06/03/2024,credit_card,false
+S001069,U00772,basic,8.99,2022-06-12,05-02-2023,paypal,FALSE
+S001750,U01266,premium,17.99,12/17/2022,29-11-2023,credit_card,Y
+S001797,U01296,standard,13.99,31-07-2023,,paypal,no
+S001533,U01115,standard,13.99,"Feb 12, 2023",2023-09-17,google_pay,false
+S001270,U00917,basic,8.99,07/02/2022,,apple_pay,N
+S001800,U01299,premium,17.99,2022-02-22,,google_pay,0
+S000949,U00680,standard,13.99,2024-09-28,,google_pay,N
+S001502,U01090,standard,13.99,2024-04-07,2024-05-28,google_pay,yes
+S000858,U00616,basic,8.99,2024-09-26,2025-03-31,google_pay,no
+S000918,U00659,premium,17.99,2024-12-02,2025-03-31,apple_pay,no
+S001229,U00885,basic,8.99,"Dec 19, 2023",,google_pay,FALSE
+S001409,U01018,premium,17.99,2023-06-02,10/02/2023,google_pay,0
+S001770,U01279,standard,13.99,2022-09-14,2023-01-26,apple_pay,no
+S000710,U00517,basic,8.99,2023-10-29,2024-01-28,apple_pay,no
+S001000,U00719,standard,13.99,2024-10-13,"Mar 31, 2025",google_pay,no
+S000724,U00527,standard,13.99,2023-07-03,2023-12-05,apple_pay,true
+S000926,U00663,premium,17.99,25-10-2022,01-09-2023,google_pay,Y
+S001807,U01304,standard,13.99,08/05/2023,2024-04-21,google_pay,N
+S000777,U00566,standard,13.99,01/14/2022,2022-12-05,paypal,N
+S001046,U00754,premium,17.99,"Jul 25, 2022",07-05-2023,google_pay,0
+S000239,U00166,standard,13.99,2022-05-08,2022-12-31,google_pay,Y
+S000906,U00652,premium,17.99,"Feb 12, 2023",20-06-2023,apple_pay,FALSE
+S001171,U00848,standard,13.99,10/07/2024,,paypal,0
+S001266,U00914,basic,8.99,09-07-2022,2023-01-01,google_pay,false
+S001262,U00912,standard,13.99,2023-10-01,,apple_pay,false
+S000895,U00644,premium,17.99,2023-05-29,,credit_card,FALSE
+S001495,U01085,basic,8.99,"Apr 02, 2023",,apple_pay,FALSE
+S000943,U00676,premium,17.99,06/10/2022,,paypal,no
+S001242,U00894,standard,13.99,2024-07-25,,apple_pay,no
+S001234,U00888,standard,13.99,2024-04-01,03/31/2025,credit_card,0
+S000511,U00373,basic,8.99,2023-10-02,,paypal,no
+S001619,U01173,premium,17.99,2022-06-23,10-07-2023,apple_pay,yes
+S001123,U00810,standard,13.99,2024-09-12,2025-03-31,credit_card,FALSE
+S000338,U00241,premium,17.99,2022-06-08,,apple_pay,no
+S000620,U00454,premium,17.99,"Mar 29, 2024",,paypal,no
+S001975,U01429,standard,13.99,2024-05-23,2025-03-31,credit_card,0
+S001933,U01396,standard,13.99,2024-03-29,2024-08-06,credit_card,FALSE
+S001322,U00956,basic,8.99,2024-03-04,,paypal,0
+S001221,U00881,premium,17.99,2024-11-02,2025-02-22,credit_card,Y
+S000928,U00665,basic,8.99,2023-12-25,,google_pay,FALSE
+S001493,U01083,standard,13.99,2024-01-19,,apple_pay,no
+S001967,U01422,basic,8.99,2024-07-30,03/31/2025,paypal,FALSE
+S000598,U00435,premium,17.99,2023-09-19,,credit_card,false
+S000967,U00693,standard,13.99,"Nov 20, 2023",,credit_card,N
+S000038,U00026,standard,13.99,2024-11-21,,credit_card,FALSE
+S001689,U01227,basic,8.99,"May 12, 2022","Jun 19, 2022",google_pay,Y
+S001960,U01417,premium,17.99,2022-02-14,,google_pay,0
+S001754,U01269,basic,8.99,09/23/2023,01/29/2024,apple_pay,no
+S001542,U01119,standard,13.99,06-11-2024,,google_pay,N
+S000116,U00076,basic,8.99,09-04-2024,2024-09-05,google_pay,0
+S001304,U00944,basic,8.99,03/29/2022,"May 27, 2022",apple_pay,TRUE
+S001103,U00796,premium,17.99,2023-03-17,,apple_pay,N
+S000523,U00380,premium,17.99,02/17/2022,,paypal,no
+S001775,U01282,basic,8.99,2023-02-07,,paypal,FALSE
+S000265,U00190,standard,13.99,2024-02-12,,apple_pay,false
+S000733,U00533,premium,17.99,2022-08-14,2022-11-24,apple_pay,false
+S000475,U00345,standard,13.99,2024-06-04,,apple_pay,no
+S000714,U00520,basic,8.99,06/11/2023,,paypal,FALSE
+S001163,U00842,basic,8.99,2024-01-17,2025-02-03,credit_card,N
+S001124,U00811,premium,17.99,"Mar 06, 2024",2024-08-06,apple_pay,N
+S000911,U00654,premium,17.99,2024-10-17,,paypal,false
+S000066,U00047,standard,13.99,13-11-2022,2023-07-25,google_pay,N
+S002008,U01453,standard,13.99,"Dec 25, 2023",,apple_pay,false
+S000662,U00483,basic,8.99,2023-05-25,,apple_pay,FALSE
+S000157,U00105,basic,8.99,2023-11-28,,apple_pay,FALSE
+S000637,U00464,standard,13.99,2023-08-16,,paypal,false
+S000783,U00568,basic,8.99,20-01-2025,"Mar 09, 2025",credit_card,Y
+S000476,U00346,premium,17.99,21-11-2024,,paypal,FALSE
+S002038,U01477,standard,13.99,"Oct 25, 2023",2024-02-28,apple_pay,no
+S001887,U01360,premium,17.99,"Dec 24, 2023",2024-05-21,apple_pay,1
+S001357,U00978,premium,17.99,"Aug 28, 2023",,credit_card,false
+S000365,U00262,standard,13.99,2023-02-16,,apple_pay,FALSE
+S000606,U00441,premium,17.99,"Sep 30, 2024",,credit_card,0
+S002024,U01466,basic,8.99,04-03-2023,,apple_pay,N
+S000115,U00075,premium,17.99,04/26/2023,,paypal,false
+S001961,U01418,premium,17.99,2023-02-18,05/28/2023,paypal,no
+S001753,U01269,premium,17.99,03/08/2023,2023-09-20,apple_pay,FALSE
+S000396,U00286,basic,8.99,04-01-2024,"Oct 03, 2024",apple_pay,FALSE
+S001607,U01165,standard,13.99,01/07/2024,2024-09-03,paypal,FALSE
+S001335,U00964,premium,17.99,09/25/2022,2023-06-16,apple_pay,yes
+S000805,U00583,standard,13.99,02/01/2025,2025-03-27,paypal,TRUE
+S001551,U01127,basic,8.99,06-04-2024,,paypal,false
+S000632,U00462,basic,8.99,2024-09-22,"Dec 17, 2024",google_pay,0
+S001501,U01089,basic,8.99,27-08-2024,,paypal,0
+S001642,U01191,basic,8.99,"Sep 29, 2024",,paypal,N
+S001982,U01434,standard,13.99,06/30/2024,,google_pay,no
+S001935,U01397,premium,17.99,19-04-2024,2024-05-22,credit_card,TRUE
+S000192,U00130,basic,8.99,02-02-2024,,credit_card,0
+S000720,U00524,premium,17.99,2024-07-29,,google_pay,0
+S001809,U01305,basic,8.99,2024-11-20,"Jan 30, 2025",credit_card,no
+S000684,U00498,basic,8.99,2025-03-16,03/31/2025,credit_card,N
+S000438,U00317,basic,8.99,2022-04-24,,apple_pay,no
+S000249,U00174,basic,8.99,2024-06-10,31-03-2025,credit_card,FALSE
+S000348,U00250,standard,13.99,13-07-2022,02/07/2023,google_pay,Y
+S001272,U00919,standard,13.99,03-12-2023,14-05-2024,paypal,TRUE
+S000548,U00397,premium,17.99,04/02/2023,,paypal,no
+S000350,U00251,standard,13.99,2024-05-12,,apple_pay,no
+S000539,U00390,premium,17.99,05-09-2023,2024-08-22,google_pay,no
+S001094,U00789,standard,13.99,2023-12-23,04/13/2024,apple_pay,N
+S000136,U00090,basic,8.99,20-12-2024,2025-03-08,google_pay,TRUE
+S001028,U00739,standard,13.99,28-05-2023,,credit_card,0
+S000049,U00033,premium,17.99,07/14/2024,,credit_card,N
+S000864,U00620,basic,8.99,2022-03-28,,credit_card,FALSE
+S000627,U00459,standard,13.99,2024-11-05,,paypal,FALSE
+S000263,U00188,standard,13.99,2024-01-12,,apple_pay,FALSE
+S001663,U01208,basic,8.99,11/21/2024,2025-03-31,credit_card,no
+S001531,U01113,premium,17.99,15-11-2023,,apple_pay,0
+S001013,U00729,standard,13.99,10/28/2022,2023-02-08,paypal,FALSE
+S000847,U00609,basic,8.99,2024-09-07,,paypal,no
+S001126,U00812,basic,8.99,22-07-2023,2024-08-28,credit_card,Y
+S001784,U01287,standard,13.99,2022-12-23,09/04/2024,paypal,true
+S000219,U00150,standard,13.99,2023-04-18,,google_pay,FALSE
+S001744,U01262,premium,17.99,2022-06-29,2023-06-28,paypal,N
+S000994,U00713,basic,8.99,2024-12-25,"Mar 31, 2025",apple_pay,no
+S001318,U00953,premium,17.99,"Sep 17, 2024",,google_pay,0
+S001358,U00979,premium,17.99,08/29/2023,,paypal,0
+S000823,U00593,basic,8.99,2023-03-05,2023-05-09,apple_pay,false
+S000593,U00431,premium,17.99,2022-06-03,,credit_card,FALSE
+S000345,U00247,premium,17.99,03/08/2023,2023-07-08,paypal,true
+S000198,U00136,basic,8.99,2024-05-05,,paypal,no
+S000294,U00213,standard,13.99,2022-10-12,2022-12-24,apple_pay,no
+S002023,U01466,basic,8.99,09-02-2022,02/22/2023,apple_pay,false
+S001417,U01024,premium,17.99,16-09-2024,12/05/2024,credit_card,N
+S001100,U00794,premium,17.99,22-09-2024,31-03-2025,google_pay,N
+S000670,U00488,basic,8.99,2023-03-29,"Feb 24, 2024",google_pay,false
+S000236,U00165,standard,13.99,2022-09-05,2022-11-20,google_pay,0
+S000284,U00204,premium,17.99,16-08-2022,2023-03-23,google_pay,TRUE
+S001920,U01386,standard,13.99,2024-11-23,31-03-2025,paypal,N
+S000453,U00328,basic,8.99,"Dec 27, 2023",,paypal,FALSE
+S000281,U00201,premium,17.99,2024-03-13,2024-07-27,apple_pay,true
+S000954,U00683,premium,17.99,10-07-2023,,paypal,no
+S001361,U00982,premium,17.99,2024-02-05,,apple_pay,false
+S001881,U01355,basic,8.99,2023-06-11,,paypal,N
+S001314,U00952,standard,13.99,"Jul 31, 2022","Feb 18, 2023",google_pay,0
+S000555,U00402,premium,17.99,2025-01-30,03/02/2025,apple_pay,TRUE
+S001151,U00832,standard,13.99,2023-12-12,03/01/2024,credit_card,no
+S001431,U01036,premium,17.99,2024-09-06,12/08/2024,google_pay,FALSE
+S001691,U01228,premium,17.99,2023-01-16,2023-11-08,google_pay,1
+S001092,U00788,standard,13.99,2022-08-04,,apple_pay,no
+S000991,U00710,basic,8.99,2023-09-05,,credit_card,no
+S000370,U00267,standard,13.99,2023-05-31,,credit_card,N
+S001930,U01394,basic,8.99,2024-07-30,,paypal,false
+S000717,U00522,basic,8.99,2023-02-02,,apple_pay,FALSE
+S001643,U01192,standard,13.99,05-08-2023,02/29/2024,credit_card,false
+S000020,U00012,basic,8.99,2024-01-24,,apple_pay,FALSE
+S000851,U00611,premium,17.99,01-05-2024,,apple_pay,false
+S001083,U00779,standard,13.99,2024-07-09,,apple_pay,N
+S000444,U00323,premium,17.99,2022-09-22,03/31/2023,credit_card,FALSE
+S000948,U00680,standard,13.99,09/08/2023,2024-09-25,google_pay,N
+S001196,U00864,premium,17.99,2024-03-03,,apple_pay,0
+S001131,U00816,basic,8.99,2023-02-01,,apple_pay,N
+S000199,U00137,basic,8.99,2022-01-13,,credit_card,false
+S000818,U00590,basic,8.99,2024-02-01,09/14/2024,apple_pay,true
+S001789,U01291,standard,13.99,2023-06-09,,credit_card,N
+S000561,U00406,premium,17.99,12/25/2022,,paypal,0
+S001166,U00844,premium,17.99,06/25/2024,2024-12-31,google_pay,Y
+S000842,U00606,premium,17.99,29-04-2022,2023-02-24,apple_pay,false
+S000629,U00461,premium,17.99,"Nov 19, 2023",2024-06-11,paypal,false
+S000579,U00420,standard,13.99,2022-05-23,,credit_card,no
+S000912,U00655,basic,8.99,2022-08-16,,credit_card,no
+S000465,U00337,premium,17.99,2022-12-20,,credit_card,0
+S001843,U01328,basic,8.99,07/11/2023,,apple_pay,N
+S000739,U00537,standard,13.99,2024-05-30,,apple_pay,FALSE
+S000705,U00513,standard,13.99,2022-07-05,,apple_pay,no
+S001724,U01248,premium,17.99,23-04-2023,,paypal,N
+S001526,U01109,standard,13.99,2023-05-18,2024-06-03,credit_card,0
+S000452,U00328,basic,8.99,2023-04-09,21-12-2023,paypal,false
+S000409,U00294,basic,8.99,06/08/2023,2023-09-02,credit_card,no
+S001236,U00890,standard,13.99,2024-03-29,21-01-2025,paypal,N
+S001120,U00807,basic,8.99,02-03-2023,,google_pay,0
+S001632,U01183,basic,8.99,"Jun 16, 2023",,google_pay,N
+S000883,U00634,premium,17.99,2024-01-19,10/26/2024,credit_card,1
+S000683,U00498,basic,8.99,"Dec 23, 2024",2025-02-25,credit_card,FALSE
+S001134,U00819,standard,13.99,2022-08-18,2022-11-07,google_pay,0
+S000305,U00218,premium,17.99,04/23/2022,2022-06-12,google_pay,yes
+S000003,U00001,premium,17.99,04/13/2024,,apple_pay,FALSE
+S001091,U00787,premium,17.99,"Aug 31, 2022",,apple_pay,false
+S000568,U00411,standard,13.99,2024-01-07,06/20/2024,paypal,FALSE
+S000648,U00472,basic,8.99,2024-11-14,,paypal,false
+S000824,U00593,basic,8.99,26-05-2023,,apple_pay,0
+S001513,U01098,premium,17.99,01/06/2023,2023-02-07,paypal,yes
+S000362,U00260,basic,8.99,2022-10-19,,google_pay,0
+S000937,U00670,basic,8.99,02/03/2024,,apple_pay,false
+S001106,U00798,standard,13.99,"Sep 28, 2024",2025-02-17,paypal,0
+S000128,U00082,basic,8.99,"Oct 28, 2024",2025-03-31,apple_pay,false
+S001264,U00913,premium,17.99,15-11-2022,"Dec 14, 2023",google_pay,N
+S000674,U00491,basic,8.99,2023-04-13,,credit_card,no
+S001723,U01247,standard,13.99,05/15/2023,,apple_pay,FALSE
+S000470,U00340,standard,13.99,2022-02-22,,credit_card,false
+S000358,U00257,basic,8.99,06-08-2023,2023-12-09,apple_pay,false
+S001739,U01259,premium,17.99,2022-09-22,,apple_pay,no
+S000217,U00148,standard,13.99,2023-05-07,,apple_pay,FALSE
+S000006,U00002,premium,17.99,2022-11-10,,paypal,FALSE
+S000229,U00159,basic,8.99,02-12-2022,,apple_pay,0
+S001659,U01205,premium,17.99,2024-04-20,08/16/2024,credit_card,1
+S001155,U00835,premium,17.99,2022-01-27,,credit_card,no
+S000515,U00375,premium,17.99,02/04/2023,2023-08-28,paypal,FALSE
+S001384,U00999,standard,13.99,01/09/2024,,apple_pay,FALSE
+S001454,U01053,basic,N/A,"May 12, 2024",2025-02-22,credit_card,no
+S000592,U00430,premium,17.99,2022-09-18,2023-04-01,paypal,true
+S000972,U00697,premium,17.99,17-01-2024,"Jul 14, 2024",paypal,no
+S001177,U00853,basic,8.99,2022-11-05,06/02/2023,paypal,N
+S001043,U00752,basic,8.99,2023-04-01,14-06-2023,apple_pay,FALSE
+S001434,U01038,premium,17.99,06/08/2022,2022-10-28,google_pay,TRUE
+S001210,U00873,standard,13.99,09/19/2022,,credit_card,N
+S000458,U00332,premium,17.99,"Dec 06, 2023",2024-06-27,credit_card,false
+S000464,U00336,premium,17.99,2023-10-30,,paypal,no
+S001351,U00973,basic,8.99,2022-12-08,2023-06-16,paypal,false
+S000808,U00585,standard,13.99,11/01/2024,2025-03-31,google_pay,FALSE
+S001872,U01348,basic,8.99,2024-01-29,,credit_card,FALSE
+S001598,U01159,basic,8.99,02/12/2025,,apple_pay,no
+S001963,U01419,basic,8.99,2022-08-05,2022-09-17,google_pay,Y
+S001407,U01017,standard,13.99,2023-02-26,2023-05-27,apple_pay,N
+S001940,U01400,premium,17.99,"Aug 23, 2022",,apple_pay,no
+S000257,U00182,standard,13.99,2023-05-11,,credit_card,N
+S000015,U00009,standard,13.99,2022-09-19,"Dec 19, 2022",apple_pay,0
+S000314,U00224,premium,17.99,2024-06-05,,credit_card,N
+S001638,U01187,premium,17.99,2024-11-11,,paypal,0
+S000398,U00287,premium,17.99,2024-05-02,2025-02-26,paypal,0
+S002040,U01478,premium,17.99,09/11/2023,2024-01-24,google_pay,false
+S001030,U00740,standard,13.99,2025-02-14,2025-03-24,apple_pay,true
+S000871,U00626,standard,13.99,03/04/2023,"Jun 06, 2023",credit_card,N
+S001534,U01115,standard,13.99,02-10-2023,06/20/2024,google_pay,no
+S001313,U00951,standard,13.99,02/04/2023,,google_pay,0
+S000060,U00042,standard,13.99,2023-09-06,,credit_card,FALSE
+S001494,U01084,premium,17.99,2024-07-01,,apple_pay,N
+S001668,U01212,basic,8.99,2024-06-10,,apple_pay,false
+S000526,U00383,premium,17.99,2023-11-15,16-03-2024,apple_pay,FALSE
+S001251,U00902,basic,8.99,2022-02-11,,apple_pay,false
+S000860,U00618,standard,13.99,2022-02-27,2022-11-17,credit_card,N
+S000123,U00079,basic,8.99,"Feb 02, 2024",,paypal,N
+S001907,U01376,standard,13.99,2024-04-27,,paypal,N
+S000334,U00238,premium,17.99,27-04-2024,2024-12-28,credit_card,0
+S000312,U00224,standard,13.99,2022-08-04,2023-05-01,credit_card,FALSE
+S000058,U00041,standard,13.99,2024-04-05,2024-08-02,paypal,N
+S001377,U00993,basic,8.99,07/28/2023,2023-11-13,credit_card,1
+S000980,U00702,premium,17.99,24-04-2024,2025-02-22,apple_pay,false
+S000604,U00440,basic,8.99,02/08/2024,,credit_card,N
+S000071,U00049,premium,17.99,2024-10-29,,paypal,N
+S000608,U00443,premium,17.99,2022-05-05,,credit_card,false
+S001121,U00808,premium,17.99,2024-01-28,05/28/2024,credit_card,true
+S001330,U00961,standard,13.99,30-11-2022,,apple_pay,0
+S000427,U00309,premium,17.99,01/21/2023,"Nov 05, 2023",apple_pay,TRUE
+S001705,U01237,premium,17.99,05/09/2023,2023-09-10,google_pay,FALSE
+S001418,U01024,premium,17.99,2025-01-02,2025-03-31,credit_card,FALSE
+S000095,U00064,premium,17.99,2023-07-05,05/01/2024,credit_card,N
+S000008,U00004,basic,8.99,2023-05-13,,paypal,no
+S001331,U00962,premium,17.99,10/21/2022,"Apr 24, 2023",apple_pay,no
+S001259,U00910,premium,17.99,01/10/2024,2024-05-25,google_pay,false
+S000369,U00266,standard,13.99,2022-01-31,,google_pay,N
+S001936,U01398,basic,8.99,2022-01-10,2022-07-28,paypal,FALSE
+S000323,U00229,premium,17.99,02/17/2024,,credit_card,false
+S001547,U01124,basic,8.99,2023-03-16,2024-01-01,apple_pay,0
+S000904,U00651,standard,13.99,2022-08-29,"Dec 11, 2022",credit_card,false
+S000552,U00400,standard,13.99,2024-12-21,2025-02-06,google_pay,Y
+S000528,U00384,standard,13.99,02/11/2024,,apple_pay,false
+S001157,U00837,premium,17.99,2024-03-10,,paypal,no
+S001347,U00971,standard,13.99,10/12/2024,31-03-2025,credit_card,N
+S000045,U00030,standard,13.99,2025-02-09,,paypal,0
+S002041,U01478,premium,17.99,2024-02-23,,google_pay,0
+S000628,U00460,premium,17.99,2022-07-25,,google_pay,FALSE
+S000887,U00637,standard,13.99,2024-04-08,,paypal,N
+S000698,U00507,basic,8.99,2024-02-22,05-05-2024,google_pay,yes
+S000840,U00604,basic,8.99,02/22/2023,,google_pay,0
+S000601,U00437,premium,17.99,2023-11-22,,paypal,FALSE
+S000184,U00124,premium,17.99,2022-11-03,2023-01-11,paypal,no
+S001098,U00792,basic,8.99,2024-05-10,,paypal,no
+S000386,U00280,standard,13.99,2023-01-08,,google_pay,FALSE
+S000242,U00169,standard,13.99,"Oct 15, 2022",2023-03-12,google_pay,N
+S001600,U01161,premium,17.99,2022-03-27,30-12-2022,credit_card,N
+S001044,U00752,standard,13.99,06/22/2023,02-08-2023,apple_pay,yes
+S001349,U00972,basic,8.99,04/10/2024,"Jul 25, 2024",paypal,Y
+S000640,U00467,premium,17.99,06/14/2023,12/10/2023,paypal,0
+S000138,U00091,basic,8.99,2024-05-04,2025-03-31,apple_pay,N
+S001295,U00936,basic,8.99,2024-12-18,,credit_card,0
+S000610,U00445,standard,13.99,2024-01-27,2024-05-18,apple_pay,no
+S001561,U01132,basic,8.99,10-01-2023,,paypal,N
+S000999,U00718,premium,17.99,2023-04-22,,apple_pay,FALSE
+S001261,U00911,premium,17.99,09-03-2022,2022-07-16,apple_pay,true
+S000756,U00550,standard,13.99,2023-05-14,,credit_card,no
+S001738,U01258,basic,8.99,"Oct 23, 2024",,credit_card,0
+S001695,U01231,basic,8.99,01-02-2024,"Mar 01, 2025",google_pay,no
+S000569,U00411,standard,13.99,16-07-2024,,paypal,N
+S002014,U01458,premium,17.99,2023-02-19,21-11-2023,paypal,false
+S001679,U01220,basic,8.99,2022-03-24,2022-08-16,apple_pay,no
+S000958,U00686,standard,13.99,2024-05-31,,credit_card,N
+S000959,U00687,standard,13.99,04-06-2023,,google_pay,no
+S000930,U00667,standard,13.99,31-05-2024,11/27/2024,google_pay,false
+S000962,U00690,basic,8.99,2024-12-19,,credit_card,N
+S001024,U00736,basic,8.99,18-10-2022,,google_pay,false
+S000834,U00601,basic,8.99,07/12/2023,,google_pay,no
+S001794,U01294,basic,8.99,14-11-2023,2024-03-20,credit_card,1
+S000099,U00066,premium,17.99,2023-08-10,10/17/2023,apple_pay,FALSE
+S000377,U00273,premium,17.99,04/01/2023,,google_pay,FALSE
+S000473,U00343,premium,17.99,2024-11-27,,credit_card,N
+S001181,U00855,standard,13.99,11-12-2022,,google_pay,N
+S002035,U01474,standard,13.99,11/14/2024,2025-03-31,paypal,N
+S001722,U01246,standard,13.99,2024-06-07,,apple_pay,FALSE
+S000681,U00496,basic,8.99,2022-09-25,2023-10-19,google_pay,Y
+S000856,U00615,basic,8.99,2022-06-18,2023-06-15,credit_card,no
+S001203,U00868,standard,13.99,2022-02-13,,google_pay,FALSE
+S000083,U00057,premium,17.99,2023-03-13,,paypal,FALSE
+S000238,U00165,standard,13.99,2024-01-12,,google_pay,false
+S000490,U00356,standard,13.99,2024-11-12,,google_pay,N
+S001478,U01073,premium,17.99,2022-05-14,"Jul 04, 2022",google_pay,yes
+S000084,U00058,standard,13.99,2023-02-17,,google_pay,false
+S001090,U00786,standard,13.99,06/29/2022,,credit_card,no
+S000877,U00629,standard,13.99,"Jun 04, 2024",,apple_pay,0
+S002003,U01451,basic,8.99,"Jun 15, 2022",2022-08-17,google_pay,true
+S001282,U00927,standard,13.99,2022-12-27,,credit_card,0
+S001472,U01068,premium,17.99,"Nov 16, 2022",2023-03-13,google_pay,N
+S000545,U00394,basic,8.99,11-02-2024,,paypal,false
+S000451,U00327,standard,13.99,2022-08-28,,credit_card,FALSE
+S001766,U01276,standard,13.99,05/12/2024,,credit_card,FALSE
+S000770,U00560,standard,13.99,03/26/2024,,paypal,FALSE
+S000062,U00044,premium,17.99,2024-11-13,31-03-2025,google_pay,false
+S001195,U00864,standard,13.99,20-03-2023,"Feb 22, 2024",apple_pay,no
+S001255,U00906,standard,13.99,2023-09-11,,apple_pay,false
+S000602,U00438,standard,13.99,2024-10-26,12/12/2024,paypal,TRUE
+S000161,U00109,standard,13.99,2023-06-26,2024-04-28,google_pay,true
+S000709,U00516,basic,8.99,17-03-2023,2023-07-21,paypal,Y
+S001613,U01169,premium,17.99,"May 01, 2024",11/25/2024,paypal,FALSE
+S001759,U01273,premium,17.99,07-11-2022,,paypal,no
+S001218,U00878,standard,13.99,2024-12-20,,google_pay,N
+S001635,U01184,standard,13.99,"Dec 15, 2024",,credit_card,no
+S000820,U00591,standard,13.99,27-06-2024,,credit_card,0
+S001127,U00813,standard,13.99,2022-03-30,,apple_pay,N
+S001937,U01398,premium,17.99,2022-07-31,04/15/2023,paypal,FALSE
+S001995,U01446,premium,17.99,"Aug 03, 2024",,google_pay,no
+S001154,U00834,standard,13.99,"Mar 07, 2024",,paypal,0
+S001172,U00849,premium,17.99,2022-07-08,,paypal,0
+S000319,U00227,standard,13.99,03/05/2023,,google_pay,FALSE
+S001466,U01063,standard,13.99,2023-03-29,2023-08-09,apple_pay,FALSE
+S000767,U00559,standard,13.99,2024-07-30,,google_pay,FALSE
+S001414,U01021,premium,17.99,02/22/2024,,credit_card,false
+S000082,U00056,basic,8.99,31-08-2024,31-03-2025,google_pay,0
+S000259,U00184,premium,17.99,2023-09-24,,credit_card,FALSE
+S001410,U01018,premium,17.99,2023-10-22,,google_pay,N
+S001202,U00867,standard,13.99,15-03-2023,,paypal,FALSE
+S001922,U01388,basic,8.99,2023-10-09,2024-06-18,google_pay,yes
+S001762,U01274,basic,8.99,01/29/2024,,apple_pay,no
+S000729,U00531,basic,8.99,2024-02-08,2024-10-03,google_pay,FALSE
+S001730,U01253,basic,8.99,02/18/2025,,google_pay,no
+S001355,U00976,standard,13.99,2022-05-25,,apple_pay,N
+S000597,U00434,premium,17.99,24-08-2023,,apple_pay,false
+S000800,U00580,basic,8.99,"Apr 27, 2024",,paypal,N
+S000647,U00471,basic,8.99,2022-05-02,,credit_card,false
+S000621,U00455,premium,17.99,2023-09-15,11-03-2024,apple_pay,false
+S000383,U00277,premium,17.99,2024-02-12,,google_pay,N
+S001645,U01193,premium,17.99,08/25/2023,11/30/2024,credit_card,1
+S001523,U01107,standard,13.99,24-09-2023,2024-03-16,google_pay,1
+S001578,U01145,premium,17.99,2023-04-24,,credit_card,N
+S000993,U00712,standard,13.99,2024-07-13,01/06/2025,google_pay,true
+S001327,U00959,basic,8.99,22-10-2022,,credit_card,false
+S000554,U00402,premium,17.99,10/15/2024,2025-01-20,apple_pay,FALSE
+S001608,U01165,basic,8.99,11-09-2024,,paypal,no
+S000218,U00149,premium,17.99,11/12/2022,2023-10-29,apple_pay,TRUE
+S001142,U00825,premium,17.99,2022-12-07,,google_pay,0
+S000077,U00053,premium,17.99,2022-08-20,2022-10-23,paypal,FALSE
+S001951,U01409,basic,8.99,04/11/2023,,credit_card,N
+S000009,U00005,basic,8.99,2023-05-14,2024-05-10,paypal,0
+S000872,U00626,standard,13.99,2023-06-27,,credit_card,FALSE
+S000763,U00555,premium,17.99,26-07-2022,2023-04-15,apple_pay,yes
+S000785,U00570,basic,8.99,2024-09-11,,paypal,0
+S000091,U00062,basic,8.99,"Aug 21, 2022",2023-09-11,apple_pay,0
+S001525,U01108,standard,13.99,"Jan 06, 2025",03/31/2025,apple_pay,false
+S000209,U00144,standard,13.99,10/08/2022,,apple_pay,0
+S000140,U00093,premium,17.99,2022-11-28,2023-03-08,google_pay,false
+S001541,U01119,standard,13.99,2023-10-25,10/31/2024,google_pay,no
+S000211,U00146,basic,8.99,22-11-2022,08/30/2023,paypal,no
+S002066,U01494,premium,17.99,06/03/2024,2025-03-31,paypal,FALSE
+S000801,U00581,basic,8.99,2023-11-06,2024-02-17,google_pay,true
+S000430,U00311,premium,17.99,2023-01-27,"Apr 11, 2023",apple_pay,1
+S001540,U01119,premium,17.99,2023-05-12,2023-10-24,google_pay,no
+S001315,U00952,basic,8.99,"Feb 19, 2023",,google_pay,0
+S002039,U01477,standard,13.99,2024-02-28,,apple_pay,no
+S000448,U00325,premium,17.99,2023-05-07,11/15/2023,apple_pay,no
+S000901,U00648,premium,17.99,"Aug 20, 2023",,credit_card,false
+S002069,U01496,premium,17.99,"Oct 31, 2022",08/07/2023,apple_pay,true
+S001051,U00756,basic,8.99,2023-08-05,,paypal,no
+S000241,U00168,standard,13.99,"Apr 23, 2024",,apple_pay,FALSE
+S000002,U00001,standard,13.99,29-07-2023,2024-04-08,apple_pay,0
+S001015,U00730,premium,17.99,04/23/2023,06-12-2023,paypal,false
+S001962,U01418,standard,13.99,26-06-2023,,paypal,0
+S001666,U01210,premium,17.99,2024-09-23,,paypal,false
+S001791,U01292,premium,17.99,2023-07-20,,paypal,0
+S000562,U00407,premium,17.99,01/21/2022,,paypal,N
+S000033,U00022,standard,13.99,2023-12-16,,google_pay,0
+S001577,U01144,basic,8.99,08-05-2024,,google_pay,false
+S000617,U00451,premium,17.99,20-04-2023,,google_pay,false
+S000352,U00253,basic,8.99,2022-08-03,08/22/2023,google_pay,0
+S001669,U01213,premium,17.99,08/05/2022,,credit_card,FALSE
+S000032,U00021,premium,17.99,2023-09-21,2023-11-23,apple_pay,true
+S000469,U00339,basic,8.99,05/30/2024,2024-11-26,credit_card,yes
+S001664,U01209,premium,17.99,2024-08-06,2025-03-31,google_pay,false
+S001320,U00955,basic,8.99,2024-06-13,2025-02-26,google_pay,no
+S001233,U00887,standard,13.99,04/04/2023,,credit_card,N
+S000916,U00658,standard,13.99,11-08-2022,,google_pay,FALSE
+S001387,U01001,basic,8.99,14-04-2024,,credit_card,N
+S000028,U00019,standard,13.99,2023-08-20,,paypal,N
+S001799,U01298,standard,13.99,27-07-2023,2024-12-19,google_pay,1
+S001867,U01345,premium,17.99,2024-07-29,12/04/2024,google_pay,0
+S001604,U01163,premium,17.99,"Oct 20, 2024",,paypal,false
+S001661,U01206,premium,17.99,2024-08-21,,apple_pay,false
+S000248,U00173,standard,13.99,2023-09-13,,paypal,FALSE
+S001808,U01304,basic,8.99,2024-04-28,,google_pay,0
+S000571,U00413,basic,8.99,07/08/2023,"Apr 02, 2024",credit_card,Y
+S001704,U01236,standard,13.99,19-05-2023,,credit_card,false
+S001399,U01010,premium,17.99,14-05-2023,,google_pay,no
+S001929,U01393,premium,17.99,2023-10-06,,paypal,N
+S001824,U01314,premium,17.99,24-02-2023,09/13/2023,google_pay,FALSE
+S000117,U00076,basic,8.99,2024-09-14,2024-12-30,google_pay,0
+S001697,U01232,basic,8.99,07-08-2023,"Mar 21, 2024",credit_card,false
+S001464,U01062,standard,13.99,2022-08-11,,apple_pay,false
+S000411,U00294,basic,8.99,2024-06-10,,credit_card,N
+S001329,U00961,standard,13.99,2022-05-23,11/27/2022,apple_pay,0
+S000656,U00478,basic,8.99,2023-09-11,,apple_pay,N
+S001458,U01056,premium,17.99,"Jan 29, 2024",,google_pay,N
+S000779,U00566,standard,13.99,26-09-2023,,paypal,no
+S001959,U01416,basic,8.99,2022-06-06,,paypal,false
+S001168,U00845,basic,8.99,2023-05-06,,credit_card,0
+S001819,U01311,basic,8.99,2023-06-26,,google_pay,false
+S001023,U00735,basic,8.99,"May 19, 2024",,paypal,false
+S000499,U00364,premium,17.99,"Apr 02, 2024",2024-06-08,google_pay,Y
+S000025,U00016,standard,13.99,"Aug 14, 2023",,google_pay,no
+S001700,U01233,standard,13.99,2025-03-22,,paypal,false
+S001743,U01261,standard,13.99,2025-03-01,,apple_pay,FALSE
+S000983,U00704,standard,13.99,"Apr 30, 2023","Dec 14, 2023",apple_pay,FALSE
+S001122,U00809,standard,13.99,01-01-2023,,paypal,false
+S000496,U00361,premium,17.99,2024-11-08,2025-03-31,google_pay,FALSE
+S000667,U00486,premium,17.99,2023-08-22,"Apr 16, 2024",paypal,N
+S000403,U00290,premium,17.99,16-04-2022,2023-01-13,apple_pay,false
+S001465,U01063,standard,13.99,2022-06-28,12-03-2023,apple_pay,false
+S001049,U00755,basic,8.99,10/13/2024,2025-03-31,apple_pay,no
+S001571,U01139,standard,13.99,2022-08-04,,google_pay,false
+S001891,U01364,standard,13.99,2022-04-14,2023-03-03,credit_card,no
+S000148,U00100,premium,17.99,2024-07-16,2024-09-01,paypal,1
+S000076,U00052,premium,17.99,2024-03-10,,apple_pay,FALSE
+S001698,U01232,basic,8.99,2024-04-16,2024-05-19,credit_card,yes
+S001299,U00939,standard,13.99,06/12/2023,,credit_card,N
+S001018,U00732,standard,13.99,2024-02-14,,credit_card,FALSE
+S001532,U01114,standard,13.99,2024-03-09,,credit_card,false
+S001436,U01040,standard,13.99,2022-08-17,,paypal,FALSE
+S000565,U00409,basic,8.99,2023-01-25,,google_pay,false
+S001001,U00720,basic,8.99,2023-02-26,2023-09-14,paypal,TRUE
+S001499,U01088,basic,8.99,2024-10-22,2025-02-03,google_pay,N
+S001640,U01189,premium,17.99,22-01-2022,,apple_pay,false
+S002042,U01479,premium,17.99,2023-08-26,,paypal,no
+S001250,U00901,standard,13.99,2023-08-25,,paypal,no
+S001895,U01366,basic,8.99,01-09-2023,,google_pay,false
+S001805,U01302,basic,8.99,2024-10-20,,credit_card,false
+S000651,U00475,basic,8.99,2022-09-05,08/16/2023,apple_pay,false
+S000976,U00699,premium,17.99,10/27/2023,,apple_pay,FALSE
+S000685,U00499,basic,8.99,18-03-2023,,credit_card,FALSE
+S000164,U00111,standard,13.99,2023-10-17,"Dec 29, 2023",apple_pay,true
+S000700,U00509,premium,17.99,"Jan 11, 2024",2024-11-21,apple_pay,N
+S001192,U00863,basic,8.99,2024-06-07,2024-10-31,credit_card,false
+S000687,U00501,premium,17.99,"Jan 30, 2023",2024-01-14,credit_card,0
+S001857,U01338,premium,17.99,2023-07-12,2023-10-09,google_pay,false
+S002006,U01452,standard,13.99,2024-10-31,,paypal,false
+S000985,U00705,basic,8.99,2022-10-20,,credit_card,0
+S000578,U00419,standard,13.99,11-04-2022,05/22/2022,google_pay,1
+S001568,U01136,standard,13.99,2022-05-03,,credit_card,0
+S000734,U00533,premium,17.99,2022-12-11,,apple_pay,N
+S001836,U01322,basic,8.99,2022-06-22,,apple_pay,N
+S000557,U00403,standard,13.99,2023-02-04,,apple_pay,0
+S000832,U00600,basic,8.99,30-11-2023,21-04-2024,credit_card,no
+S001473,U01068,premium,17.99,2023-04-04,,google_pay,0
+S001616,U01170,premium,17.99,2022-10-09,,google_pay,0
+S001818,U01311,basic,8.99,"Dec 16, 2022",19-06-2023,google_pay,no
+S000240,U00167,premium,17.99,14-09-2023,,google_pay,N
+S000984,U00704,standard,13.99,"Jan 13, 2024",,apple_pay,0
+S001429,U01034,basic,8.99,2023-07-24,12/01/2024,credit_card,TRUE
+S001976,U01430,standard,13.99,02-12-2024,03/31/2025,google_pay,false
+S000001,U00001,standard,13.99,28-01-2023,2023-07-29,apple_pay,0
+S001644,U01192,standard,13.99,2024-03-14,,credit_card,0
+S001475,U01070,standard,13.99,12/17/2023,,google_pay,false
+S001876,U01351,basic,8.99,15-04-2023,,apple_pay,FALSE
+S000151,U00102,standard,13.99,2022-08-17,,apple_pay,N
+S001734,U01255,standard,13.99,20-05-2023,,credit_card,no
+S000491,U00357,premium,17.99,2022-10-19,2023-10-04,apple_pay,TRUE
+S001932,U01395,basic,8.99,2024-11-02,,credit_card,no
+S001957,U01414,standard,13.99,2023-05-22,,credit_card,false
+S000070,U00049,basic,8.99,2023-12-05,10/07/2024,paypal,no
+S000486,U00353,basic,8.99,09-07-2022,2023-06-30,apple_pay,0
+S000732,U00533,basic,8.99,"Mar 07, 2022",2022-08-06,apple_pay,0
+S001651,U01199,basic,8.99,31-08-2024,,paypal,false
+S001440,U01043,standard,13.99,08-08-2022,"Dec 07, 2022",paypal,true
+S001360,U00981,premium,17.99,2023-03-29,06/10/2023,paypal,TRUE
+S001690,U01228,premium,17.99,2022-06-29,2023-01-12,google_pay,no
+S001402,U01012,standard,13.99,07/25/2024,2025-03-31,google_pay,FALSE
+S001662,U01207,premium,17.99,02/08/2024,22-04-2024,credit_card,Y
+S000899,U00646,basic,8.99,09-03-2024,,credit_card,0
+S001423,U01029,standard,13.99,05/28/2024,31-03-2025,apple_pay,FALSE
+S001621,U01175,standard,13.99,2023-03-22,23-05-2023,paypal,N
+S000836,U00603,basic,8.99,"Dec 05, 2023",15-03-2024,credit_card,no
+S000210,U00145,standard,13.99,2024-10-17,,apple_pay,N
+S000582,U00423,premium,17.99,2022-04-30,2022-08-21,credit_card,TRUE
+S001067,U00770,premium,17.99,17-08-2022,,apple_pay,N
+S000760,U00553,basic,8.99,15-04-2023,2023-11-20,credit_card,N
+S000546,U00395,basic,8.99,2022-03-12,,apple_pay,no
+S001383,U00998,basic,8.99,2022-01-08,,google_pay,no
+S001718,U01243,standard,13.99,23-04-2023,,credit_card,0
+S001861,U01340,standard,13.99,2024-02-04,2025-01-21,apple_pay,no
+S000243,U00169,premium,17.99,08-04-2023,,google_pay,false
+S000641,U00467,premium,17.99,12/28/2023,,paypal,N
+S000018,U00010,basic,8.99,05-01-2024,2024-07-08,paypal,yes
+S001520,U01104,basic,8.99,2024-11-14,,credit_card,FALSE
+S000965,U00692,basic,8.99,12-10-2023,,google_pay,no
+S001749,U01265,standard,13.99,"Jun 22, 2024",,apple_pay,0
+S001999,U01448,basic,8.99,2023-11-17,11/27/2024,google_pay,true
+S001490,U01081,basic,8.99,2024-05-04,"Jan 12, 2025",credit_card,FALSE
+S001096,U00790,basic,8.99,2024-01-08,,credit_card,0
+S001628,U01180,standard,13.99,2024-10-17,03/31/2025,google_pay,no
+S001518,U01103,premium,17.99,2024-02-29,2024-07-25,credit_card,FALSE
+S001209,U00872,standard,13.99,2024-08-15,,google_pay,no
+S000267,U00191,premium,17.99,2023-03-27,,apple_pay,0
+S001489,U01080,basic,8.99,2023-08-03,15-09-2023,google_pay,Y
+S000027,U00018,premium,17.99,04/24/2024,,google_pay,false
+S000559,U00404,basic,8.99,13-07-2022,,credit_card,N
+S000833,U00600,standard,13.99,2024-05-17,,credit_card,N
+S001424,U01030,standard,13.99,2022-08-27,2022-10-27,credit_card,FALSE
+S001575,U01143,premium,17.99,2024-03-17,2024-12-10,google_pay,FALSE
+S000695,U00506,basic,8.99,2022-08-30,2023-08-31,apple_pay,no
+S000112,U00073,standard,13.99,12-02-2025,2025-03-30,apple_pay,yes
+S001716,U01242,premium,17.99,04/14/2024,2024-11-29,google_pay,0
+S000989,U00709,standard,13.99,01/09/2022,2022-08-25,google_pay,0
+S001665,U01210,premium,17.99,2024-05-05,2024-08-30,paypal,N
+S001859,U01339,basic,8.99,2023-01-04,,credit_card,false
+S000827,U00596,standard,13.99,26-03-2024,,google_pay,false
+S001323,U00957,standard,13.99,2022-05-09,01-06-2023,paypal,FALSE
